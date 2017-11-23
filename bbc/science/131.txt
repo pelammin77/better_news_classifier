@@ -1,0 +1,36 @@
+Alzheimer's Tau protein forms toxic complexes with cell membranes
+The brains of patients with Alzheimer's disease contain characteristic tangles inside neurons. These tangles are formed when a protein called Tau aggregates into twisted fibrils. As a result, the neurons' transport systems disintegrate, essential nutrients can't move through, and the cells begin to die, affecting the brain's functions and giving rise to the disease's symptoms.
+
+Given its role in the pathology of Alzheimer's disease, Tau protein has been extensively investigated. With several clinical trials of amyloid-targeting therapies failing recently, Tau has become one of the most actively pursued therapeutic targets for Alzheimer's disease. However, questions still remain about how Tau spreads in the brain and kills neurons. The cell membrane has been shown to play a role in regulating Tau's aggregation properties and physiological functions, but we still do not understand how the interplay between Tau and lipid membranes can lead to the loss of neurons seen in Alzheimer's disease.
+
+Now, the lab of Hilal Lashuel at EPFL, in collaboration with the lab of Thomas Walz at the Rockefeller University, found that individual Tau proteins interact with and disrupt the cell membrane of neurons. This disruption gives rise to highly stable complexes made up of several Tau proteins as well as fat molecules (phospholipids) from the membrane.
+
+Subsequent studies showed that the protein/phospholipid complexes are more readily taken up by neurons compared to the fibril form of the protein, and induce toxicity in primary neurons of the hippocampus in vitro. The hippocampus is where memory is processed, and loss of hippocampal neurons is a classic symptom of Alzheimer's disease. The complexes were detectable with an antibody (MC-1) that is used as a standard for detecting pathological conformations of Tau, meaning that they share some features of the pathological form of the protein.
+
+"Our goal was to identify the sequence and structural factors that drive Tau interaction with membranes and the formation of these complexes so that we can develop strategies to interfere with their formation and block their toxicity," says Nadine Ait Bouziad, the PhD student who led the study.
+
+In collaboration with Professor David Eliezer at Weill Cornell School of Medical Sciences in New York, the researchers used Nuclear Magnetic Resonance (NMR) to gain insight into the structure of Tau in the core of the complexes. This revealed that the cores are made up of two small peptides, each only six amino acids long. These peptides are called PHF6* and PHF6, and they play important roles in driving Tau aggregation and assembly into fibrils. Their presence connects the protein/phospholipid complexes with the development of Alzheimer's disease.
+
+Building on their findings, the researchers were able to produce mutant Tau protein. The introduced mutations disrupted Tau's ability to interact with cell membranes, but did so without interfering with its ability to form fibrils. The idea behind this is that such mutants can be used to uncouple these two processes, which would allow researchers to investigate the effect that these membrane interactions have on the function, aggregation and toxicity of Tau in primary neuron cultures. This would be a first step in gaining a clearer picture of how Tau tangles begin to form, which would be critical if we are to develop efficient therapies to counteract their toxicity.
+
+"Our findings point toward a novel form of Tau protein/phospholipid complexes that might be part of a membrane-dependent mechanism that regulates Tau structure, oligomerization, toxicity, and possibly its normal and aberrant trafficking between and within neurons," says Hilal Lashuel. "By developing tools that allow us to detect, disrupt and/or target these complexes, we hope to identify novel strategies to inhibit Tau aggregation, toxicity, and pathology spreading in the Alzheimer's brain."
+
+###
+
+Contributions
+
+Weill Cornell Medicine
+
+The Rockefeller University
+
+Funding
+
+AC Immune
+
+EPFL
+
+US National Institutes of Health (NIH)
+
+Reference
+
+Nadine Ait-Bouziad, Guohua Lv, Anne-Laure Mahul-Mellier, Shifeng Xiao, Gizem Zorludemir, David Eliezer, Thomas Walz, Hilal A. Lashuel. Discovery and Characterization of Stable and Toxic Tau/Phospholipid Oligomeric Complexes. Nature Communications 22 November 2017. DOI: 10.1038/s41467-017-01575-4

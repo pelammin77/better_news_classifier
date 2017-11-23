@@ -1,0 +1,64 @@
+Should Uber users be worried about data hack?
+The theft of the personal data of 57 million Uber riders and drivers highlights how vulnerable we make ourselves when we install apps on our mobile phones and tablet computers.
+
+What happened?
+
+Uber chief executive Dara Khosrowshahi said Tuesday that hackers had compromised personal data from some 57 million riders and drivers in a breach kept hidden for a year.
+
+Stolen files included names, email addresses, and mobile phone numbers for riders, and the names and driver license information of some 600,000 drivers, according to Uber.
+
+Uber is notifying drivers whose license numbers were swiped, and offering them credit and identity theft protection.
+
+The company also said it is notifying regulators, and monitoring affected rider accounts for signs of fraud.
+
+How did hackers do it?
+
+The stolen data are thought to have been stored on an external server of Amazon Web Services—a division of Amazon offering cloud data storage facilities. Two hackers gained access to it using the log-ins of Uber employees taken from an account at the software development platform, GitHub.
+
+What did Uber do wrong?
+
+Aside from the problem of safeguarding the data, Uber sought to keep the breach quiet.
+
+CEO Khosrowshahi—who took over at the end of August—has acknowledged wondering why it took Uber a year to make the breach public.
+
+He also admitted that the company failed in not immediately informing the users affected or the authorities. His predecessor, Uber's co-founder Travis Kalanick, was advised of the breach shortly after it was discovered, according to a source familiar with the situation.
+
+Uber paid the hackers $100,000 to destroy the data, not telling riders or drivers whose information was at risk, the source said.
+
+Who is affected?
+
+A lot of people. While Uber has not said exactly which users were affected, the number of 57 million is enormous, considering that former CEO Travis Kalanick said in October 2016—roughly when the breach took place—that Uber had 40 million users worldwide.
+
+Sean Sullivan, security advisor at Finnish company F-Secure, suggested that companies tend to downplay the number of people affected, while the hackers exaggerate their "booty".
+
+An outside party was needed to undertake an in-depth investigation, he said.
+
+Gerome Billois, cybersecurity specialist at consultancy Wavestone, said that nasty surprises or "aftershocks" could not be ruled out.
+
+"In the case of private individuals, we need to wait a bit," he said.
+
+What are the consequences for users?
+
+For the moment, not a lot, even if the volume of the data would represent a sizeable market value for cybercriminals. Users may perhaps receive a lot of spam or ads on their mobile phone.
+
+Experts quizzed by AFP pointed out, however, that with the names, email addresses and telephone numbers, hackers could orchestrate phishing campaigns by creating fake Uber accounts, asking users to "confirm" their banking details or to click on links that would allow viruses into their devices.
+
+What can you do?
+
+"Not a lot," said Jerome Robert, marketing chief at EclecticIQ, a Dutch company specialising in cyber threats. Users could try to protect their identity by providing the wrong date of birth, or a false telephone number. But "in the end, that won't work because there are verifications," he said.
+
+It may just be a matter of crossing your fingers and hoping for the best. We all more or less have to trust the apps we download. But don't provide personal data to apps that aren't trusted. At the very least, use an alternative email address for these sorts of services, not your main address.
+
+What are the consequences for Uber?
+
+Fines, certainly, especially as Uber sought to hide the breach.
+
+In the United States, Donald Trump's administration might be more lenient than that of his predecessor Barack Obama, said Sean Sullivan of F-Secure.
+
+In Europe, the General Data Protection Regulation is scheduled to come into force in May 2018. Under that measure, companies that have lost personal data may be fined up to four percent of their revenues. In the case of Uber, this would be $260 million.
+
+Sullivan said Uber might find it more difficult to have its licence renewed in London, not to mention the bad publicity.
+
+"If they don't pay a fine, they are going to pay a cost."
+
+Explore further: Uber reveals cover-up of hack affecting 57M riders, drivers (Update)

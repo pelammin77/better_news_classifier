@@ -1,0 +1,58 @@
+New Gene Treatment Effective for Some Leukemia Patients
+In some cases, those two treatments have brought long and seemingly miraculous remissions to people who were expected to die.
+
+Kymriah and Yescarta require removing millions of each patient’s T-cells — disease-fighting white blood cells — and genetically engineering them to seek and destroy cancer cells. The T-cells are then dripped back into the patient, where they home in on protein molecules called CD19 found on malignant cells in most types of leukemia and lymphoma.
+
+The new treatment differs in a major way: the T-cells are programmed to attack a different target on malignant cells, CD22.
+
+Researchers have been eager to test this type of T-cell. One reason is that they hoped to find that CD19 was not the only vulnerable target, “not some kind of unicorn,” said Dr. Crystal L. Mackall, the senior author of the study and the associate director of the Stanford University School of Medicine’s cancer institute. Cancer cells are highly adaptable and often find ways to evade treatments aimed at only one target.
+
+“The idea that we could have one magic bullet is naïve,” she said.
+
+Another reason is that some patients with leukemia or lymphoma do not have CD19 on their cells, so the existing T-cell treatments do not work for them.
+
+Advertisement Continue reading the main story
+
+Other patients, perhaps 30 percent or more, have CD19 at first and go into remission when treated, but then lose the protein and relapse within six months — a wrenching outcome for patients and their families, whose hopes soar and then crash.
+
+In theory, a treatment that goes after a different target could rescue patients who lack CD19 or lose it.
+
+An even more important reason for the interest in a new type of engineered T-cell is that it would enable scientists to develop combination immunotherapy that would attack cancer cells on different fronts at the same time — a proven key to success with chemotherapy.
+
+Dr. Mackall said a new T-cell treatment that attacks both targets at once is already being tested at Stanford. Last week, Seattle Children’s also opened a study of this combination treatment for children and young adults.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“The best way to go is to treat up front with a combination of 19 and 22,” said Dr. Carl H. June, a pioneer in T-cell treatments at the University of Pennsylvania, which he said would also be studying the treatment.
+
+“That should make it ‘game over’ for the leukemia. I think that will paint it into a corner, and we’ll no longer see that kind of relapse. I’m really excited about it.”
+
+The report in Nature Medicine is the first to describe a study of a treatment targeting CD22 in humans. The therapy was developed at the National Cancer Institute, and Dr. Mackall said researchers did not know if a company would try to bring it to market.
+
+The subjects were 21 children and adults from 7 to 30 years old, with B-cell acute lymphoblastic leukemia who had run out of options for treatment. Many had already been treated with T-cells directed at CD19 and had relapsed.
+
+All had undergone at least one bone-marrow transplant, an arduous treatment with severe side effects.
+
+Advertisement Continue reading the main story
+
+Different doses of the T-cells were tested. At the lowest dose, one of six patients had a complete remission, meaning that all signs of leukemia went away.
+
+But at a higher dose, 11 of the remaining 15 — 73 percent — had complete remissions, which lasted a median of six months. Three are still in remission, at six, nine and 21 months after being treated.
+
+The results, the researchers say, are comparable to those achieved with T-cells directed at CD19.
+
+The study is the first to show that patients who had previously been given CD19 treatment and relapsed could later be rescued by a different T-cell treatment, said Dr. Terry J. Fry, the first author of the study, from the National Cancer Institute.
+
+“You have a potent salvage regimen,” he said.
+
+The study may be able to treat 50 or 60 more patients, Dr. Fry said. Patients are on a waiting list to get in.
+
+“They don’t have other options,” Dr. Fry said.
+
+But though some have long remissions, for others the relapse rate is high. A sobering discovery, Dr. Mackall said, was that the cancer cells did not have to lose all their CD22 molecules, but only some, to escape the T-cells.
+
+After relapses, a number of the patients died, Dr. Fry said.
+
+“In pediatric oncology, a three-month remission, it’s great but it’s not where we want to be,” he said. “We want to cure patients. How do you improve on what’s already been demonstrated as an effective therapy?”
+
+“The concept of cancer treatment is combining multiple types of therapies. This opens the door to try to use multiple targets to try to chip away at resistance.”

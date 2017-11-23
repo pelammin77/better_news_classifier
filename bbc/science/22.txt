@@ -1,0 +1,46 @@
+Think Like a Doctor: The Tired Gardener Solved!
+Think Like a Doctor Solve a medical mystery with Dr. Lisa Sanders.
+
+On Thursday, we challenged Well readers to solve the case of a previously healthy 67-year-old gardener who abandoned his garden one summer, alarming his wife and adult children. For weeks this vibrant and energetic man had been the last one out of bed — something his family had never seen before. And his days were interrupted each afternoon with a fever that left him shaking and pale. More than 300 readers suggested diagnoses for this classic presentation of an unusual disease, and a couple dozen of you nailed it.
+
+The correct diagnosis is…
+
+Babesiosis
+
+The first person to identify this unusual infection was Dr. Paige Szymanowski, a resident in her second year of training in internal medicine at the Beth Israel Deaconess Medical Center in Boston. She said she recognized the pattern of a fever with a low blood count, low platelet count and evidence of liver injury. Dr. Szymanowski hasn’t made up her mind what kind of doctor she’s going to be, but she is thinking of subspecializing in infectious diseases. I think she shows real promise in this area. Well done!
+
+The Diagnosis
+
+Babesiosis is caused by the parasite Babesia microti, a protozoa. It is usually transmitted by Ixodes scapularis, better known as the deer tick, the same small arthropod that transmits Lyme disease. Sometimes the two diseases occur together, passed on in the same bite. The disease can also be spread through blood transfusions from an infected donor. Babesiosis is rare and occurs primarily in the Northeast and Upper Midwest — Minnesota and Wisconsin — regions of the United States. In healthy people it often causes no symptoms. However, those who are over 65 or who have some type of immune suppression – because of a chronic disease or medication – or those who don’t have a spleen are more likely to develop symptoms and can become quite ill or even die from this infection.
+
+Easy to Miss
+
+Babesiosis is difficult to diagnose, and the diagnosis is often overlooked, even in areas where infection is most common. Patients with babesiosis have few, if any, localizing signs to suggest the disease. Fever — which can be constant or, as was the case with this patient, intermittent — is common. So are shaking, chills, fatigue, loss of appetite, abdominal pain and headache. These symptoms, however, are seen in many infections. And indeed, our patient had all of these symptoms, but it took many weeks for him to get a diagnosis. The diagnosis is confirmed when the ring form of the protozoa is seen on a blood smear, or when the Babesia DNA is detected in the blood. Doxycycline, which is used to treat other tick-borne diseases, is ineffective against this organism. An antimalarial medication (atovaquone) plus an antibiotic (azithromycin) are first-line treatments against this infection. Improvement is usually seen within 48 hours of starting the drugs. Although the infection will often resolve without treatment, all who are diagnosed with the disease should be treated since, in rare cases, the bug will persist and become symptomatic if a patient later develops some immune system problem or has his spleen removed.
+
+How the Diagnosis Was Made
+
+Dr. Neil Gupta was leading the daytime on-call team at Saint Raphael’s hospital in New Haven, Conn., where the patient’s daughter had taken him. Dr. Gupta heard about this patient when the night team handed off the patients they had admitted on their shift and met him that morning. Seeing how well the patient looked, and hearing that he’d been given the usually benign diagnosis of hepatitis A, he turned his attention to patients who seemed sicker and more in need of thought and care. Until the patient spiked his usual afternoon fever. One of the ways the doctor’s mind works is to put together pictures of what a disease looks like in a patient. We put these so-called illness scripts together based on our knowledge of the disease plus the patients we have seen who have had it. When Dr. Gupta heard that the patient had spiked a temperature, he went back to see how he was doing. The patient was pleasant but didn’t say much. Perhaps there was a language barrier — he spoke with a thick Italian accent. Or perhaps he was one of those patients who just don’t focus on what ails them.
+
+Hearing From the Patient’s Family
+
+The patient’s wife and daughter, however, had been much more attuned to the changes in his health and behavior, and what they reported didn’t really sound like hepatitis. Was this the right diagnosis, Dr. Gupta wondered? He sat down with the family in the nursing lounge and let them tell the whole story as they recalled it. The man had actually been sick for several weeks. He’d had a fever every day. And he was tired. Normally he never sat down, was never idle. These days it seemed he never left the house anymore. Never went into the garden. He just sat on the sofa. For hours. Sometimes he had pain in his upper abdomen, but never any nausea; he had never vomited. But he did have a cough. This was not the man they knew, the women told him.
+
+Reviewing the Symptoms
+
+Dr. Gupta returned to the patient and examined him, this time quite carefully, looking for the signs common in hep A. The man’s skin was dark but not yellow; and his eyes, while appearing tired, showed no hint of yellow either. His liver was not enlarged or tender. He didn’t look to Dr. Gupta like a patient who had hepatitis A. The patient did have tests that were positive for hepatitis A, however. Could these tests be wrong? Dr. Gupta suspected that was the case. O.K., if not hepatitis A, what did he have? The young internist made a list of the key components of the case: He had recurring fevers every afternoon. He had a cough and some upper abdominal pain. Not very specific — except for the repeating fevers. The labs were a little more helpful. His liver showed signs of very mild injury — again, not consistent with hepatitis A, which usually causes significant liver insult. However, he did have a mild anemia that had gotten worse over the past three days. He’d had his blood count drawn two days earlier, when he went to the emergency room at Yale–New Haven Hospital. That showed a very mild anemia – slightly fewer red blood cells than normal. The evening before, the patient’s red blood cell count had dropped further. And today, even further. So his red blood cells were being destroyed somehow. To Dr. Gupta, that seemed to be a second important clue. In addition, his platelets were quite low.
+
+Many Possiblities
+
+So, the patient had cyclic fevers, a worsening anemia and a mild liver injury. That suggested a very different set of diseases. The patient was a gardener and had been treated for Lyme disease. Could he have a different tick-borne illness? Certainly a number of illnesses could present this way. The cyclic fevers were suggestive of malaria — rare in this country, but still worth thinking about. Could this be mononucleosis? Or even H.I.V.? Those diseases can affect red blood cells and the liver. And they can last weeks or months. If those tests were negative, he would need to start looking for autoimmune diseases or cancers. Finally, he would need to review the blood smear with the pathologist. Several of these diseases can provide clues when you look at the blood itself.
+
+An Answer in the Blood
+
+A call came to Dr. Gupta late the next day. The pathologist had tested the patient’s blood for the presence of the Babesia gene, and found it. The patient had babesiosis. Dr. Gupta went down to look at the blood smear with the pathologist. There, in the middle of a sea of normal looking red blood cells, was a tiny pear-shaped object. It was one of the protozoa. Dr. Gupta was excited. He pulled up a picture of the tick that spreads the disease and the tiny bug that causes it to show to the family. This was what was making the patient so very sick.
+
+How the Patient Fared
+
+The patient was started on the two medications to treat babesiosis the same day. Twenty-four hours later he spent his first day completely fever-free — the first in several weeks.
+
+After a couple more days, the patient was up and walking around, asking to go home. He went home the following day, with instructions to take his two medications twice a day for a total of 10 days.
+
+That was last summer. This summer, the patient is back in his garden. He is a little more careful to avoid getting tick bites. He wears his long pants tucked into his socks and his wife looks him over every night — just to be sure.

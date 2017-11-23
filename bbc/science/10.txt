@@ -1,0 +1,108 @@
+Climate's magic rabbit: Pulling CO2 out of thin air
+Image copyright CLIMEWORKS Image caption The Climeworks installation sits on top of a recycling facility which provides heat to help run the system
+
+UN climate negotiators are meeting in Bonn amid a welter of reports indicating that concentrations of carbon dioxide in the atmosphere have broken records, while international attempts to curb greenhouse gases are not doing enough to avoid dangerous levels of warming. Our environment correspondent Matt McGrath has travelled to Switzerland to see if technology to remove CO2 from the air could be the answer to this ongoing carbon conundrum.
+
+While CO2 concentrations are now higher than they have been in at least 800,000 years, the gas still only accounts for a tiny 0.04% of our atmosphere.
+
+However, extracting carbon dioxide from well mixed air is not just technically difficult, it's expensive as well.
+
+A half-hour outside Zurich stands one of the frontline attempts to develop a commercial approach to sucking down CO2.
+
+On the roof of a large recycling centre at Hinwil stand 18 metal fans, stacked on top of each, each about the size of a large domestic washing machine.
+
+These fans suck in the surrounding air and chemically coated filters inside absorb the CO2. They become saturated in a few hours so, using the waste heat from the recycling facility, the filters are heated up to 100C and very pure carbon dioxide gas is then collected.
+
+This installation, called a direct-air capture system, has been developed by a Swiss company called Climeworks.
+
+It can capture about 900 tonnes of CO2 every year. It is then pumped to a large greenhouse a few hundred metres away, where it helps grow bigger vegetables.
+
+Image copyright Climeworks Image caption Air is sucked through fans and CO2 extracted via filters
+
+This is not supposed to be a demonstration of a clever technology - for the developers, making money from CO2 is critical.
+
+"This is the first time we are commercially selling CO2; this is the first of its kind," co-founder Jan Wurzbacher told BBC News.
+
+"It has to be for business; CO2 capture can't work for free."
+
+Right now Climeworks is selling the gas to the vegetable growers next door for less than $600 per tonne, which is very expensive.
+
+But the company says that this is because it has built its extraction devices from scratch - everything is bespoke. The firm believes that like solar and wind energy, costs will rapidly fall once production is scaled up.
+
+"The magic number we always say is $100 per tonne," said Jan Wurzbacher.
+
+"We have drawn a road down to the region of $100 and that is something we think is feasible. We can do it by scaling up the mass production of our components. I'd say half of the way to go there - we know what to do. We just have to do it over the next two or three years."
+
+Image copyright Climeworks Image caption Farmers say that their vegetables are 20% bigger thanks to the supply of CO2
+
+One of the things about CO2 that makes it attractive for developers is that it has many uses in the world.
+
+From fish food to concrete; from car seats to toothpaste - entrepreneurs are trying to use carbon dioxide as a raw material. There's also a roaring trade in CO2 in the US, where it's being used, without irony, to boost the extraction of oil from wells.
+
+One of the most ambitious plans is to extract CO2 and turn it into fuel.
+
+A couple of years ago, car manufacturer Audi announced it had developed what it called "e-diesel", a liquid fuel made from water and CO2. Climeworks supplied some of the CO2 for the trials. Driving down the price of capturing CO2 is key to making this idea work.
+
+"If you have to pay $100 per tonne of CO2 that makes roughly 25 cents per litre of gasoline," said Jan Wurzbacher.
+
+"It is a reasonable amount per litre or per kilogramme of natural gas."
+
+Making fuel or other products out of CO2 might help but it won't achieve the type of large scale take-down from the atmosphere that many scientists now fear will be necessary over the next 20-30 years if the goals of the Paris climate agreement are to be met.
+
+'Natural' solution
+
+The terms of the pact state that there needs to be a "balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases" in the second half of this century. To reach that balance, many experts believe we will have to resort to technological means of taking carbon out of the air.
+
+"There are some things we can do in the real near-term but to get to zero emissions we will probably need some technologies to remove carbon from the atmosphere," Dr Glen Peters from the Centre for International Climate and Environmental Research told BBC News.
+
+"So we need to focus on getting things deployed that we know already work and at the same time we also need to focus on developing new technologies that will help us go the last part of the journey."
+
+Back in 2013, the Intergovernmental Panel on Climate Change suggested that BECCS (bioenergy with carbon capture and storage) might be one way to do this. BECCS involves growing plants that suck down carbon, then burning them to make energy while capturing and burying the carbon that is released.
+
+Critics point out that to make a real impact with BECCS would take up way too much land that could be used for planting food.
+
+However, a recent study showed that a simpler approach, including planting more trees and better management of soils and grasslands, could actually make a significant difference.
+
+The report said that this could account for 37% of all actions needed by 2030 - the equivalent to China's current emissions from fossil fuel use.
+
+Image copyright Iain Smith Image caption In the UK, the Peterhead power plant was mooted as a site for a carbon-capture experiment but the government decided not to go ahead
+
+So would the world be better off planting trees than waiting for Climeworks and others to perfect their technology?
+
+"We're not against trees," said Anka Timofte, an engineer with the company.
+
+"It is all about the efficiency of the surface area that you are using. Our machine has a higher capacity of removing CO2 from the air and this CO2 can be re-used, and our machines are location-independent, so we could place them in the desert or anywhere there is an energy source."
+
+Climeworks has big ambitions. Recently it opened a plant in Iceland. CO2 is captured and buried underground where it will eventually turn to stone.
+
+The Swiss company wants to capture 1% of global emissions of CO2 by 2025. But to make a small dent in the global picture would require the use of 750,000 units similar to the one installed in Hinwil right now. It would also require huge amounts of energy to run these devices.
+
+'Magical techno-fixes'
+
+The Swiss company is not alone. There are similar efforts underway in Canada with a company called Carbon Engineering, and a Finnish-German consortium is also in the direct air-capture business.
+
+So plentiful are they becoming that environmental groups have started to map the progress of these and other geo-engineering projects that aim to curb climate change through technology.
+
+Many greens are deeply suspicious of these efforts. They argue that we need a fundamental rethink of the way that we produce and consume to put sustainability at the heart of everything we do.
+
+"We need to step back and actually question what are all the possible pathways to a climate safe future," said Lili Fuhr from the Heinrich Böll Foundation.
+
+"Have we seriously explored them and are they not more realistic than relying on these magical technologies that in my view hold immense risks and uncertainties and are certainly harmful for many people around the planet?"
+
+Other critics are worried that if the technology works, then it will encourage politicians not to make the cuts in carbon and rapidly move to renewable energy.
+
+Question of time
+
+Climeworks' Jan Wurzbacher rejects this idea. He says it is all a matter of timing.
+
+"If you had asked me 20 years ago I would have said that, yes, you should just focus on reducing emissions.
+
+"But as of today we may have passed the point of being able to achieve it just by that. People say we will need to remove 10 gigatonnes of CO2 from the atmosphere every year by 2050. It's not enough to develop it then; you need to deploy it and scale it, and that will take 30 years!"
+
+Lili Fuhr doesn't agree. She says that approaches to capturing carbon are all part of a self-preservation strategy by the fossil fuel industry.
+
+"For many decades the fossil fuel industry has funded climate sceptics and in that way tried to prevent climate action. But they've seen that is not working, so instead of denying, they are beginning to come up with these magical techno-fixes that would help prolong the lifespan of their industry.
+
+"What we are seeing is a shift in the broader denial-ism and prevention strategy of the fossil fuel industry."
+
+Follow Matt on Twitter and on Facebook

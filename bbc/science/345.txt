@@ -1,0 +1,16 @@
+Strong hosts help parasites spread farther
+Large, physically strong Masu salmon disperse farther when infected with parasites, potentially escaping from further infections at the contaminated site but ironically resulting in the greater expansion of the parasite, according to Hokkaido University researchers.
+
+Infected hosts are the "vehicle" of sluggish parasites, and their dispersal behavior largely determines the extent parasites spread in nature. Dispersal is thought to be a rational behavior for infected hosts to escape from a parasite-contaminated habitat and avoid further infections. However, escaping from the contaminated habitat involves the alternative risk of using up energy and encountering natural enemies. How do infected hosts cope with this dilemma?
+
+Researchers from Hokkaido University and the Hokkaido Research Organization hypothesized that only large, physically strong individuals may travel long distances to flee from a parasite, because the escape process is too risky for small, physically weak individuals.
+
+To test this hypothesis, the researchers focused on the larval parasite of the freshwater mussel Margaritifera laevis, whose infection process is simple and experimentally controllable. Margaritifera laevis becomes parasitic on the gills of young Masu salmon (Oncorhynchus masou masou) after being released by its mother as larvae. The larvae infect the salmon for approximately 50 days, during which the parasites suck the host's blood and travel on the host to different locations. After their parasitic period, they develop into young mussels and start living at the bottom of mountain streams, expanding the species' distribution.
+
+The researchers captured, marked and released 215 young Masu salmon into a part of the Osatsu stream (Hokkaido, Japan), half of which had been artificially infected with the larval parasite. They observed fish dispersal behavior in a 1,200-meter section of the stream and investigated how this changed according to their infection status and body size. The researchers also made a numerical simulation model to investigate how the dispersal of young Masu salmon would affect the persistence and expansion of the parasite.
+
+As predicted, the experiments showed that large, physically stronger fish traveled farther while smaller fish tended to stay where they were; however, this dispersal behavior was not observed for uninfected fish. Thus, the team inferred the behavior was caused by the infection of the fish hosts. Importantly, this dispersal behavior that potentially favors the survival of "infected fish" resulted in undesired consequences for the "fish population" as a whole, including for uninfected fish. In their simulations, parasite populations persisted four times longer and invaded areas six times wider with the aid of the host's behavior. "The rational behavior of the larger salmon may have helped expand the infection area while smaller ones keep the infected habitat infectious," says Akira Terui of the research team.
+
+"Although individual Masu salmon seem to behave rationally, their actions have ironically resulted in the long-term persistence and greater expansion of its parasite. Further research on the species and other host-parasite relationships could help predictions of how diseases spread in wild animals," Terui added.
+
+###

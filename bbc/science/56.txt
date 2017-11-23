@@ -1,0 +1,66 @@
+Chasing complexity
+In his junior year of high school, Ryan Williams transferred from the public school near his hometown of Somerville, Alabama — “essentially a courthouse and a couple gas stations,” as he describes it — to the Alabama School of Math and Science in Mobile.
+
+Although he had been writing computer programs since age 7 — often without the benefit of a computer to run them on — Williams had never taken a computer science class. Now that he was finally enrolled in one, he found it boring, and he was not shy about saying so in class.
+
+Eventually, his frustrated teacher pulled a heavy white book off of a shelf, dumped it dramatically on Williams’s desk, and told him to look up the problem described in the final chapter. “If you can solve that,” he said, “then you can complain.”
+
+The book was “Introduction to Algorithms,” co-written by MIT computer scientists Charles Leiserson and Ron Rivest and one of their students, and the problem at the back was the question of P vs. NP, which is frequently described as the most important outstanding problem in theoretical computer science.
+
+Twenty-two years later, having joined the MIT electrical engineering and computer science faculty with tenure this year, Williams is now a colleague of both Leiserson and Rivest, in the Theory of Computing Group at MIT’s Computer Science and Artificial Intelligence Laboratory. And while he hasn’t solved the problem of P vs. NP — nobody has — he’s made one of the most important recent contributions toward its solution.
+
+P vs. NP is a problem in the field of computational complexity. P is a set of relatively easy problems, and NP is a set of problems some of which appear to be diabolically hard. If P = NP, then the apparently hard problems are actually easy. Few people think that’s the case, but no one’s been able to prove it isn’t.
+
+As a postdoc at IBM’s Almaden Research Center, Williams proved a result about a larger set of problems, known as NEXP, showing that they can’t be solved efficiently by a class of computational circuits called ACC. That may sound obscure, but when he published his result, in 2010, the complexity theorist Scott Aaronson — then at MIT, now at the University of Texas — wrote on his blog, “The result is one of the most spectacular of the decade.”
+
+“We all knew the goal was to walk on the moon (i.e., prove P≠NP and related separations),” Aaronson later added, “and what Ryan has done is to build a model rocket that gets a couple hundred feet into the air, whereas all the previous rockets had suffered from long-identified technical limitations that had kept them from getting up more than 50 feet. … It’s entirely plausible that those improvements really are a nontrivial step on the way to the moon.”
+
+Basic principles
+
+Williams is the son of a mother who taught grade school and a father who ran his own construction firm and whose family indoctrinated Williams into one side of a deep Alabamian social divide — the side that roots for Auburn in the annual Auburn-Alabama football game.
+
+Most of his father’s construction contracts were to dig swimming pools, and when Williams was in high school and college, he was frequently his father’s only assistant. His father ran the backhoe, and Williams followed behind the bucket, digging out rocks and roots, smoothing the ground, and measuring the grade with a laser level.
+
+His father was such a backhoe virtuoso that, Williams says, “If I was going too slow, he would take the edge of the bucket and start flattening the ground and raking it himself. He would say, ‘Point the level here and see if it’s grade.’”
+
+In first grade, having scored highly on a standardized test the year before, Williams began taking a class one day a week at a school for gifted children on the opposite side of the county. He was entranced by the school’s Apple II computer and learned to program in Basic. The next year, the class had a different teacher and the computer was gone, but Williams kept writing Basic programs nonetheless.
+
+For three straight years, from 8th through 10th grade, he and a partner won a statewide programming competition, writing in the oft-derided Basic language. They competed as an undersized team, even though the state Technology Fair sponsored an individual competition as well. “It just didn’t seem fun to spend two or three hours straight programming by myself,” Williams says.
+
+After his junior-year introduction to the P vs. NP problem, Williams was determined to study theoretical computer science in college. He ended up at Cornell University, studying with Juris Hartmanis, a pioneer in complexity theory and a winner of the Turing Award, the Nobel Prize of computer science. Williams also introduced his Yankee classmates to the ardor of Alabamian football fandom, commandeering communal televisions for the annual Auburn-Alabama games.
+
+“It was pretty clear to the other people who wanted to watch television that, no, I needed it more, and that maybe I was willing to fistfight,” Williams says.
+
+After graduating, he did a one-year master’s degree at Cornell and contributed a single-authored paper to a major conference in theoretical computer science. Then he headed to Carnegie Mellon University and graduate study with another Turing-Award-winning complexity theorist, Manuel Blum.
+
+Leaps and bounds
+
+Blum told Williams that he was interested in two topics: k-anonymity — a measure of data privacy — and consciousness. K-anonymity seemed slightly more tractable, so Williams dove into it. Within weeks, he had proven that calculating optimal k-anonymity — the minimum number of redactions necessary to protect the privacy of someone’s personal data — was an NP-complete problem, meaning that it was (unless someone proves P equal to NP) prohibitively time consuming to compute.
+
+Such proofs depend on the calculation of lower bounds — the minimum number of computational steps necessary to solve particular problems. As a potential thesis project, Williams began considering lower bounds on NP-complete problems when solved by computers with extremely limited memory. The hope was that establishing lower bounds in such artificially constrained cases would point the way toward establishing them in the more general case.
+
+“I had studied these things for years, and at some point it occurred to me that these things have a pattern,” Williams says. His dissertation ended up being an automated technique for proving lower bounds in the context of memory-constrained computing. “I wrote a computer program whose output — when certified by a human — is proving that there are no efficient programs for this other problem,” he says.
+
+After graduating, Williams did one-year postdocs at both CMU and the Institute for Advanced Study, in Princeton, New Jersey. Then came his research fellowship at IBM and his “spectacular” result.
+
+That result came from an attempt to bridge a divide within theoretical computer science, between researchers who work on computational complexity and those who design algorithms. Computational-complexity research is seen as more abstract, because it seeks to make general claims about every possible algorithm that might be brought to bear on a particular problem: None can do better than some lower bound. Algorithm design seems more concrete, since it aims at simply beating the running time of the best algorithm developed so far.
+
+But in fact, Williams argues, the problems are more symmetric than they first appear, because establishing an algorithm’s minimum running time requires generalizing about every possible instance of a particular problem that it will ever have to face. Williams wondered whether he could exploit this symmetry, adapting techniques from algorithm design to establish lower bounds.
+
+“Reasoning about lower bounds just seems really hard, but yet, when it comes to designing algorithms to solve the problem, it’s somehow just more natural for people to think about,” Williams says. “People are just naturally problem solvers. Maybe if you phrased the problem the right way, it would become an algorithmic problem.”
+
+Computational jiu-jitsu
+
+Any NP-complete problem can be represented as a logic circuit — a combination of the elementary computing elements that underlie all real-world computing. Solving the problem is equivalent to finding a set of inputs to the circuit that will yield a given output.
+
+Suppose that, for a particular class of circuits, a clever programmer can devise a method for finding inputs that’s slightly more efficient than solving a generic NP-complete problem. Then, Williams showed, it’s possible to construct a mathematical function that those circuits cannot implement efficiently.
+
+It’s a bit of computational jiu-jitsu: By finding a better algorithm, the computer scientist proves that a circuit isn’t powerful enough to perform another computational task. And that establishes a lower bound on that circuit’s performance.
+
+First, Williams proved the theoretical connection between algorithms and lower bounds, which was dramatic enough, but then he proved that it applied to a very particular class of circuits.
+
+“This is essentially the circuit class where progress on P not equal to NP stopped in the mid-’80s,” Williams explains. “We were gradually building up some steam with slightly better, slightly better lower bounds, but it completely stopped in its tracks because of this one pesky little class that nobody could get a handle on.”
+
+Since Williams’s breakthrough paper, both he and other complexity theorists have used his technique for translating between algorithms and lower bounds to prove results about other classes of problems. But, he explains, that translation cuts both ways: Sometimes, a failed attempt at establishing a lower bound can be translated into a more efficient algorithm for solving some other problem. Williams estimates that he has published as many papers in the field of algorithm design as he has in the field of computational complexity.
+
+“I’m lucky,” he says. “I can even publish my failures.”

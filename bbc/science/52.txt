@@ -1,0 +1,26 @@
+Encouraging oxygen's assault on iron may offer new way to kill lung cancer cells
+Blocking the action of a key protein frees oxygen to damage iron-dependent proteins in lung and breast cancer cells, slowing their growth and making them easier to kill. This is the implication of a study led by researchers from Perlmutter Cancer Center at NYU Langone Health, and published online November 22 in Nature.
+
+Human cells contain 48 proteins that are known to depend on complexes of iron and sulfur to function. Dismantled whenever they encounter oxygen, these iron-sulfur clusters must be constantly replaced if normal cells are to survive in high-oxygen environments like the lungs, and even more so if lung cancer cells are to grow with abnormal speed.
+
+The current study shows that lung adenocarcinoma cells survive this oxygen threat by producing more of a protein called NFS1, which harvests sulfur from the amino acid cysteine to make iron-sulfur clusters. The researchers also found that breast cancer cells that have spread to the lungs dial up NFS1 production upon arriving in a high-oxygen environment, while cells remaining in the breast do not.
+
+"Our data support the notion that NFS1 provides a central protection for cancer cells against oxygen, and we hope to find ways to take it away," says lead study author Richard Possemato, PhD, assistant professor in the Department of Pathology at NYU School of Medicine.
+
+In a genetic trick, the research team used short hairpin RNAs to switch off 2,752 genes related to cell metabolism, including iron and sulfur biochemistry, one by one. They found that many genes which were essential to survival in high oxygen levels were not as important in low oxygen.
+
+Strikingly, the NFS1 gene was the most essential for survival at the elevated oxygen level present in the lungs, but not at the much lower oxygen level encountered by cells under the skin. When the researchers injected cancer cells with or without NFS1 under the skin of mice, a low oxygen environment, they grew equally well. But the same cells failed to form tumors in the lungs. Consistent with these findings in mice, analysis of human datasets revealed that NFS1 levels were higher in lung adenocarcinoma cells than in nearby, normal lung tissue.
+
+Two New Ways to Stop Lung Cancer Growth
+
+NFS1 may be vital to lung cancer cell survival in two ways, say the authors. If NFS1 is not active enough to keep up with the oxygen-mediated destruction of iron-sulfur clusters, cancer cells can run out of key building blocks for important proteins and just stop multiplying, researchers found.
+
+Alternatively, the number of iron-sulfur clusters may serve as a sensor of iron levels. When clusters dip too low, say the authors, cells "think" they are short on iron, and free more from the molecules that store it. In studies of cultured cancer cells, the Perlmutter Cancer Center team found that this build-up of "free" iron causes the production of reactive oxygen species (ROS) that damage cell membranes and trigger a type of cell death called ferroptosis. The authors note that future work will be needed to confirm this effect in live animals.
+
+"Our study suggests that future anti-cancer treatments that deprive cancer cells of antioxidant protection against ROS can be combined with drugs that block NFS1, promoting cancer cell death by iron-mediated toxicity, even in tumors that are at low oxygen," says Possemato.
+
+As a next step, the research team is screening for experimental compounds that block the ability of NFS1 to feed the production of iron-sulfur clusters.
+
+###
+
+Along with Possemato, study authors from NYU School of Medicine were first authors Samantha Alvarez and Vladislav Sviderskiy, as well as Erdem Terzi, Thales Papagiannakopoulos, Andre Moreira, and Sylvia Adams. Also making important contributions were study authors David Sabatini of the Whitehead Institute for Biomedical Research, and K?vanç Birsoy, from the Laboratory of Metabolic Regulation and Genetics at The Rockefeller University. The research was supported by National Institutes of Health grants T32GM007308, CA168940, CA193660, CA103866, CA129105, AI07389, S10 OD010584-01A1, S10 OD018338-01, and S10 OD016304-01; a Susan G. Komen grant, a (Jimmy) V Foundation grant; a Broad Institute SPARC grant, a Leukemia and Lymphoma Society Special Fellow Award, and Perlmutter Cancer Center support grant P30CA016087. The work was also supported by the Starr Cancer Consortium. Dr. Sabatini is an investigator of the Howard Hughes Medical Institute.

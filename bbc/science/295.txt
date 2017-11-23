@@ -1,0 +1,10 @@
+‘Crazy Jigsaw Puzzles’ Improve Our Views of Coral Reefs
+A century ago, if you wanted to document ocean life, you’d throw on a 60-pound glass helmet, dive in and sketch whatever passed by with a lead pencil on a zinc tablet. Today most scientists studying corals still dive with an hour’s worth of oxygen and a plastic piece of paper, using their personal judgments to jot down all they can before the air runs out.
+
+But over the last few years, technology has catapulted oceanography into a new era of discovery. Now a scientist can carry along a camera in a waterproof box, take thousands of photographs an hour and upload those images to computers too fast to exist a decade ago. Powerful software then stitches together the photos and identifies unique features, creating billions of reference points that help to calculate the location of corals in 3D space.
+
+Photo
+
+“It’s like doing one of the most crazy jigsaw puzzles you can ever imagine,” said Stuart Sandin, a coral reef ecologist at Scripps Institution of Oceanography at the University of California, San Diego. He and his colleagues have just analyzed some of the first of these 3D photomosaics in a study published last month in the journal, Coral Reefs.
+
+With the help of computer scientists and engineers at their university, Dr. Sandin and his team created their digital maps using more than 39,000 photos of about 44,000 coral colonies living on reefs at Palmyra Atoll near Hawaii. In analyzing digital reconstructions of about 1,000 square feet each, they discovered for the first time that rather than distributing themselves randomly wherever larvae happened to fall, coral follow somewhat of a pattern. Corals of every species and type, especially those that have similar forms and structures, cluster together across the reef. And some types are more clustered than others.

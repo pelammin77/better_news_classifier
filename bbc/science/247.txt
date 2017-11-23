@@ -1,0 +1,45 @@
+A 'half-hearted' solution to one-sided heart failure—Soft robotic system provides support
+Illustration showing sectional view of a heart with the soft robotic system helping to draw blood into (left) and pump blood out (right) of the heart's right ventricle. Credit: Boston Children's Hospital Soft robotic actuators, which are pneumatic artificial muscles designed and programmed to perform lifelike motions, have recently emerged as an attractive alternative to more rigid components that have conventionally been used in biomedical devices. In fact, earlier this year, a Boston Children's Hospital team revealed a proof-of-concept soft robotic sleeve that could support the function of a failing heart.
+
+Despite this promising innovation, the team recognized that many pediatric heart patients have more one-sided heart conditions. These patients are not experiencing failure of the entire heart—instead, congenital conditions have caused disease in either the heart's right or left ventricle, but not both.
+
+"We set out to develop new technology that would help one diseased ventricle, when the patient is in isolated left or right heart failure, pull blood into the chamber and then effectively pump it into the circulatory system," says Nikolay Vasilyev, MD, a researcher in cardiac surgery at Boston Children's.
+
+Now, Vasilyev and his collaborators—including researchers from Boston Children's, the Harvard John A. Paulson School of Engineering and Applied Sciences and the Wyss Institute for Biologically Inspired Engineering at Harvard University—have revealed their soft robotic solution. They describe their system in a paper published online in Science Robotics today.
+
+Getting to the heart of the challenge
+
+Although other existing mechanical pumps can help propel blood through the heart, they are designed so that blood must run through the pump itself, exposing blood to its unnatural surface.
+
+Narrated video outlining the novel function and implications of Payne et al.’s soft robotic ventricular assist device. Credit: Carla Schaffer / AAAS
+
+"Running blood through a pump always requires a patient to be placed—permanently—on anticoagulant medication to prevent blood clotting," Vasilyev says, who is a co-senior author on the paper. "It can be very difficult to keep the right balance of medication, especially in pediatric patients, who are therefore at risk of excessive bleeding or dangerous clotting."
+
+So, using external actuators to help squeeze blood through the heart's own chamber, the team has designed a system that could theoretically work with minimal use of anticoagulants.
+
+"We've combined rigid bracing with soft robotic actuators to gently but sturdily help a diseased heart chamber pump blood effectively," Vasilyev says.
+
+The rigid brace component is deployed via a needle into the heart's intraventricular septum, the wall of tissue between the heart's chambers, to prevent the septum from shifting under the pressure of the artificial "muscle" of the soft actuator.
+
+"With the use of classic left ventricular assist devices, there are patients who experience a septum shift towards the right side and subsequent ballooning of the right ventricle, which can cause secondary right heart failure," Vasilyev says. "Here, the rigid brace keeps the septum in its original position, protecting the healthy right side of the heart from the mechanical load of the left ventricular assistance."
+
+In contrast, existing ventricular assist devices (VAD) don't involve the septum at all.
+
+Video with design and demonstration of the soft robotic ventricular assist device. Credit: Payne et al., Sci. Robot. 2, eaan6736 (2017)
+
+Tailoring the concept for future translation
+
+Altogether, the system involves a septal anchor, a bracing bar and sealing sleeve that pass through the ventricle wall, and a frame embedded with soft actuators that is mounted around the ventricle. The researchers designed two distinct versions of the system for the right and left ventricle.
+
+In animal studies, the soft robotic system contributed significantly to the diseased ventricle's ability to eject blood. The researchers speculate that the system's effectiveness is due in part to its integration with the septum, which plays a key role in the heart's ability to pump blood.
+
+The system also made significant improvement in its ability to draw blood into the ventricles, which is just as important as the heart's ability to pump it out.
+
+"As the actuators relax, specially-designed elastic bands help return the heart's wall to its original position, filling the chamber sufficiently with blood," Vasilyev says.
+
+Based on these initial proof-of-concept results, Vasilyev and his team are working on key design modifications that can bring this system closer to use in humans, such as portability and miniaturization of the components. They also need to do longer tests in animals to see how the system impacts the heart over prolonged periods of time.
+
+Explore further: Soft robot helps the heart beat
+
+More information: C.J. Payne el al., "Soft robotic ventricular assist device with septal bracing for therapy of heart failure," Science Robotics (2017). robotics.sciencemag.org/lookup … /scirobotics.aan6736
+

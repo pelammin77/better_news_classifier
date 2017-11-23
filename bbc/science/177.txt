@@ -1,0 +1,28 @@
+Penn team constructs whole-brain map of electrical connections key to forming memories
+A team of neuroscientists at the University of Pennsylvania has constructed the first whole-brain map of electrical connectivity in the brain based on data from nearly 300 neurosurgical patients with electrodes implanted directly on the brain. The researchers found that low-frequency rhythms of brain activity, when brain waves move up and down slowly, primarily drive communication between the frontal, temporal and medial temporal lobes, key brain regions that engage during memory processing.
+
+The research, part of the Restoring Active Memory project, was conducted by Michael Kahana, Penn professor of psychology and principal investigator of the Defense Advanced Research Projects Agency's RAM program; Ethan Solomon, an M.D./Ph.D. student in the Department of Bioengineering; and Daniel Rizzuto, director of cognitive neuromodulation at Penn. They published their findings in Nature Communications.
+
+This work elucidates the way different regions of the brain communicate during cognitive processes like memory formation. Though many studies have examined brain networks using non-invasive tools like functional MRI, observations of large-scale networks using direct human-brain recordings have been difficult to secure because these data can only come from neurosurgical patients.
+
+For several years, the Penn team gathered this information from multiple hospitals across the country, allowing the researchers to observe such electrical networks for the first time. Patients undergoing clinical monitoring for seizures performed a free-recall memory task that asked them to view a series of words on a screen, then repeat back as many as they could remember.
+
+At the same time, the researchers examined brain activity occurring on slow and fast time scales, also called low- and high-frequency neural activity. They discovered that when a person is effectively creating new memories -- in this case, remembering one of the presented words -- alignment between brain regions tends to strengthen with slow waves of activity but weaken at higher frequencies.
+
+"We found," said Solomon, the paper's lead author, "that the low-frequency connectivity of a brain region was associated with increased neural activity at that site. This suggests that, for someone to form new memories, two functions must happen simultaneously: brain regions must individually process a stimulus, and then those regions must communicate with each other at low frequencies."
+
+Areas of the brain identified in this paper -- the frontal, temporal and medial temporal lobes -- have long intrigued neuroscientists because of their crucial role in such memory functions.
+
+This work supports the RAM project goal of using brain stimulation to enhance memory.
+
+"Better understanding the brain networks that activate during memory processing," Kahana said, "gives us a better ability to fine-tune electrical stimulation that might improve it. We're now prepared to ask whether we can use measures of functional connectivity to guide our choice of which brain region to target with electrical stimulation. Ultimately, given the size of this dataset, these discoveries would not be possible without years of effort on the part of our participants, clinical teams and research scientists."
+
+Earlier this month, the RAM team publicly released its extensive intracranial brain recording and stimulation dataset that included thousands of hours of data from 250 patients performing memory tasks. Previous research showed for the first time that electrical stimulation delivered when memory was predicted to fail could improve memory function in the human brain. That same stimulation generally became disruptive when electrical pulses arrived during periods of effective memory function.
+
+Next, the Penn researchers plan to examine the interaction between brain stimulation and the functional connections the latest study uncovered.
+
+"There's still significant work to do," Rizzuto said, "before we can use these connectivity maps to guide therapeutic brain stimulation for patients with memory disorders such as traumatic brain injury or Alzheimer's disease, but we're working toward that goal."
+
+###
+
+Funding for this research came primarily from the Department of Defense's Defense Advanced Research Projects Agency, with additional funding from National Institutes of Health grants MH55687 and T32NS091006.

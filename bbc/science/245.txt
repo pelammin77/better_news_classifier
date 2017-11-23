@@ -1,0 +1,78 @@
+By saving cost and energy, the lighting revolution may increase light pollution
+Municipalities, enterprises, and households are switching to LED lights in order to save energy. But these savings might be lost if their neighbours install new or brighter lamps. Scientists fear that this "rebound effect" might partially or totally cancel out the savings of individual lighting retrofit projects, and make skies over cities considerably brighter. An international study led by Christopher Kyba from the GFZ German Research Centre for Geoscience lends proof to this hypothesis. According to the paper in Science Advances, the artificially lit surface of Earth at night increased in radiance and extent over the past four years by 2 per cent annually. The scientists used data from the first-ever calibrated satellite radiometer designed especially for nightlights (VIIRS for Visible/Infrared Imager Radiometer Suite). The VIIRS Day-Night Band is mounted on the NOAA satellite Suomi-NPP and has been circling our planet since October 2011. Their time series comprises the years 2012 to 2016.
+
+Globally, the increase in light emission closely corresponds to the increase of the Gross Domestic Product (GDP), with the fastest growth occuring in developing countries. "What's more, we actually see only part of the light increase", says Christopher Kyba whose research is done both at GFZ and the Leibniz Institute for Freshwater Ecology and Fisheries IGB. Comparisons of the VIIRS data with photographs taken from aboard the International Space Station ISS show that the instrument on Suomi-NPP sometimes records a dimming of some cities even though these cities are in fact the same in brightness or even more brightly lit. The reason for this is that sensor can't "see" light at wavelengths below 500 nanometres (nm), i.e. blue light. When cities replace orange lamps with white LED lights that emit considerable radiation below 500 nm, VIIRS mistakes the change for a decrease. In short: The Earth's night-time surface brightness and especially the skyglow over cities is increasing, probably even in the cases where the satellite detects less radiation.
+
+There is, however, hope that things will change for the better. Christopher Kyba says: "Other studies and the experience of cities like Tucson, Arizona, show that well designed LED lamps allow a two-third or more decrease of light emission without any noticeable effect for human perception." Kyba's earlier work has shown that the light emission per capita in the United States of America is 3 to 5 times higher than that in Germany. Kyba sees this as a sign that prosperity, safety, and security can be achieved with conservative light use. "There is a potential for the solid state lighting revolution to save energy and reduce light pollution", adds Kyba, "but only if we don't spend the savings on new light".
+
+###
+
+Media contacts:
+
+Christopher Kyba (Physicist, lead author)
+
+GFZ German Research Centre for Geosciences
+
+Email: kyba@gfz-potsdam.de
+
+Phone (Germany): +49 331 288 28973
+
+@skyglowberlin
+
+(English & German)
+
+Franz Hölker (Ecologist)
+
+Leibniz Institute for Freshwater Ecology and Fisheries IGB
+
+Email: hoelker@igb-berlin.de
+
+Phone (Germany): +49 30 64181 665
+
+(German & English)
+
+Alejandro Sánchez de Miguel (Physicist)
+
+University of Exeter
+
+Email: a.sanchez-de-miguel@exeter.ac.uk
+
+Phone (Spain):+34 619358685
+
+@pmisson
+
+(Spanish & English)
+
+Prof Kevin J. Gaston (Founding Director of the Environment and Sustainability Institute)
+
+Environment and Sustainability Institute, University of Exeter
+
+Email: K.J.Gaston@exeter.ac.uk
+
+Phone (UK): (+44) (0)7825 904805
+
+@KevinJGaston
+
+(English)
+
+Kimberly Baugh (Satellite imagery)
+
+Cooperative Institute for Research in Environmental Sciences (CIRES)
+
+University of Colorado Boulder
+
+Email: kim.baugh@noaa.gov
+
+Phone (USA): +1 303-497-4452
+
+(English)
+
+Christopher Elvidge (Satellite imagery)
+
+National Oceanic and Atmospheric Administration
+
+Email: chris.elvidge@noaa.gov
+
+Phone (USA): +1 303-497-6121
+
+(English)

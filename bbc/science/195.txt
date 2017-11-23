@@ -1,0 +1,29 @@
+Quantum internet goes hybrid
+Schematic illustration of a hybrid information network with two quantum nodes composed by a cold cloud of Rubidium (left red cloud) and a doped crystal with Praseodymium ions (right white cube). Credit: ICFO/Scixel In a recent study published in Nature, ICFO researchers led by ICREA Prof. Hugues de Riedmatten report an elementary "hybrid" quantum network link and demonstrate photonic quantum communication between two distinct quantum nodes placed in different laboratories, using a single photon as information carrier.
+
+Today, quantum information networks are ramping up to become a disruptive technology that will provide radically new capabilities for information processing and communication. Recent research suggests that this quantum network revolution might be just around the corner.
+
+The key elements of a quantum information network are information-processing quantum nodes made up of matter systems like cold atomic gases or doped solids, and communicating particles, mainly photons. While photons seem to be perfect information carriers, there is still uncertainty as to which matter system could be used as network node, as each system provides different functionalities. Therefore, the implementation of a hybrid network has been proposed, searching to combine the best capabilities of different material systems.
+
+Past studies have documented reliable transfers of quantum information between identical nodes, but this is the first time this has ever been achieved with a "hybrid" network of nodes. The ICFO researchers have developed a solution and solved the challenge of a reliable transfer of quantum states between different quantum nodes via single photons. A single photon needs to interact strongly and in a noise-free environment with the heterogeneous nodes or matter systems, which generally function at different wavelengths and bandwidths. As Nicolas Maring states "it's like having nodes speaking in two different languages. In order for them to communicate, it is necessary to convert the single photon's properties so it can efficiently transfer all the information between these different nodes."
+
+From right to left: Nicolas Maring, Pau Farrera and Dr. Georg Heinze at the experimental setup. Credit: ICFO
+
+How did they solve the problem?
+
+In their study, the ICFO researchers used two very distinct quantum nodes: the emitting node was a laser-cooled cloud of Rubidium atoms and the receiving node a crystal doped with Praseodymium ions. From the cold gas, they generated a quantum bit (qubit) encoded in a single photon with a very-narrow bandwidth and a wavelength of 780 nm. They then converted the photon to the wavelength of 1552 nm to demonstrate that this network could be completely compatible with the current telecom C-band range. Subsequently, they sent it through an optical fiber from one lab to the other. Once in the second lab, the photon's wavelength was converted to 606 nm in order to interact correctly and transfer the quantum state to the receiving doped crystal node. Upon interaction with the crystal, the photonic qubit was stored in the crystal for approximately 2.5 microseconds and retrieved with very high fidelity.
+
+The results of the study show that two very different quantum systems can be connected and communicate by means of a single photon. ICREA Prof at ICFO Hugues de Riedmatten says, "Being able to connect quantum nodes with very different functionalities and capabilities and transmitting quantum bits by means of single photons between them represents an important milestone in the development of hybrid quantum networks." The ability to perform back-and-forth conversion of photonic qubits at the telecom C-band wavelength shows that these systems would be completely compatible with the current telecom networks.
+
+Advantages of Quantum vs. Classical Information Networks
+
+The World Wide Web was developed in the 1980s, with information flowing through the network by means of bits processed and modulated by electronic circuits and chips and transmitted by light pulses that move information through the network with minimal signal losses via optical fibers.
+
+Instead of using the classical bits, quantum information networks would process and store quantum information through quantum bits or "qubits." While bits can be zeroes or ones, qubits exist in a superposition of these two states. In a quantum network, they are generated and processed by quantum matter systems, e.g. cold atomic gases, doped solids or other systems. Contrary to classical networks, quantum information is transferred between the nodes using single photons instead of strong light pulses.
+
+Quantum information networks (consisting of matter quantum nodes and quantum communication channels) will open up a new pathway of disruptive technologies, enabling, for example, perfectly secure data transmission, enhanced data processing via distributed quantum computing or advanced clock synchronization applications, among others.
+
+Explore further: A new kind of quantum computer
+
+More information: "Photonic quantum state transfer between a cold atomic gas and a crystal" Nicolas Maring, Pau Farrera, Kutlu Kutluer, Margherita Mazzera, Georg Heinze, and Hugues de Riedmatten, Nature, 2017. nature.com/articles/doi:10.1038/nature24468
+

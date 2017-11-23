@@ -1,0 +1,102 @@
+UK judges to get scientific guides
+Image copyright Crews
+
+A UK Supreme Court judge has launched the first of a series of scientific guides for the judiciary.
+
+Lord Hughes has overseen a project to help the judiciary deal with scientific evidence in the courtroom.
+
+The first primers cover DNA fingerprinting and computer techniques to identify suspects from the manner of their walk.
+
+Guides on statistics and the physics of car crashes are to come next and one on "shaken baby syndrome" is planned.
+
+The project is run with the help of The Royal Society and The Royal Society of Edinburgh.
+
+In a rare interview, Lord Justice Hughes said he was convinced that the legal primers would be of great benefit.
+
+"Thanks to the link with the two Royal Societies, we have access to top notch scientists who have been prepared to give time voluntarily to answer the questions in the terms that ordinary judges are asking them," he told BBC News.
+
+"I would like to hope that on some occasions the primer has equipped the judge to see better whether the argument that is being advanced on both sides has a proper basis in science or not".
+
+Complex topics
+
+The primers are short documents, between 30 and 60 pages long.
+
+They give judges the answers to the questions that they themselves have asked about scientific evidence they have to deal with in the court room.
+
+They cover complex topics but are written clearly and without any jargon to enable judges to grasp the key issues from a legal perspective.
+
+They are produced by scientists who are the foremost experts in the topics covered by the primers. For example the DNA fingerprinting guide has one of the technique's inventors, Prof Sir Alec Jeffreys, and Nobel Prize winner Prof Sir Paul Nurse on the editorial board.
+
+Image copyright DAVID PARKER/SCIENCE PHOTO LIBRARY Image caption Prof Alec Jeffreys is on the editorial board of the forensics report for judges
+
+The guides also cover the limitations of the science and possible difficulties with its interpretation in real life situations.
+
+Accessible science
+
+The DNA fingerprinting primer is on a field in which experts are in agreement on the science.
+
+Its focus, therefore, is on assessing its admissibility in light of the way the material has been gathered and the weight of evidence to be placed on the results.
+
+The assessment of walking patterns stems from an increasing use of video evidence from the crime scene where it is not possible to see the perpetrators face. Police have resorted to so-called gait analysis where the suspect is filmed walking and computer techniques are used to compare their movement with that on the crime scene footage.
+
+The gait analysis primer concludes that there is a lack of credible research to rely on the technique on its own in court.
+
+The study finds that there is no evidence to support the assertion that the way people walk is unique, there has been no assessment of the analysis of the methods used and there are no qualifications for those claiming that they are experts on gait analysis.
+
+The legal primers project is the initiative of Dr Julie Maxton, executive director of the Royal Society.
+
+"We are very pleased to be building on this piece of work and playing a leading role in bringing together scientists and the judiciary throughout the UK to ensure that we get the best possible scientific guidance into the courts - rigorous, accessible science matters to the justice system and society."
+
+The board which commissions the primers has three judges on it, each from a different court. They are Lord Justice Hughes from the Supreme Court, Lady Justice Rafferty from the Court of Appeal and His Honour Mark Wall, QC, representing criminal trials judges.
+
+Judge Wall told BBC News he believed that the documents would make court rooms more efficient.
+
+Image copyright Supreme Court Image caption Supreme Court Justice Lord Anthony Hughes convinced primers will be of "great benefit".
+
+"The emphasis nowadays is for courts to be more proactive to actually challenge the prosecution for example and say 'why is this report admissible? How is it going to help you? Is it really the right report for the issues in this case?
+
+"And the primer, I'm confident will enable a judge in advance of the hearing to read up on the science to a reliable overview of the state of the science and then ask the right questions.
+
+"And so that evidence which is not helpful is excluded and evidence which is helpful is presented in a way which a jury will understand and which will advance the understanding of the issues in the case generally."
+
+Boundaries
+
+Scientific evidence in the court room came into sharp focus during cases of so-called shaken baby syndrome. Parents and carers were accused of killing babies by shaking them. At the time, expert witnesses would testify that the babies' injuries could only have been caused by violent shaking. But later other experts put forward alternative explanations for the trauma. The science was and still is far from settled.
+
+Judges have asked for a primer to guide them, but according to Judge Wall it is too soon because there is as yet no consensus.
+
+"What a primer can do is to study the body of scientific evidence in any particular area and where there is agreement as to what the limits of that science are at a particular time to define for a judge what the limits are," he explained.
+
+"The problem we may face if and when we come to deal with shaken baby syndrome and the science surrounding that is that the experts themselves at the moment don't seem to be agreed as to where the boundary is to be drawn.
+
+"I don't think we should underestimate how difficult that is when the scientists themselves are seemingly poles apart on where the science stands."
+
+According to Lord Hughes, the aim of the primers is not to do away with expert evidence where there is scientific disagreement.
+
+"The primers are about the common ground they're not about resolving the cutting edge of the limits of science".
+
+The guides have been produced with the help of Prof Charles Godfray and Prof Angela McLean of Oxford University who have worked on a related project to provide evidence summaries for civil servants and ministers to help them on policy issues.
+
+Prof Godfray said that the judges absorbed the information in the primers "like sponges".
+
+"We've found the judges are really hungry to find out more about the underlying science and being judges they have a fabulous capacity to master a brief very quickly.
+
+"This is what judges do day in and day out; to a certain extent civil servants and ministers have the same capacity but maybe not quite as developed as in the judiciary".
+
+Shoeprint at scene
+
+The need for a statistics primer is highlighted by a case in of a convicted killer, called "T", for legal reasons.
+
+It was heard by the court of appeal in 2010. The issue focused on the use of a mathematical technique called "Bayesian analysis". This is a technique used by statisticians to calculate the likelihood of an event based on the probabilities of other related events.
+
+In this case a shoeprint left at the crime scene matched a pair found in T's house. It was a common brand of trainers but taking into account the size of the shoe, how the sole had been worn down and the damage to it it was possible to significantly increase the probability the print came from the shoe found in T's flat.
+
+But the judge rejected the argument on the basis that there were no accurate sales figures for the brand of shoe and so an accurate probability could not be calculated. The conviction was quashed. Moreover he ruled that Bayesian analysis should not be used in court unless the statistics were "firm".
+
+Statisticians, however, believe that a rough estimate is still a useful guide.
+
+Another area of uncertainty is how much weight to place on neuroscience evidence which is being presented in courtrooms as mitigation for violent crimes.
+
+Specifically, some defence teams have been allowed to argue that the defendant has a version of a gene, called MAOA, that is associated with psychiatric disorders, implying that their client was not able to control their actions.
+
+Follow Pallab on Twitter

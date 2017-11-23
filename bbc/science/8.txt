@@ -1,0 +1,44 @@
+NASA’s Next Mars Lander Zooms toward Launch
+LITTLETON, Colo.—After expensive delays, NASA’s next mission to Mars is on track to embark next year. As spacecraft names go, this one is a mouthful: Interior Exploration using Seismic Investigations, Geodesy and Heat Transport. At NASA, and here at Lockheed Martin Space Systems Company, which built the craft, it’s just called InSight.
+
+Designed to probe the planet’s deep interior and to eavesdrop on rumbling “Marsquakes,” the InSight lander will effectively take the planet’s temperature and measure its pulse. Now in final preparations on its path to the launchpad, the spacecraft is undergoing extensive thermal and vacuum testing and attended by a swarm of bunny suit–clad technicians. (The suits should help prevent microbial hitchhikers from catching a free ride to Mars when InSight lifts off.)
+
+That launch could come as soon as May 5, 2018, according to Scott Daniels, manager of the assembly, test and launch operations phase for InSight at Lockheed Martin. The spacecraft is on target for transport in late February next year to California’s Vandenberg Air Force Base, where it will be mated with a rocket and prepared for launch. “Because we have an interplanetary launch window, it’s vital that we stay on schedule,” Daniels says. “The more [InSight] gets handled, the more likely something might go wrong. So one of my primary jobs is to make sure we get InSight off the planet as soon as possible and onto its November 26 landing on Mars.”
+
+Technicians prepare NASA’s Insight Mars lander for the final round of testing at Lockheed Martin Space Systems Co. in Colorado prior to next year’s Red Planet sendoff from Vandenberg Air Force Base in California. Credit: Barbara David
+
+Back from the Brink
+
+The race to get InSight to Mars is really déjà vu all over again.
+
+In December 2015 NASA announced it had suspended the spacecraft’s planned 2016 launch. With InSight then already at Vandenberg, the no-go decision resulted from a flaw in one of the spacecraft’s key instruments, a seismometer called SEIS (for Seismic Experiment for Interior Structure) provided by France’s space agency, the National Center of Space Research (CNES). SEIS is critical to InSight’s science mission; it gauges ground movements as small as the diameter of an atom but requires a vacuum seal around its three main sensors to endure the ruthless extremes of the Martian environment. During testing, the instrument failed to hold a vacuum; somewhere, somehow, it was leaking.
+
+It was a nerve-wracking time, recalls Bruce Banerdt, InSight principal investigator at the NASA Jet Propulsion Laboratory. Ultimately, a full-court press from experts at CNES and JPL fixed the leak, and the seismometer passed a crucial review last August. Now, Banerdt says, “we’re on schedule. We have margin. And there are no major issues that we are working on. I’m feeling good. It’s doubly real now, I guess.”
+
+The launch delay and SEIS repairs ballooned InSight’s total estimated cost to about $800 million, with the mission’s foreign partners spending over $175 million tackling instrument challenges alone. “I think CNES told me it was the most expensive non-Earth project they’ve ever undertaken,” Banerdt says. “It didn’t start out that way, but they stepped up and put in the resources to make things right.” NASA doubled down as well, taking a hard look at InSight’s groundbreaking science goals and the investment already sunk before approving about $130 million of additional funds to make the Mars lander mission happen, Banerdt says.
+
+Close-up view of the Seismic Experiment for Interior Structure (SEIS), a seismometer provided by France’s Centre National d'Études Spatiales (CNES). Getting this delicate, precision instrument on track for flight caused InSight’s launch to be delayed from 2016 to next year. Credit: Barbara David
+
+Going Deep
+
+The reason InSight survived at all, rather than being canceled, might be that its inquiries encompass all the rocky planets of the inner solar system. Studying the depths of Mars, it turns out, can help researchers piece together the processes that assembled all the terrestrial worlds more than four billion years ago.
+
+Insight addresses “a fundamental area of Mars science—geophysics—studying the interior of what we believe is an active planet, revealing its present state and clues to its past,” says Jim Green, NASA’s Planetary Science Division director. Until now geophysicists have really only studied one active terrestrial planet up close—Earth. Adding data from a second could lead to exponential boosts in scientists’ understanding of rocky worlds in general.
+
+Furthermore, Green points out, whereas InSight has no direct connection with NASA’s nascent plans to eventually land humans on Mars, its mission does complement these plans quite well. “Before humans live and work on Mars, InSight will tell us about the severity of Marsquakes that may or may not have to be taken into account in the building of permanent structures,” he says.
+
+According to Stuart Spath, Lockheed Martin’s InSight program manager, the lander’s data could also dovetail nicely with another top NASA priority: appraising future samples retrieved from Mars and hauled back to Earth. Knowing more about the warmth of Mars’s interior can guide judgments about whatever scientists see when they analyze returned specimens drawn from the subsurface, he says. “[InSight’s mission] will be the first time we’ve peered inside the planet. That’s all new science,” Spath says. Directly or indirectly, “the more we do at Mars, the more we’ll pave the pathway to eventual human exploration.”
+
+Artwork depicting the InSight Mars lander and its external instruments deployed on the Red Planet. Credit: NASA/JPL-Caltech
+
+On a (Robotic) Limb
+
+To accomplish all this, InSight’s science payload includes two key instruments: France’s SEIS and the Heat Flow and Physical Properties Package (HP3), provided by the German Aerospace Center.
+
+As always, there’s a long list of calamities that can befall any legged lander attempting to get up close and personal with Mars. Assuming InSight survives its landing, many of the most worrisome remaining risks revolve around the spacecraft’s robotic arm, which must plop both SEIS and HP3 down on the rugged Martian terrain. After deploying SEIS, this remote-controlled limb must also crown the seismometer with a beanie cap–like shield to protect against winds and weather that could scuttle the instrument’s atomically precise readings.
+
+The HP3, for its part, will measure the heat flux from Mars. Once it is deployed, it will burrow five meters into the Martian subsurface—deeper than any robotic arm, scoop, drill or probe has ever gone before—to seek out just how much heat the planet still harbors billions of years after its formation. That information could also help mission planners determine how best to tap into geothermal energy for future human outposts.
+
+Even in the unlikely event the robotic arm malfunctions, the lander itself would still deliver novel science once on Mars, Banerdt says. Insight also totes top-notch equipment to study the planet’s weather, and its onboard magnetometer can reveal how cosmic rays and charged particles from the solar wind propagate through the atmosphere to scour the planet’s surface—all useful information for scouting sites for potential future habitats.
+
+For Banerdt,it has been a long trip on Earth just getting ready to go to Mars and touch down at Elysium Planitia, a relatively flat and innocuous piece of the planet’s equatorial real estate. “It feels good now to be on a normal stressful project…not like desperate stress. For the first time we aren’t coming from behind,” he concludes. “To be able to throw something across the solar system and have it land safely on another planet, it’s just awesome.”

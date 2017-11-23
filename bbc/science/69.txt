@@ -1,0 +1,38 @@
+High yield, protein with soybean gene
+Leftovers can be quite valuable. For instance, when soybean seed is crushed and the oil extracted, what's left is called soybean meal. You'll want to save this leftover.
+
+Soybean meal contains high-quality protein. Globally, close to 98% of soybean meal produced is used in animal feed. The United Nations Food and Agriculture Organization calls it "the most important and preferred source of high-quality vegetable protein for animal feed."
+
+But soybean growers face a challenge. It has proved difficult to develop soybean varieties with both high protein levels and high yields. These two characteristics are negatively correlated: when soybean yields are high, protein levels tend to decrease, and vice-versa.
+
+Plant breeder Brian Diers and colleagues addressed this problem in a new study. Their initial results suggest it might be possible to breed soybeans with higher protein concentration without significantly decreasing yields.
+
+"Growers are typically paid based on the weight of soybeans they deliver to buyers," says Diers, a researcher at the University of Illinois at Urbana-Champaign. "Therefore, growers decide which varieties of soybean to grow based primarily on yields."
+
+If high-protein varieties of soybean have relatively low yields, they may not be chosen by growers, says Diers.
+
+InFor this study, the researchers tested a gene that increases protein by breeding it into two different varieties of soybean. The results were promising. Plants of both varieties with the high protein gene had increased protein concentration and did not show a significant decrease in yields.
+
+"The study has also increased our understanding of the genetics of protein concentration in soybean," says Diers. "That's important because soybean protein concentration is impacted by many genes."
+
+These genes are spread across different locations in the soybean DNA. Different versions of genes at each location can lead to higher or lower protein concentration in soybean.
+
+The DNA in soybean cells - as in all plant and animal cells - is packaged into structures called chromosomes. The researchers focused on a gene located on chromosome 15, which was previously shown to impact protein concentration. "But there hasn't been research conducted on how this gene impacts agronomic traits, like yield," says Diers.
+
+They developed experimental lines with and without the high protein gene by breeding the gene into two varieties of soybean and testing the lines for both protein concentration and yield.
+
+"We found that this gene on chromosome 15 consistently increased protein concentration," ayssays Diers. The gene increased protein concentration between 8 to 14 grams per kilogram of soybean. "This gene could be a good choice for breeders to use when they want soybeans with higher protein concentration."
+
+The researchers did see a decrease in seed oil concentration resulting from the gene. However, they did not observe a significant reduction in yield. That's in contrast to the impact of a gene on chromosome 20 that increased protein concentration but also significantly decreased yields in soybean varieties.
+
+However, Diers is cautious about the non-significant yield reductions observed in the study. "We did observe a negative yield trend, but it was not statistically significant," he says.
+
+The gene was tested by breeding it into two varieties. That's important because "genes need to be evaluated across different varieties," says Diers. "Sometimes genes only work in some varieties and not others." It's important for breeders to have this information to avoid surprises.
+
+High-protein, high-yield varieties of soybean would be attractive for growers and end-users. The protein in soybean meal is considered high-quality because it is composed of a fairly well-balanced set of amino acids. "Soybean meal complements corn well in animal feed," says Diers.
+
+Diers is now working on generating a more detailed map of chromosome 15. A more precise genetic map could help breeders generate other high-protein varieties of soybean.
+
+###
+
+Read more about Diers' work in Crop Science. This research was funded through grants from the United Soybean Board.

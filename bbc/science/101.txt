@@ -1,0 +1,16 @@
+The HLF-gene controls the generation of our long-term immune system
+A research group at Lund University in Sweden has found that when the HLF (hepatic leukemia factor) gene -which is expressed in immature blood cells - does not shut down on time, we are unable to develop a functional long-term immune system. This could be a very early stage of leukemia.
+
+Blood stem cells give rise to all of our blood cells: the red blood cells that transport oxygen, the platelets that enable blood coagulation, and our immune cells that protect us from infections. Immune cells can, in turn, be divided into two groups; one that consists of cells with a very short life expectancy and a natural but rather unspecific ability to counteract infections (myeloid cells), and another that, in contrast, consists of very long-lived cells (lymphocytes) that specialise in combatting specific bacteria and viruses.
+
+"The ability of blood stem cells to form all types of blood cells is a fundamental property that is also utilised in connection with bone marrow transplants. An increased understanding of these processes is crucial as immune cells in patients who undergo bone marrow transplants are regenerated very slowly, which results in a long period of immune sensitivity", says David Bryder who was in charge of the study.
+
+Despite the fact that all of our genes have been mapped, it is still largely unknown how the genes are controlled. What a cell can and cannot do is governed entirely by how the cell uses its genome. David Bryder and his colleagues have searched for genes expressed in immature blood cells but which disappear in connection with their further maturation. They then discovered the HLF gene, which caught their attention for two reasons: one, the gene controls what parts of our DNA are to be used, and two, the gene is directly involved in a rare but very aggressive type of blood cancer.
+
+"Our studies revealed that if the immature blood cells are unable to shut down the HLF gene at the correct stage of development, the lymphocytes - the long-lived immune cells - are unable to form. As a result, you will only have one type of immune defence."
+
+A single cell must undergo a variety of changes to become cancerous. However, the earliest changes may involve the HLF gene, which give rise to a precursor to leukemia. Patients with leukemia in which the HLF gene is involved have a very poor prognosis, but it has been difficult to generate reliable models for studying the emergence, development and possible treatment of these leukemias more thoroughly. The researchers' long-term goal is now to identify the mechanisms that can be used to break down these aggressive leukemias.
+
+"The knowledge and experimental model systems we developed concerning how HLF affects blood cell development enables us to map the order of gene mutations that lead to HLF-generated leukemia, which is an important next step towards our goal", concludes David Bryder.
+
+###

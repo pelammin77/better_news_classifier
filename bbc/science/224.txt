@@ -1,0 +1,28 @@
+New Method to Measure Neutron Star Size Uses Modelling Based on Thermonuclear Explosions
+News Release
+
+New Method to Measure Neutron Star Size Uses Modelling Based on Thermonuclear Explosions
+
+22 November 2017 Turun yliopisto (University of Turku)
+
+Neutron stars are made out of cold ultra-dense matter. How this matter behaves is one of the biggest mysteries in modern nuclear physics. Researchers developed a new method for measuring the radius of neutron stars which helps them to understand what happens to the matter inside the star under extreme pressure.
+
+A new method for measuring neutron star size was developed in a study led by a high-energy astrophysics research group at the University of Turku, Finland. The method relies on modelling how thermonuclear explosions taking place in the uppermost layers of the star emit X-rays to us. By comparing the observed X-ray radiation from neutron stars to the state-of-the-art theoretical radiation models, researchers were able to put constraints on the size of the emitting source. This new analysis suggests that the neutron star radius should be about 12.4 kilometers.
+
+– Previous measurements have shown that the radius of a neutron star is circa 10–16 kilometres. We constrained it to be around 12 kilometres with about 400 meters accuracy, or maybe 1000 meters if one wants to be really sure. Therefore, the new measurement is a clear improvement compared to that before, says Doctoral Candidate Joonas Nättilä from the University of Turku who developed the method.
+
+The new measurements help researchers to study what kind of nuclear-physical conditions exist inside extremely dense neutron stars. Researchers are particularly interested in determining equation of state of the neutron matter, which shows how compressible the matter is at extremely high densities.
+
+– The density of neutron star matter is circa 100 million tons per cubic centimetre. At the moment, neutron stars are the only objects appearing in nature, with which these types of extreme states of matter can be studied, says Juri Poutanen, the leader of the research group.
+
+The new results also help to understand the recently discovered gravitational waves that originated from the collision of two neutron stars. That is why the LIGO/VIRGO consortium that discovered these waves was quick to compare their recent observations with the new constraints obtained by the Finnish researchers.
+
+– The specific shape of the gravitational wave signal is highly dependent on the radii and the equation of state of the neutron stars. It is very exciting how these two completely different measurements tell the same story about the composition of neutron stars. The next natural step is to combine these two results. We have already been having active discussions with our colleagues on how to do this, says Nättilä.
+
+Research article:
+
+https://arxiv.org/abs/1709.09120
+
+https://doi.org/10.1051/0004-6361/201731082
+
+http://www.utu.fi/en/news/news/Pages/New-Method-to-Measure-Neutron-Star-Size-Uses-Modelling-Based-on-Thermonuclear-Explosions.aspx

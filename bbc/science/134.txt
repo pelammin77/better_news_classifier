@@ -1,0 +1,68 @@
+LIGO Detects Fierce Collision of Neutron Stars for the First Time
+More papers are appearing in Nature, Physical Review Letters and in Science, on topics including nuclear physics and cosmology.
+
+“It’s the greatest fireworks show in the universe,” said David Reitze of the California Institute of Technology and the executive director of the Laser Interferometer Gravitational-Wave Observatory, or LIGO.
+
+Daniel Holz, an astrophysicist at the University of Chicago and a member of the LIGO Scientific Collaboration, a larger group that studies gravitational waves, said, “I can’t think of a similar situation in the field of science in my lifetime, where a single event provides so many staggering insights about our universe.”
+
+The key to the discovery was the detection of gravitational waves, emanating like ripples in a pond vibrating the cosmic fabric, from the distant galaxy. It was a century ago that Albert Einstein predicted that space and time could shake like a bowl of jelly when massive things like black holes moved around. But such waves were finally confirmed only in 2016, when LIGO recorded the sound of two giant black holes colliding, causing a sensation that eventually led this month to a Nobel Prize.
+
+Photo
+
+For the researchers, this is in some ways an even bigger bonanza than the original discovery. This is the first time they have discovered anything that regular astronomers could see and study. All of LIGO’s previous discoveries have involved colliding black holes, which are composed of empty tortured space-time — there is nothing for the eye or the telescope to see.
+
+Advertisement Continue reading the main story
+
+But neutron stars are full of stuff, matter packed at the density of Mount Everest in a teaspoon. When neutron stars slam together, all kinds of things burst out: gamma rays, X-rays, radio waves. Something for everyone who has a window on the sky.
+
+“Joy for all,” said David Shoemaker, a physicist at the Massachusetts Institute of Technology who is the spokesman for the LIGO Scientific Collaboration.
+
+This is the story of a gold rush in the sky.
+
+It began on the morning of Aug. 17, Eastern time. Dr. Shoemaker was on a Skype call when alarms went off. One of the LIGO antennas, in Hanford, Wash., had recorded an auspicious signal and sent out an automatic alert. Twin antennas, in Washington and Livingston, Louisiana, monitor the distance between a pair of mirrors to detect the submicroscopic stretching and squeezing of space caused by a passing gravitational wave. Transformed into sound, the Hanford signal was a long 100-second chirp, that ended in a sudden whoop to 1000 cycles per second, two octaves above middle C. Such a high frequency indicated that whatever was zooming around was lighter than a black hole.
+
+Checking the data from Livingston to find out why it had not also phoned in an alert, Dr. Shoemaker and his colleagues found a big glitch partly obscuring the same chirp.
+
+Meanwhile, the Fermi Gamma-Ray Space Telescope, which orbits Earth looking at the highest-energy radiation in the universe, recorded a brief flash of gamma rays just two seconds after the LIGO chirp. Fermi sent out its own alert. The gamma-ray burst lasted about two seconds, which put it in a category of short gamma ray bursts, which astronomers suspect are neutron stars colliding.
+
+“When we saw that,” Dr. Shoemaker said, “the adrenaline hit.”
+
+Dr. Kalogera, who was in Utah hiking and getting ready for August’s total solar eclipse when she got the alarm, recalled thinking: “Oh my God, this is it. This 50-year-old mystery, the holy grail, is solved.”
+
+Together the two signals told a tale of a pair of neutron stars spiraling around each other like the blades of a kitchen blender.
+
+Photo
+
+But where?
+
+Luckily the European Virgo antenna had joined the gravitational wave network only two weeks before, and it also showed a faint chirp at the same time. The fact that it was so weak allowed the group to localize the signal to a small region of the sky in the Hydra constellation that was in Virgo’s blind spot.
+
+Advertisement Continue reading the main story
+
+The hunt was on. By then Hydra was setting in the southern sky. It would be 11 hours before astronomers in Chile could take up the chase.
+
+One of them was Ryan Foley, who was working with a team on the Swope telescope run by the Carnegie Institution on Cerro Las Campanas in Chile. His team made a list of the biggest galaxies in that region and set off to photograph them all systematically.
+
+The fireball showed up in the ninth galaxy photographed, as a new bluish pinprick of light in the outer regions of NGC 4993, a swirl of stars about 130 million light-years from here. “These are the first optical photons from a kilonova humankind has ever collected,” Dr. Foley said.
+
+Within 10 minutes, another group of astronomers, led by Marcelle Soares-Santos of Brandeis University and using the Dark Energy Camera, which could photograph large parts of the sky with a telescope at the nearby Cerro Tololo Interamerican Observatory, had also spotted the same speck of light.
+
+Emails went flying about in the Chilean night.
+
+When it was first identified, the fireball of 8,000-degree gas was about the size of Neptune’s orbit and radiating about 200 million times as much energy as the sun.
+
+Nine days later, the orbiting Chandra X-ray Observatory detected X-rays coming from the location of the burst, and a week after that, the Very Large Array in New Mexico recorded radio emissions. By then the fireball faded from blue to red.
+
+From all this, scientists have begun patching together a tentative story of what happened in the NGC 4993 galaxy.
+
+Photo
+
+“It’s actually surprising how well we were able to anticipate what we’re seeing,” said Brian David Metzger, a theorist at Columbia University who coined the term kilonova back in 2010.
+
+Advertisement Continue reading the main story
+
+As they tell it, the merging objects were probably survivors of stars that had been orbiting each other and had each puffed up and then died in the supernova explosions in which massive stars end their luminous lives some 11 billion years ago, according to an analysis by Dr. Kalogera. Making reasonable assumptions about their spins, these neutron stars were about 1.1 and 1.6 times as massive as the sun, smack in the known range of neutron stars.
+
+As they approached each other swirling a thousand times a second, tidal forces bulged their surfaces outward. Quite a bit of what Dr. Metzger called “neutron star guts” were ejected and formed a fat doughnut around the merging stars.
+
+At the moment they touched , a shock wave squeezed more material out of their polar regions, but the doughnut and extreme magnetic fields confined the material into an ultra-high-speed jet emitting a blitzkrieg of radiation, the gamma rays.

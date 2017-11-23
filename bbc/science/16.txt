@@ -1,0 +1,12 @@
+Why Beetles Fly Like Superman
+Beetles may not look like superheroes, but they sure fly like them. Unlike other winged insects, beetles soar with their legs outstretched, a posture that helps them maneuver and turn, a new study finds.
+
+Insects such as dragonflies and moths reduce drag during flight by pressing their forelegs against their bodies. But even the largest beetle species, including the flour beetle Mecynorhina torquata in central Africa, keeps its thick, bulky legs unfurled as it glides through the air.
+
+Scientists at Nanyang Technological University in Singapore suspected this sprawled posture, in addition to wing movements, might help the beetles turn in flight. To test this hypothesis, the researchers tethered M. torquata to a force-detecting joystick and projected several five-second videos of stripes moving left or right on a nearby screen, fooling the beetles into thinking they were turning. They then measured the response to these “fictive” turns.
+
+As shown in the video, the insects reacted by swinging their legs in the opposite direction of the “turn,” using the principle of momentum conservation to produce a rotational force, or torque strong enough to change their heading, the researchers reported last month in The Journal of Experimental Biology.
+
+The researchers then electrically stimulated the beetles’ leg muscles to produce these swinging motions during flight. This caused the insects to make small turning maneuvers in less than one fifth of a second—faster than if they had used their wings alone.
+
+Scientists had long-suspected body parts other than wings may play a role in insect flight, but had never demonstrated it clearly. “This is really the first complete study showing that legs can be an important control structure in flight,” says Stacey Combes, a biologist who researches insect flight at the University of California, Davis, and was not part of the study. “I think it will open up the [same] question in a lot of other insect systems.”

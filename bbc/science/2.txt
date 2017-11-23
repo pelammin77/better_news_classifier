@@ -1,0 +1,32 @@
+Cholesterol helps flu virus escape through host cell’s membrane
+After a flu virus infects a host cell and hijacks its inner workings to create copies of itself, these copies gather into viral buds that break free from the host cell to infect again. A new study from MIT now provides the clearest picture yet of how the buds are pinched off from the host cell membrane.
+
+Using a technique called solid-state nuclear magnetic resonance (NMR) spectroscopy, the MIT team found that two cholesterol molecules bind to a flu protein called M2 to sever the viral buds from their host. The molecular configuration creates an exaggerated wedge shape inside the cell membrane that curves and narrows the neck of the budding virus until the neck breaks.
+
+While previous research had demonstrated that M2’s action during budding was dependent on cholesterol concentrations in the cell membrane, the new study demonstrates the exact role cholesterol plays in releasing the virus.
+
+And although the team focused on a flu protein in their study, “we believe that with this approach we have developed, we can apply this technique to many membrane proteins,” says Mei Hong, an MIT professor of chemistry and senior author of the paper, which appears in the Proceedings of the National Academy of Sciences the week of Nov. 20.
+
+The amyloid precursor protein and alpha-synuclein, implicated in Alzheimer’s disease and Parkinson’s disease, respectively, are among the proteins that spend at least some of their lifetimes within cell membranes, which contain cholesterol in their fatty layers, Hong says.
+
+“About 30 percent of proteins encoded by the human genome are associated with the cell membrane, so you’re talking about a lot of direct and indirect interactions with cholesterol,” she notes. “And now we have a tool for studying the cholesterol-binding structure of proteins.”
+
+Dynamic challenges
+
+Earlier imaging and experimental studies showed that flu’s M2 protein was necessary for viral budding, and that the budding worked best in cell membranes containing a specific concentration of cholesterol. “But we were curious,” Hong says, “about whether cholesterol molecules actually bind or interact with M2. This is where our expertise with solid-state NMR comes in.”
+
+NMR uses the magnetic properties of atomic nuclei to reveal the structures of the molecules containing those nuclei. The technique is especially well-suited to studying cholesterol, “which has been generally difficult to measure on a molecular level because it’s just so small and dynamic, interacting with many proteins, and the cell membrane where we observe it is also dynamic and disordered,” Hong says.
+
+The NMR technique allowed Hong and her colleagues to pin down cholesterol “in its natural environment in the membrane, where we also have the protein M2 in its natural environment,” she says. The team was then able to measure the distance between cholesterol atoms and the atoms in the M2 protein to determine how cholesterol molecules bind to M2, as well as cholesterol’s orientation within the layers of the cell membrane.
+
+"Using highly sophisticated solid-state NMR methods, Mei Hong’s team shows that it is possible to determine accurate distances between atoms of cholesterol molecules and backbone and side-chain atoms of the M2 protein, and thus determine the cholesterol/M2 interaction," says Markus Zweckstetter, a research group leader at the Max Planck Institute for Biophysical Chemistry, who was not involved in the study. "Because membrane proteins are the target of many drugs and cholesterol influences the structure and function of these proteins, the approach described by Mei Hong’s team is a big breakthrough and lays the foundation to understand the interplay of cholesterol and more generally membrane composition and the function of membrane proteins that play critical roles in health and disease."
+
+Cholesterol and membrane curvature
+
+Cholesterol isn’t evenly distributed throughout the cell membrane — there are cholesterol-enriched “rafts” along with less enriched areas. The M2 protein tends to locate itself at the boundary between the raft and nonraft areas in the membrane, where the budding virus can enrich itself with cholesterol to build its viral envelope.
+
+The configuration that Hong and her colleagues observed at the budding neck — two cholesterol molecules attached to M2 — creates a significant wedge shape within the inner layer of the cell membrane. The wedge produces a saddle-shaped curvature at the budding neck that is needed to sever the membrane and release the virus.
+
+The new findings do not have any direct implications for vaccinating or treating flu, although they could inspire new research into how to prevent viral budding, Hong says.
+
+The research was funded by the National Institutes of Health.

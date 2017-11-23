@@ -1,0 +1,24 @@
+Big data creates family tree of constitutions
+HANOVER, N.H. - Nov. 22, 2017 - Inspired by the challenge to see how ideas are shared between nation's through their founding documents, researchers at Dartmouth College have constructed a big data, evolutionary taxonomy of the world's constitutions.
+
+The analysis traces the textual ties that bind and has resulted in a mathematically-derived constitutional family tree. Visuals included with the study reveal the evolution of constitutions and constitutional ideas, and provide a window into how nations share political concepts.
+
+"If a new country arose tomorrow, it would not draft a constitution from scratch," said Daniel Rockmore, the William H. Neukom 1964 Distinguished Professor of Computational Science at Dartmouth College, "it would look around to see what other countries have done, especially those that it feels a close relationship with."
+
+For decades, researchers have theorized that the evolution of national constitutions follow pathways similar to biological evolution. The Dartmouth analysis demonstrates that the historical development of constitutions follows the Yule Process - a model in evolutionary dynamics that describes birth process.
+
+"There's a long literature - mainly qualitative in nature - around how constitutions evolve through words," said Rockmore, "we show mathematically that the evolutionary approach that has been pondered since the 1970s is valid."
+
+While other analyses have used textual clues to identify connections, the Dartmouth research used machine learning to organize constitutions by topics - words statistically linked in documents - and identified the flow of topics over time between constitutions.
+
+"Constitutions are complex cultural recombinants," said Rockmore, "once you establish comparisons you can construct a tree and find close constitutional ancestors."
+
+To create the family tree, researchers focused on 591 national constitutions spanning 1789-2008. The U.S. Constitution is the earliest such document and is identified as the "Last Universal Common Ancestor Constitution" that serves as the root for the analysis. All other constitutions are measured through mathematical tools that reveal surprising relationships and unexpected information about what constitutions serve as the source of the most and least textual inspiration.
+
+Based on relationships revealed through the research, Thailand's original 1932 founding document is cited as one of the history's major constitutions having borrowed from 15 other constitutions and provided the textual basis for 33 others. The most prolific constitution is identified as Paraguay's 1813 constitution, which thrives among Latin America's abundance of constitutional texts.
+
+###
+
+The research will be published in the Journal of the Association for Information Science and Technology.
+
+Editor Notes:

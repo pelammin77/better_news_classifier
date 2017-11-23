@@ -1,0 +1,42 @@
+Energy from electric cars could power our lives – but only if we improve the system
+News Release
+
+Energy from electric cars could power our lives – but only if we improve the system
+
+22 November 2017 Elsevier
+
+Two apparently contradictory studies come together with recommendations
+
+Power stored in electric cars could be sent back to the grid – thereby supporting the grid and acting as a potential storage for clean energy – but it will only be economically viable if we upgrade the system first. In a new paper in Energy Policy, two scientists show how their seemingly contradictory findings actually point to the same outcome and recommendations: that pumping energy back into the grid using today’s technology can damage car batteries, but with improvements in the system it has the potential to provide valuable clean energy – and improve battery life in the process.
+
+
+
+Electric cars store excess energy when they are idle. Vehicle-to-grid (V2G) technology makes it possible to transfer that energy back to the grid when the car is not being used. This energy could help regulate the frequency of the electricity supply, reduce the amount of electricity purchased at peak times and increase the power output of the system.
+
+
+
+Two recent studies, one by Dr. Kotub Uddin at the University of Warwick in the UK and the other by Dr. Matthieu Dubarry at the Hawaii Natural Energy Institute, seem contradictory, with one suggesting that V2G degrades car batteries and the other that it improves battery life. But the two scientists worked together to look at how their studies overlap, showing that they actually come to the same conclusion.
+
+
+
+“Although both our papers seem contradictory, they are actually complimentary,” said Dr. Dubarry. “V2G is not going to be easy, but, if done properly, it has a chance to make a difference for both utilities and electric vehicle owners. We need more research to understand the process better and benefit from the technology.”
+
+
+
+The two authors agreed that in order to be economically viable, V2G has to be optimized between the requirements of the car owner, the utilities and the capability of the grid. In other words, the needs of the different people and systems involved have to be balanced. The question then became ‘can this technology be profitable?’
+
+
+
+The previous studies had different approaches to answering this question: Dr. Dubarry showed that using today’s V2G technology can be detrimental to the car battery, while Dr. Uddin found a smarter grid would make the process economically viable, and even improve the battery. In the new paper, they critiqued each other’s work and found shared conclusions. With improvements to the system, V2G could actually improve electric car battery life and be profitable for everyone involved.
+
+
+
+Measuring the impact of the technology on the battery is challenging. After two years of analyzing lithium-ion batteries, Dr. Uddin and his team developed an accurate battery degradation model that can predict the capacity and power fade in a battery over time under different conditions, such as temperature, state of charge and depth of discharge. That means the model can predict the impact of V2G on battery health. Using this model, they created a smart grid algorithm that shows how much charge a battery needs for daily use and how much can be taken away to optimize battery life.
+
+
+
+Dr. Uddin says funding is needed to develop new testing standards and control strategies to guide policies that support V2G. One key element to improving the system, he says, will be the measurement of battery degradation.
+
+
+
+“The metrics used to define battery degradation may also impact the optimization process,” he explained. “A critical component is who is responsible for estimating battery degradation? Utilities are currently taking the lead in the EU, but it might be more economical for the battery manufacturers or car manufacturers to do it. In this case, standards need to be written which define what we mean by ‘state of health’ when it comes to batteries, and the metrics that are used to determine it.”

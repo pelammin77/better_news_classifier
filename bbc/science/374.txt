@@ -1,0 +1,22 @@
+Meningococcal vaccine could protect against 91 percent of targeted bacterial strains
+Washington, DC - November 22, 2017 - Up to 91 percent of bacterial strains causing a common type of invasive serogroup B meningococcal disease in children and young adults are likely to be covered by a four-component vaccine called MenB-4C (Bexsero), according to laboratory studies conducted by investigators at the federal Centers for Disease Control and Prevention (CDC) and at GlaxoSmithKline, manufacturer of the vaccine. The work was published this week in mSphere, an open access journal from the American Society for Microbiology.
+
+Researchers used a laboratory test called the Meningococcal Antigen Typing System (MATS) to study the coverage potential of the MenB-4C vaccine, which was approved by the Food and Drug Administration in January 2015 for use in individuals ages 10-25 years. The vaccine contains 4 antigens to prevent invasive meningococcal disease caused by the serogroup B form of the bacteria Neisseria meningitidis: factor H binding protein (fHBP), Neisserial heparin binding protein (NHBA), Neisserial adhesin A (NadA) and PorA-containing outer membrane vesicles. These antigens are found on the bacteria, and vaccination with them induces an immune response in the recipients that helps protect them from infection by the bacteria that carry the antigens. In the United States in 2015, serogroup B strains of the bacteria caused approximately 40 percent of invasive meningococcal disease in all age groups, including adolescents, and over 60 percent of cases in infants aged less than one year.
+
+Researchers tested 442 N. meningitidis serogroup B samples collected by CDC from 2000 to 2008. The MATS test predicted that 91 percent of these bacterial strains causing meningococcal disease in the United States would be covered by the MenB-4C vaccine, with an estimated coverage ranging from 88 percent to 97 percent each year.
+
+More than half of the covered strains could be targeted by two or more antigens in the vaccine, the investigators found. NHBA covered 83 percent of the strains, fHBP covered 53 percent of the strains, PorA covered 5.9 percent of the strains and NadA covered 2.5 percent of the strains.
+
+"We are very pleased to see that it looks like the vaccine has the potential to cover most of the strains of meningococcal Group B bacteria currently circulating in the U.S.," said lead study author Gowrisankar Rajam, Ph.D., health scientist at CDC. "However, we need to continue our analysis to assess the coverage of currently circulating strains in the U.S. We are confident the MATS technique will be very useful at detecting any changes in bacterial expression of these antigens."
+
+Neisseria meningitidis is a leading cause of bacterial meningitis in children and young adults, resulting in significant morbidity and mortality worldwide. Meningococcal disease is a life-threatening illness that can infect the bloodstream and the lining that surrounds the brain and spinal cord. The bacteria can be transmitted from person to person through close or prolonged contact with respiratory or throat secretions, such as by coughing, kissing or living in close quarters.
+
+Another vaccine against serogroup B meningococcal disease, called Trumenba, was approved by the FDA in October 2014. Previous vaccines were available to protect against meningococcal disease caused by N. meningitidis serogroups A, C, Y and W but not against serogroup B.
+
+###
+
+Funding, material and support for the study was provided by GlaxoSmithKline Biologicals SA, manufacturer of the Bexsero meningococcal vaccine. Some of the study co-authors are employed by the company, which was involved in analysis and interpretation of the data and which was provided the opportunity to review a preliminary manuscript for accuracy.
+
+The American Society for Microbiology is the largest single life science society, composed of over 50,000 scientists and health professionals. ASM's mission is to promote and advance the microbial sciences.
+
+ASM advances the microbial sciences through conferences, publications, certifications and educational opportunities. It enhances laboratory capacity around the globe through training and resources. It provides a network for scientists in academia, industry and clinical settings. Additionally, ASM promotes a deeper understanding of the microbial sciences to diverse audiences.

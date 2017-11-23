@@ -1,0 +1,22 @@
+UVA aims to help patients with cancer make complex care decisions
+Researchers at the University of Virginia Cancer Center are developing a tool to help patients with prostate cancer better understand the potential risks and rewards of their treatment options. And that tool could ultimately benefit not just those patients but a broad spectrum of patients making complex care decisions based on their tumor's genomic information.
+
+The researchers brought together patients with prostate cancer, urological surgeons, radiation oncologists, biomedical informatics experts and representatives of the tumor genomic testing industry to discuss how they could better assist patients in making treatment decisions after removal of the prostate. The stakeholders - 22 in all - concluded that patients need a way to compare the treatment options in a fashion personalized for them, incorporating factors such as age, personal priorities, genomics-defined risk of cancer recurrence and other health conditions.
+
+The researchers are now developing just such a tool. "We basically have an analytic model, and we have a mock-up of what the app should look like," said researcher Timothy Showalter, MD, a radiation oncologist at UVA. "The idea for this is that patients could play with the model themselves and adjust it a little bit and see the changes [in terms of potential outcomes and side effects]. It would be for discussion with their doctor. It's not a tool from which to make a clinical decision, but it could help facilitate the decision and add some clarity."
+
+Weighing Treatment Options
+
+Showalter and his colleagues assembled the team of patients, doctors and experts to get multiple perspectives on what might be useful for patients making decisions based on genetic testing results. One major theme was that the tool should be useful both in the doctor's office, so patients can discuss care options with their physicians, and at home, so that they can compare various scenarios with their loved ones.
+
+"Most stakeholders felt very strongly that the information should be available wherever the patient wants it," Showalter said. "There should be a private web portal, there should be the ability to print and it should be available both at home, before the physician appointment, and in the doctor's office as well. And it should be used as part of that conversation with the physician about making a decision about whether to use radiation and the effects that might have."
+
+The tool could be valuable for patients weighing potential benefits and potential side effects. For example, is radiation likely to extend their life? How might it affect their quality of life? "Our approach lets us put in things like different weights depending on their preferences for certain outcomes," Showalter said. "So if it's really important to a man to minimize his risk of urinary trouble, for example, he can weight that more heavily." Their approach can help incorporate other patient-specific factors, such as age and personal preferences for outcomes, into treatment decisions when cancer genomics information is also available to estimate individual risk of cancer recurrence.
+
+Findings Published
+
+While the researchers are developing the tool specifically for prostate cancer, they can imagine many other potential applications. For their next steps, they hope to obtain grant funding or partner with a company to continue the development process.
+
+The researchers have published the feedback from the patients, doctors and experts in the scientific journal BMC Medical Informatics and Decision Making. The paper was authored by James Abe, Jennifer M. Lobo, Daniel M. Trifiletti and Showalter.
+
+###

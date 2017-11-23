@@ -1,0 +1,12 @@
+NASA views severe rain storms over western Saudi Arabia
+As intense rain storms moved into Jeddah, Saudi Arabia on Nov. 21, NASA's Global Precipitation Measurement Mission or GPM core satellite analyzed the severe storms.
+
+Heavy downpours caused schools and universities to close and the General Authority of Meteorology and Environment Protection predicted that heavy rain will continue for a couple days.
+
+NASA's GPM Core Observatory satellite measures precipitation from space with the first space-borne Ku/Ka-band Dual-frequency Precipitation Radar (DPR) and a multi-channel GPM Microwave Imager (GMI). The satellite passed over western Saudi Arabia on Nov. 21, 2017 at 0123 UTC (Nov. 20 at 8:23 p.m. EST). GPM's Microwave Imager (GMI) and Dual-Frequency Precipitation Radar (DPR) collected data that revealed heavy rain rates within powerful storms that were headed toward Jeddah, Saudi Arabia.
+
+GPM's GMI indicated that an intense thunderstorm located over Saudi Arabia north of Jeddah was dropping rain at a rate of over 115.5 mm (4.5 inches) per hour. GPM's DPR swath measured precipitation in a storm located over the Red Sea that was producing rain at a rate of over 90 mm (3.5 inches) per hour.
+
+At NASA's Goddard Space Flight Center in Greenbelt, Md., GPM data was used to create a 3-D view of precipitation of the storms over western Saudi Arabia. The image was made using data from GPM's radar (DPR Ku Band). DPR's Ku Band instrument provides three dimensional measurements of precipitation within a swath that is 152 mile (245 km) wide. DPR found that a few storm tops over the Red Sea were reaching heights above 10 km (6.2 miles).
+
+###

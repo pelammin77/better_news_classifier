@@ -1,0 +1,48 @@
+What happens once 'net neutrality' rules bite the dust? (Update)
+In this Feb. 26, 2015, file photo, Federal Communication Commission Commissioner Ajit Pai speaks during an open hearing and vote on "Net Neutrality" in Washington. Federal Communications Commission Chairman Ajit Pai is following through on his pledge to repeal 2015 regulations designed to ensure that internet service providers treat all online content and apps equally. Pai distributed his alternative plan to the net neutrality rules to other FCC commissioners Tuesday, Nov. 21, 2017, in preparation for a Dec. 14 vote on the proposal. (AP Photo/Pablo Martinez Monsivais, File) The Federal Communications Commission formally released a draft of its plan to kill net-neutrality rules , which equalized access to the internet and prevented broadband providers from favoring their own apps and services.
+
+Now the question is: What comes next?
+
+"RADICAL DEPARTURE"
+
+The FCC's move will allow companies like Comcast, AT&T and Verizon to charge internet companies for speedier access to consumers and to block outside services they don't like. The change also axes a host of consumer protections, including privacy requirements and rules barring unfair practices that gave consumers an avenue to pursue complaints about price gouging.
+
+FCC Chairman Ajit Pai says his plan eliminates unnecessary regulation. But many worry that his proposal will stifle small tech firms and leave ordinary citizens more at the mercy of cable and wireless companies.
+
+"It would be a radical departure from what previous (FCC) chairs, of both parties, have done," said Gigi Sohn, a former adviser to Tom Wheeler, the Obama-era FCC chairman who enacted the net neutrality rules now being overturned. "It would leave consumers and competition completely unprotected."
+
+During the last Republican administration, that of George W. Bush, FCC policy held that people should be able to see what they want on the internet and to use the services they preferred. But attempts to enshrine that net-neutrality principle in regulation never held up in court—at least until Wheeler pushed through the current rules now slated for termination.
+
+Pai's proposals stand a good chance of enactment at the next FCC meeting in December. But there will be lawsuits to challenge them.
+
+MORE DETAILS
+
+The formal proposal reveals more details of the plan than were in the FCC's Tuesday press release. For instance, if companies like Comcast, AT&T and Verizon decide to block a particular app, throttle data speeds for a rival service or offer faster speeds to companies who pay for it, they merely need to disclose their policies for doing so.
+
+The FCC also says it will pre-empt state rules on privacy and net neutrality that contradict its approach. Verizon has noted that New York has several privacy bills pending, and that the California legislature has suggested coming up with its own version of net neutrality rules should the federal versions perish.
+
+This June 19, 2015, file photo, shows the Federal Communications Commission building in Washington. Federal Communications Commission Chairman Ajit Pai is following through on his pledge to repeal 2015 regulations designed to ensure that internet service providers treat all online content and apps equally. Pai distributed his alternative plan to the net neutrality rules to other FCC commissioners Tuesday, Nov. 21, 2017, in preparation for a Dec. 14 vote on the proposal. (AP Photo/Andrew Harnik, File)
+
+The plan would leave complaints about deceptive behavior and monitor privacy to the Federal Trade Commission, which already regulates privacy for internet companies like Google and Facebook.
+
+BEST BEHAVIOR
+
+Broadband providers are promising to be on their best behavior. Comcast said it doesn't and won't block, throttle or discriminate against lawful content. AT&T said that "all major ISPs have publicly committed to preserving an open internet" and that any ISP "foolish" enough to manipulate what's available online for customers will be "quickly and decisively called out." Verizon said that "users should be able to access the internet when, where, and how they choose."
+
+Some critics don't put much weight on those promises, noting that many providers have previously used their networks to disadvantage rivals. For example, the Associated Press in 2007 found Comcast was blocking some file-sharing. AT&T blocked Skype and other internet calling services on its network on the iPhone until 2009.
+
+But others suggest fear of a public uproar will help restrain egregious practices such as blocking and throttling. "I'm not sure there's any benefit to them doing that," said Sohn. "It's just going to get people angry at them for no good reason. They don't monetize that."
+
+FAST LANES, SLOW LANES
+
+Sohn, however, suggests there's reason to worry about more subtle forms of discrimination, such as "paid prioritization." That's a term for internet "fast lanes," where companies that can afford it would pay AT&T, Verizon and Comcast for faster or better access to consumers.
+
+That would leave startups and institutions that aren't flush with cash, like libraries or schools, relegated to slower service, said Corynne McSherry, legal director at the Electronic Frontier Foundation, a digital-rights group. In turn, startups would find it harder to attract investors, Sohn said.
+
+Michael Cheah, general counsel of the video startup Vimeo, said broadband companies will try to lay groundwork for a two-tiered internet—one where cash-strapped companies and services are relegated to the slow lane. To stay competitive, small companies would need to pony up for fast lanes if they could—but those costs would ultimately find their way to consumers.
+
+The view is different at the Information Technology and Innovation Foundation, a Washington, D.C., think tank funded by Google and other established tech companies. Doug Brake, a telecom policy analyst at the foundation, said there's little chance broadband companies will engage in "shenanigans," given how unpopular they already are with the public.
+
+Brake likewise played down the threat of internet fast lanes, arguing that they'll only be useful in limited situations such as high-quality teleconferencing. Like the FCC, he argued that antitrust law can serve to deter "potentially anticompetitive" behavior by internet providers.
+
+Explore further: FCC chairman sets out to repeal 'net neutrality' rules

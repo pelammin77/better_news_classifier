@@ -1,0 +1,8 @@
+Dandelion fluff makes a surprisingly effective parachute
+Dandelions and their relatives are pretty seasoned voyagers. Their seeds can sometimes travel 100 miles on the wind, and even drift over the sea to repopulate islands decimated by volcanoes.
+
+“They can achieve such incredible distances with no energy consumption,” says Cathal Cummins, an applied mathematician at the University of Edinburgh in Scotland. He’s investigating how dandelions manage the meandering flights. Eventually these insights could be used to design tiny drones that ride the wind.
+
+When a dandelion seed takes flight, its downy fluff serves as a tiny parachute to carry it on the breeze. These parachutes are very different from the ones we use. In fact, they are 90 percent empty space. “Why would nature choose such a porous design for a parachute?” Cummins says. He and his colleagues have found that the dandelion’s bristles work together to create a vortex above the seed that keeps it aloft.
+
+Staying airborne as long as possible gives dandelion seeds a better chance of being picked up by a gust of wind and carried to new territory. Like human parachuters, dandelion seeds rely on drag to slow their descent. “Ordinarily drag is a bad thing for flight, but when you jump from an airplane you want as much drag as possible to support your weight,” Cummins says.

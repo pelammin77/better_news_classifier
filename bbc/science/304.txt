@@ -1,0 +1,44 @@
+High-energy 'ghost particles' absorbed by Earth
+Image copyright Jamie Yang / IceCube Image caption Artwork: IceCube consists of an array of sensors embedded in very clear ice near the South Pole
+
+Neutrinos are known as "ghost particles", because they are known to travel through solid objects with ease.
+
+But a new study demonstrates that some of these sub-atomic particles are stopped in their tracks when they encounter our planet.
+
+Neutrinos interact so weakly with matter that a single one can pass through a light-year (10 trillion km) of lead without hitting an atom.
+
+The results come from the IceCube experiment, located in Antarctica.
+
+It's an important measurement that's consistent with the Standard Model - the theory that describes the behaviour of fundamental forces and particles, such as neutrinos.
+
+The neutrinos seen by the IceCube detector had very high energies. This was a critical factor since the higher the energy, the more likely the neutrinos are to interact with matter and therefore be absorbed by the Earth.
+
+Image copyright Jeffrey Donenfeld, NSF Image caption The IceCube laboratory is located at the Amundsen-Scott South Pole Station in Antarctica
+
+IceCube consists of an array of 5,160 basketball-sized optical sensors called Digital Optical Modules (DOMs) that are encased within a cubic kilometre of very clear Antarctic ice near the South Pole.
+
+The experiment's sensors do not directly observe neutrinos, but instead measure flashes of blue light known as Cherenkov radiation. These flashes are emitted by other particles such as muons, which are produced when neutrinos interact with the ice.
+
+By measuring the light patterns from these interactions in or near the detector array, IceCube can estimate the neutrinos' directions and energies.
+
+The team found there were fewer energetic neutrinos making it all the way through Earth to the IceCube detector than those that reached it from less obstructed paths - such as near-horizontal trajectories.
+
+"Understanding how neutrinos interact is key to the operation of IceCube," said Francis Halzen, chief scientist for IceCube and a professor of physics at the University of Wisconsin-Madison.
+
+Image copyright Mark Krasberg, IceCube/NSF Image caption A digital optical module (DOM) is lowered into the ice during construction of IceCube
+
+The results will allow team members to calculate something called the neutrino "cross-section" with a high degree of accuracy. The cross-section describes the probability that neutrinos of a given energy will interact with matter.
+
+"We were of course hoping for some new physics to appear, but we unfortunately find that the Standard Model, as usual, withstands the test," said Prof Halzen.
+
+The finding, published in Nature journal, provides the first cross-section measurements for a neutrino energy range that is up to 1,000 times higher than previous measurements at particle accelerators.
+
+Most of the neutrinos selected for this study were more than a million times more energetic than those produced by more familiar sources, such as the Sun or nuclear power plants.
+
+The analysis could also be of interest to geophysicists who would like to use neutrinos to image the Earth's interior, though this will require more data than was used in the current study.
+
+Most of the neutrinos used in the study were generated in the Earth's atmosphere, through a process initiated by cosmic rays. But the results also include a small number of "astrophysical neutrinos", which are produced by unknown sources beyond the Earth's atmosphere.
+
+Another neutrino experiment, known as the Deep Underground Neutrino Experiment (Dune), is currently in development, and is due to switch on in the 2020s.
+
+Follow Paul on Twitter.

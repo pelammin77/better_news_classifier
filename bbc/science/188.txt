@@ -1,0 +1,42 @@
+Metabolites altered in chronic kidney disease
+SAN ANTONIO, Texas - Chronic kidney disease (CKD) affects 1 in 7 people in the United States, according to the U.S. National Institute of Diabetes & Digestive & Kidney Diseases (NIDDK). These individuals have a very high risk of cardiovascular disease, and some will also progress to kidney failure requiring dialysis and transplantation.
+
+However, few options exist to treat them, and few major breakthroughs have been made during the last 30 years. More than 660,000 Americans have kidney failure, according to the NIDDK.
+
+A new study that included researchers from Norway, the University of Washington, the University of California San Diego and The University of Texas Health Science Center at San Antonio (now called UT Health San Antonio™) found that dozens of small molecules called metabolites are altered in this disease. "We analyzed these small molecules in the blood and urine of non-diabetic patients with chronic kidney disease and compared the results to samples obtained from a group of healthy individuals," said Stein Hallan, M.D., first author of the study published in EBioMedicine. "Importantly, our study identified that a group of molecules called tri-carboxylic acid (TCA) cycle metabolites are significantly affected in chronic kidney disease."
+
+Chronic kidney disease, fatigue and metabolism
+
+The TCA cycle is a process in which fuel molecules are converted into energy. This activity occurs in mitochondria--the energy centers of all types of cells. The fact that the TCA cycle is significantly impacted in chronic kidney disease supports the view of CKD as a state of mitochondrial dysfunction, said study senior co-author Kumar Sharma, M.D., FAHA, chief of nephrology and founding director of the Center for Renal Precision Medicine at UT Health San Antonio.
+
+"Typically, patients with more advanced stages of CKD suffer from severe fatigue, and many other organs (muscles, brain, gut and others) are also not functioning well," Dr. Hallan said. "The clinical picture indicates that there is a general underlying defect in mitochondrial function of these patients."
+
+Dr. Hallan has been an active collaborator with Dr. Sharma and has done several sabbaticals with Dr. Sharma in San Antonio and San Diego.
+
+This discovery builds on the Sharma group's earlier work. Since 2013, when the team was based at UC San Diego, the clinical investigators published several research papers supporting that mitochondrial dysfunction is an important mechanism in diabetic and other types of kidney diseases.
+
+The new study also found that in patients with CKD, expression of genes that regulate the TCA cycle was significantly reduced compared to healthy individuals.
+
+Molecular clues to kidney disease therapies
+
+Researchers hope that a new breakthrough therapy could arise from these insights.
+
+"This is certainly our goal," Dr. Sharma said. "Metabolomics, the analysis of small molecules in biological samples, has revealed numerous abnormalities in the blood of uremic patients, whose kidneys are unable to eliminate the body's waste products. Further exploration of the TCA cycle, using metabolomics, may identify novel therapeutic targets for CKD and in turn may help us evaluate the effects of promising interventions."
+
+The Center for Renal Precision Medicine at UT Health San Antonio contributed to the work and will expand upon it in future studies. The Kidney Precision Medicine Project, which is funded by the National Institutes of Health at centers including UT Health San Antonio, and The University of Texas System STARs Program will be part of the ongoing research.
+
+STARs awards, established by the UT System Board of Regents in 2004, are granted to UT System institutions to help attract and retain the best-qualified faculty. (STARs is short for Science and Technology Acquisition and Retention.)
+
+Center for Renal Precision Medicine
+
+Dr. Sharma recently was awarded a $1.4 million Translational STARs award to establish the Center for Renal Precision Medicine at UT Health San Antonio. Dr. Sharma is also the vice chair of research in the Department of Medicine of the Joe R. & Teresa Lozano Long School of Medicine, and occupies the L. David Hillis, M.D. Endowed Chair in Medicine.
+
+Dr. Sharma has submitted an invention disclosure based on the research to the Office of Technology Commercialization at UT Health San Antonio.
+
+###
+
+About UT Health San Antonio
+
+The University of Texas Health Science Center at San Antonio, with missions of teaching, research and healing, is one of the country's leading health sciences universities and is now called UT Health San Antonio™. UT Health's schools of medicine, nursing, dentistry, health professions and graduate biomedical sciences have produced more than 33,000 alumni who are advancing their fields throughout the world. With seven campuses in San Antonio and Laredo, UT Health San Antonio has a FY 2018 revenue operating budget of $838.4 million and is the primary driver of its community's $37 billion biomedical and health care industry. For more information on the many ways "We make lives better®," visit http://www. uthscsa. edu .
+
+Citation

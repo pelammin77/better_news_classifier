@@ -1,0 +1,68 @@
+A brief history of the Earth's CO2
+Image copyright Getty Images
+
+Climate change has been described as one of the biggest problems faced by humankind. Carbon dioxide is is the primary driver of global warming. Prof Joanna Haigh from Imperial College London explains why this gas has played a crucial role in shaping the Earth's climate.
+
+Carbon dioxide (CO2) has been present in the atmosphere since the Earth condensed from a ball of hot gases following its formation from the explosion of a huge star about five billion years ago.
+
+At that time the atmosphere was mainly composed of nitrogen, CO2 and water vapour, which seeped through cracks in the solid surface. A very similar composition emerges from volcanic eruptions today.
+
+As the planet cooled further some of the water vapour condensed out to form oceans and they dissolved a portion of the CO2 but it was still present in the atmosphere in large amounts.
+
+Tomorrow's World
+
+What is climate change?
+
+The first life forms to evolve on Earth were microbes which could survive in this primordial atmosphere but about 2.5 billion years ago, plants developed the ability to photosynthesise, creating glucose and oxygen from CO2 and water in the presence of light from the Sun.
+
+This had a transformative impact on the atmosphere: as life developed, CO2 was consumed so that by around 20 million years ago its concentration was down to below 300 molecules in every one million molecules of air (or 300 parts per million - ppm).
+
+Image copyright SPL Image caption Artwork: As life developed on Earth, carbon dioxide levels plummeted
+
+Life on Earth has evolved under these conditions - note that humans did not appear until about 200,000 years ago - and atmospheric CO2 has not exceed that concentration until the industrial revolution brought with it massive emissions from the combustion of fossil fuels: coal and oil.
+
+CO2 plays an important role in climate because it is one of the atmospheric "greenhouse" gases (GHGs) which keep the Earth's surface about 33 degrees warmer than the -18C temperature it would be at were they not present.
+
+They do this by being fairly transparent to the Sun's rays, allowing them through to warm the surface, but then absorbing the radiant heat that the surface emits, so trapping it and enhancing the warming. In the present climate the most effective GHGs are water vapour, which is responsible for about two-thirds of the total warming, and CO2 which accounts for about one quarter.
+
+Other gases, including methane, make up the remainder. The atmospheric concentration of water vapour is less than 1% and, with CO2 making up only a few molecules in every ten thousand of air, it may be surprising that they can have such a significant impact on the surface temperature.
+
+They are able to do this, however, because the structure of their molecules makes them especially effective at absorbing heat radiation while the major atmospheric gases, nitrogen and oxygen, are essentially transparent to it.
+
+Image copyright NOAA Image caption This air sampling station at Mauna Loa observatory in Hawaii recorded CO2 levels going past 400ppm
+
+The greenhouse effect means that as the atmospheric loading of GHGs increases the surface temperature of the Earth warms. The overall increase in global temperature of about 1C over the past 150 years is almost entirely due to the human activities that have increasing amounts of atmospheric GHGs.
+
+Most significantly, the concentration of CO2 has been rising exponentially (at a rate of about 0.17% per year) since the industrial revolution, due mainly to the combustion of fossil fuels but also to large-scale tropical deforestation which depletes the climate system's capacity for photosynthesis.
+
+In 2015, it passed 400ppm, more than 40% higher than its pre-industrial value of 280ppm and a level that has not existed on Earth for several million years.
+
+While the basic science of how GHGs warm the Earth is very well understood, there are complications. The climate system responds in various ways which both enhance and ameliorate the effects of these gases.
+
+For example, a warmer atmosphere can hold more water vapour (before it condenses out in clouds or rain) and because water vapour is a GHG, this increases the temperature rise. Another example: as the oceans warm they are less able to hold CO2 so release it, again with the result the initial warming is enhanced.
+
+Image copyright Getty Images Image caption Volcanoes can eject small particles into the upper part of the atmosphere
+
+The global temperature record over the past century does not show the same smooth increase presented by CO2 measurements because the climate is influenced by other factors than GHGs, arising from both natural and human sources. Some particles released into the atmosphere by industrial activities reflect sunshine back to space, tending to cool the planet.
+
+Similarly, large volcanic eruptions can eject small particles into the higher atmosphere, where they remain for up to about two years reducing the sunlight reaching the surface, and temporary dips in global temperature have indeed been measured following major volcanic events.
+
+Changes in the energy emitted by the Sun also affect surface temperature, though measurements of the solar output show this effect to be small on human timescales.
+
+Another important consideration in interpreting global temperatures is that the climate is inherently complex. Energy moves between the atmosphere and oceans in natural fluctuations - an example being El Niño events. This means that we cannot expect an immediate direct relationship between any influencing factor and surface temperature.
+
+All these factors complicate the picture. Nevertheless, it is indisputable that the global temperature rise over the past century is a result of human-produced GHGs, mainly CO2.
+
+While, until the industrial revolution, the CO2 concentration has not exceeded the 280ppm value that last occurred several million years ago, it has gone through periods when it was considerably lower.
+
+Notably, during the ice ages which have occurred roughly every 100,000 years over at least the past half million, drops in global temperature of perhaps 5C have been accompanied by reductions in CO2 concentration to less than 200ppm.
+
+The ice ages, and associated warmer interglacial periods, are brought about by changes in the Earth's orbit around the Sun which take place on these long timescales. The cooling in response to a decline in solar radiation reaching the Earth's surface results in a greater uptake of CO2 by the oceans and so further cooling due to a weakened greenhouse effect.
+
+This is an entirely natural phenomenon and it is worth noting that such amplification of temperature fluctuations will occur in response to any initiating factor regardless of its source and including human-produced greenhouse gases.
+
+The effects of increasing CO2 are not limited to an increase in air temperature. As the oceans warm they are expanding so producing a rise in sea level, this being exacerbated by the melting of some of the ice present on land near the poles and in glaciers. The warmer atmosphere holds more water vapour resulting in increased occurrences of heavy rainfall and flooding while changes in weather patterns are intensifying droughts in other regions.
+
+If human emissions of GHGs into the atmosphere continue unabated then the global temperature will continue to rise and the associated weather impacts become ever more severe. The UN climate conference in Paris in December 2015, at which 195 nations unanimously agreed on an aim to restrict the temperature rise to less than 2C, or preferably 1.5C, above the pre-industrial "baseline" was an extraordinary political achievement.
+
+To achieve this, however, will require a complete cessation of global CO2 emissions by the second half of this century and, while the world considers how this might be achieved, the crossing of the 400ppm mark in CO2 concentration has been matched by a global warming of 1C.

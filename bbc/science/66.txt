@@ -1,0 +1,64 @@
+A material with promising properties
+The Collaborative Research Centre CRC 1214 at the University of Konstanz has developed a method for synthesising Europium (II) oxide nanoparticles - a ferromagnetic semiconductor that is relevant for data storage and data transport
+
+Ferromagnetic semiconductors have attracted increasing attention over the last decade. Their properties make them promising functional materials that can be used in the field of spin-based electronics (spintronics). Spintronics is of crucial importance for the storage and transport of information. In an interdisciplinary collaboration, researchers at the University of Konstanz successfully developed a method for synthesising Europium(II) oxide (EuO) nanoparticles, a ferromagnetic semiconductor with extremely promising properties. The researchers also demonstrated that the nanoparticles have magnetic properties because of their structure. The results of the joint research project have been published in the 20 November 2017 issue of the scientific journal Advanced Materials.
+
+The collaboration of the research groups led by Professor Sebastian Polarz (inorganic chemistry), Professor Mikhail Fonin (experimental physics) and Professor Ulrich Nowak (theoretical physics) from the University of Konstanz, as well as the electron microscopy team of the Leibniz Institute for Solid State and Materials Research Dresden (IFW Dresden) headed by Dr Axel Lubk, was carried out within the framework of the University of Konstanz's Collaborative Research Centre (SFB) "Anisotropic Particles as Building Blocks: Tailoring Shape, Interactions and Structures". "Without the cooperation of these research teams, we could not have achieved these results", says Bastian Trepka, lead author of the study and a member of Sebastian Polarz's research team Functional Inorganic Materials, where the nanoparticles have been synthesized.
+
+The properties of anisotropic and magnetic nanoparticles are at the centre of the research project A5 of the SFB. Anisotropic means that the shape and the magnetic, optical or electronic properties are not identical for all spatial directions of the particle. This in turn makes it possible to investigate not only the new and often improved properties of nano-structured materials, but also the additional properties caused by anisotropy.
+
+Producing nanoparticles from ferromagnetic semiconductors such as Europium(II) oxide constitutes a huge challenge, especially in anisotropic geometry. After all, the particles with the expected new interesting properties are to be anisotropic, too. "The aim is to deepen our understanding so that we can modulate and access the properties of nano-systems on demand", says lead author Trepka. Using their special method, the researchers succeeded in producing high-quality and anisotropic EuO-nanoparticles that can be used to observe structure property effects.
+
+The method is based on a two-stage process. In a first step, a hybrid material consisting of organic and inorganic components is produced, which is already anisotropic. In the next step, the hybrid material is treated with europium vapour. As a result, it chemically converts to EuO. In this case the nanoparticles' shape is tubular. "This method is interesting because it is not limited to tubular forms. It is also possible to produce rods", explains Bastian Trepka.
+
+Furthermore, the researchers were able to demonstrate that the magnetic properties of the semiconductor Europium(II) oxide are actually related to the shape of its nanostructure, or rather the anisotropy. After further treatment while trying to generate counter-evidence, the tubular shapes disappeared, resulting in different properties. "The experimental physicists carried out measurements that confirmed the results that had been simulated by the theoretical physicists. This enabled us to develop ideas as to how the structure brings about this particular magnetic behaviour", explains Bastian Trepka.
+
+"What is really special about our process is the separation of structure control and chemical transformation. We can obtain different shapes from the same material by influencing the shape through process control. This way we will always get the material to assume the shape we need", says Trepka. In the case of Europium(II) oxide, this is a topotactic nanotransformation that maintains its crystalline direction: it is tubular both before and after treatment.
+
+"An intelligent material with a variety of properties", says Bastian Trepka of Europium(II) oxide. Above all, it has a simple crystalline structure. "We can explain changes in properties with appeal to the crystalline structures, which are pre-determined". This is ideal for basic research.
+
+###
+
+Original publication: Bastian Trepka, Philipp Erler, Severin Selzer, Tom Kollek, Klaus Boldt, Mikhail Fonin, Ulrich Nowak, Daniel Wolf, Axel Lubk, Sebastian Polarz: Nanomorphology Effects in Semiconductors with Native Ferromagnetism: Hierarchical Europium (II) Oxide Tubes Prepared via a Topotactic Nanostructure Transition. Advanced Materials, 20 November 2017. https:/ / doi. org/ 10. 1002/ adma. 201703612
+
+Facts:
+
+Project of the University of Konstanz's Collaborative Research Centre "Anisotropic Particles as Building Blocks: Tailoring Shape, Interactions and Structures"
+
+The CRC is funded by the German Research Foundation (DFG) with approximately 7.5 million euros.
+
+It commenced its work on 1 July 2016.
+
+The CRC is comprised of 15 projects as well as a centre for particle analysis.
+
+Participating research groups: Functional Inorganic Materials, led by Professor Sebastian Polarz, Magnetic Materials and Spintronics, led by Professor Mikhail Fonin, and Magnetic Materials: Theory and Simulation, led by Professor Ulrich Nowak from the University of Konstanz, as well as the Advanced Methods of Electron Microscopy working group at the Leibniz Institute for Solid State and Materials Research Dresden (IFW Dresden), headed by Dr Axel Lubk.
+
+Bastian Trepka is a doctoral researcher in Sebastian Polarz's working group, writing his doctoral thesis on magnetic metal/iron oxide nanoparticles.
+
+Note to editors: You can download photos here:
+
+https:/ / cms. uni-konstanz. de/ fileadmin/ pi/ fileserver/ 2017/ Bilder/ Image54. jpg
+
+Caption: Picture of a hybrid particle taken by a transmission electron microscope. Pictured are the inorganic (dark) and organic (light) lamellas that the particle is made of, as well as the tubular shapes (the low-contrast area in the middle). Through vaporisation with Europium, the hybrid stage can be transformed into pure EuO.
+
+Copyright: University of Konstanz
+
+http://onlinelibrary. wiley. com/ store/ 10. 1002/ adma. 201703612/ asset/ supinfo/ adma201703612-sup-0001-S1. mpg?v= 1&s= 42972df416123daa1a88fa3fd9707623cf8dd405
+
+Caption: Series of transmission electron microscope pictures of the inside of the particle.
+
+http://onlinelibrary. wiley. com/ store/ 10. 1002/ adma. 201703612/ asset/ supinfo/ adma201703612-sup-0002-S2. mpg?v= 1&s= d9497ff5f8b549f18ea8bf1a465dea99ec901030
+
+Caption: Computer-based reconstruction of the particle's geometry.
+
+Contact
+
+University of Konstanz
+
+Communications and Marketing
+
+Phone: + 49 7531 88-3603
+
+E-Mail: kum@uni-konstanz.de
+
+- uni.kn

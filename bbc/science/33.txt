@@ -1,0 +1,24 @@
+Tiny robots step closer to treating hard-to-reach parts of the body
+Tiny remotely operated robots could be designed to diagnose and treat illness in hard-to-reach areas of the human body, research suggests.
+
+In tests, a swarm of robots measuring a few millionths of a metre long - about the size of a blood cell - were guided magnetically to sites in the stomach of rats.
+
+The robots were manufactured by coating tiny algae with magnetic particles.
+
+They could be tracked in tissue close to the skin's surface by imaging the algae's natural luminescence, and in hard-to-reach deeper tissue by magnetic resonance imaging (MRI).
+
+Scientists suggest their findings could lead to a way to deliver drugs to parts of the body that are otherwise difficult to treat.
+
+The robots could also sense chemical changes linked to the onset of illness within parts of the body, which makes them potentially useful as probes for remote diagnosis.
+
+An international team of researchers, led by the Chinese University of Hong Kong, developed micro-robots by coating a microscopic algae with non-harmful, biocompatible magnetic particles. The devices can smoothly swim in biological fluids, such as dilute blood and gastric fluid.
+
+The time taken for the robots to function and biodegrade within the body could be tailored by adjusting the thickness of their manufactured coating.
+
+In lab tests, the devices were found to release potent compounds from the algae core during degradation, which selectively attacked cancer cells while leaving healthy cells unharmed. Further research could show whether this might have potential as a treatment, researchers say.
+
+The study, published in Science Robotics, was carried out in collaboration with the Universities of Edinburgh and Manchester. It was supported by the Research Grants Council of Hong Kong.
+
+Qi Zhou, of the University of Edinburgh's School of Engineering, who worked on the study, said: "A small-scale robot that can be remotely guided, is easily tracked and harmlessly biodegrades, potentially overcomes many of the challenges faced by minimally invasive therapies. We hope our discoveries will pave the way for the development of useful diagnostics or treatments."
+
+###

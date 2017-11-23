@@ -1,0 +1,22 @@
+Study reveals new mechanisms of cell death in neurodegenerative disorders
+Researchers at King's College London have discovered new mechanisms of cell death, which may be involved in debilitating neurodegenerative disorders, such as Alzheimer's disease and Parkinson's disease.
+
+This novel research, published today in Current Biology, could lead to new therapeutic approaches for treating or delaying the progression of neurodegenerative conditions that are currently incurable, if the findings are expanded. Many current treatments for neurodegenerative conditions actually aim to enhance cell clearance, which may worsen rather than improve neurodegenerative symptoms, making the need for new treatment strategies an urgent priority.
+
+Approximately 10 million people in the UK live with a neurological condition, with dementia alone estimated to cost the economy more than £10.5 billion per year in health and social care. Neurodegenerative conditions are characterised by a progressive loss of brain function, so that patients start to lose control of their movement, balance, memory and speech - similar to what happens when people have strong alcohol intoxication.
+
+However, it is not currently known how or why these brain cells lose function, particularly in the terminal stage of these illnesses.
+
+Using two animal models of a degenerative neurological disorder, the researchers were able to find a similar dysfunctional process occurring in fruit flies and mice, as well as human cells, meaning that their findings are likely to be replicated in human brains. Specifically, they found that in this condition nerve cells in certain areas of the brain become stalled and are no longer able to remove toxins or old and dysfunctional brain cells, which is a naturally occurring process known as autophagy. Autophagy is essentially how the brain breaks down cellular waste to elementary pieces, which are then recycled and used to construct and renovate brain cells.
+
+The persistent stall in autophagy means the nerve cells are unable to 'clean' the brain and this results in a build up of toxins. Essentially the cells become confused and begin pushing out essential inner components rather than waste, leading to a loss of function and ultimately their death.
+
+This new insight into how nerve cells might die from self-digestion has important implications for therapeutic approaches targeting autophagy. While current treatments aim to enhance cell clearance, in this study the authors were able to disrupt specific processes that interfere with cell clearance.
+
+Dr Olga Baron, first author from the Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at King's College London, said 'Studies like ours, looking at rare genetic conditions, can be very powerful in finding new mechanisms. We are currently looking into whether we can replicate the same findings for other disorders where autophagy has been shown to malfunction, like Alzheimer's disease and motor neurone disease.'
+
+Dr Manolis Fanto, IoPPN, King's College London, senior author of the study said 'Autophagy is important for all degenerative neurological conditions and what is emerging from our study is how the blockage of autophagy kills nerve cells in a new way, not described before.'
+
+###
+
+This study was funded by the Henry Smith Charity, Ataxia UK, US National Ataxia Foundation, Medical Research Council and the NC3R.

@@ -1,0 +1,38 @@
+Lower levels of microRNA 29 may protect from cardiac fibrosis rather than causing it
+Cardiac fibrosis involves an increase of connective tissue in the cardiac muscle, causing a loss of function. A team of researchers at the Technical University of Munich (TUM) has now discovered that microRNA 29 (miR-29) plays an important role in the formation of tissue fibrosis. They occur less frequently when miR-29 is suppressed in cardiac muscle cells. Older studies had suggested that it was in fact low levels of miR-29 that caused fibrosis. The new insights point to potential new approaches for developing drugs against fibrotic diseases.
+
+Not long ago, microRNAs were not even known to exist. In recent years, however, it has become increasingly clear that these molecules play an important role in the function of our cells. For example, they determine whether certain proteins are formed. One reason why they are seen as potentially useful in the development of new drugs is that they are relatively easy to synthesize. Moreover, for every microRNA molecule, a corresponding anti-microRNA can be produced that binds and thereby neutralizes it. Universities and research institutes all over the world are currently studying which microRNAs have major effects in the body along with the underlying mechanisms.
+
+Protecting against pathological changes
+
+The team headed by Stefan Engelhardt, Professor of Pharmacology and Toxicology at TUM, is studying the function of microRNAs in the heart. In an earlier study, the scientists identified miR-29 as a molecule possibly associated with pathological changes in the cardiac muscle. Using a mouse model, they have now shown that animals with extremely low levels of miR-29 in their cells from birth are significantly less susceptible to cardiac fibroses and hypertrophy, i.e. pathological growth of the cardiac muscle.
+
+A similar effect was seen when miR-29 was inhibited with drugs, namely a specific anti-miR. "In further experiments we were also able to show that miR-29 was responsible for this effect in particular in cardiac muscle cells, the myocytes," explains Yassine Sassi, first author of the study along with Petros Avramopoulos. The authors believe that miR-29 controls the activity of a certain chain of molecular signals in organs known as the Wnt signalling pathway. In healthy cells, this signalling pathway is largely silenced. But if Wnt signalling is activated by stress, the effects include the production of excess connective tissue.
+
+Differences compared with earlier studies
+
+"Another interesting result of our study was that we were unable to identify negative effects on the body in the absence of miR-29," says Petros Avramopoulos. Studies by other teams had suggested that it was not a higher, but rather a lower, miR-29 level that may lead to fibroses in such organs as the liver, lungs and kidneys. "A possible reason for this discrepancy is that, in our experiments, we assessed the function of endogenous miR-29 and conducted part of our studies in an intact organism," explains Stefan Engelhardt. "Other teams relied mainly on bioinformation analysis and cell cultures or the effects of an artificially elevated miR-29 level."
+
+He now plans to use the results of his team's research as a starting point to investigate further effects of miR-29. "Cardiac fibrosss is dangerous and has so far been very difficult to treat," says Engelhardt. "We are currently looking into whether anti-miR-29, the synthetic counterpart of miR-29, can help not only to prevent this process, but also to reverse it if cardiac fibrosis has already established." Another challenge is to develop methods for the targeted delivery of future miR-29-based drugs to the cardiac muscle cells.
+
+###
+
+Publication:
+
+Y. Sassi, P. Avramopoulos, D. Ramanujam, L. Grüter, S. Werfel, S. Giosele, A.-D. Brunner, D. Esfandyari, A. S. Papadopoulou, B. De Strooper, N. Hübner, R. Kumarswamy, T. Thum, X. Yin, M. Mayr, B. Laggerbauer & S. Engelhardt. "Cardiac myocyte miR-29 promotes pathological remodeling of the heart by activating Wnt signaling". Nature Communications 8, 1614 (2017). DOI: 10.1038/s41467-017-01737-4
+
+Contact:
+
+Prof. Dr. Dr. Stefan Engelhardt
+
+Institut für Pharmakologie und Toxikologie
+
+Technical University of Munich
+
+Tel: +49 4140-3260
+
+stefan.engelhardt@tum.de
+
+Further Information:
+
+Prof. Dr. Dr. Stefan Engelhardt http://www. professoren. tum. de/ en/ engelhardt-stefan/

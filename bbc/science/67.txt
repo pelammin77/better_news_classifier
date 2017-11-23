@@ -1,0 +1,32 @@
+Antibiotics resistance: Researchers succeed to block genes of resistance
+Antibiotics are commonly used around the world to cure diseases caused by bacteria. But as the World Health Organization and other international bodies have pointed out, the global increase of antibiotic resistance is a rapidly worsening problem. And since antibiotics are also an essential part of modern medicine, as prophylactic treatment during surgeries and cancer therapy, rising resistance of bacteria presents even more of a danger.
+
+That's why researchers are busy devising strategies to address this threat to human health - and Université de Montréal is at the forefront of the fight.
+
+One of the ways antibiotic resistance genes spread in hospitals and in the environment is that the genes are coded on plasmids that transfer between bacteria. A plasmid is a DNA fragment found in bacteria or yeasts. It carries genes useful for bacteria, especially when these genes encode proteins that can make bacteria resistant to antibiotics.Now a team of scientists at UdeM's Department of Biochemistry and Molecular Medicine has come up with a novel approach to block the transfer of resistance genes. The study by Bastien Casu, Tarun Arya, Benoit Bessette and Christian Baron was published in early November in Scientific Reports.
+
+A library of molecules
+
+The researchers screened a library of small chemical molecules for those that bind to the TraE protein, an essential component of the plasmid transfer machinery. Analysis by X-ray crystallography revealed the exact binding site of these molecules on TraE. Having precise information on the binding site enabled the researchers to design more potent binding molecules that, in the end, reduced the transfer of antibiotic-resistant, gene-carrying plasmids.
+
+Baron hopes the strategy can be used to discover more inhibitors of the transfer of resistant genes.
+
+"You want to be able to find the 'soft spot' on a protein, and target it and poke it so that the protein cannot function," said Baron, the Faculty of Medicine's vice-dean of research and development. "Other plasmids have similar proteins, some have different proteins, but I think the value of our study on TraE is that by knowing the molecular structure of these proteins we can devise methods to inhibit their function."
+
+Working with IRIC
+
+Building on their encouraging new data, Baron and his colleagues are now working with the medicinal chemists at UdeM's IRIC (Institut de recherche en immunologie et cancérologie) to develop the new molecules into powerful inhibitors of antibiotic resistance gene transfer. Such molecules could one day be applied in clinics in hospitals that are hotbeds of resistance, Baron hopes.
+
+Ultimately, reducing the transfer of antibiotic-resistance plasmids could help preserve the potency of antibiotics, contributing to an overall strategy to help improve human health, he added.
+
+"The beauty of what we are working on here is that the proteins are very similar to proteins that bacteria use to cause disease. So from what we learned about the TraE protein and about finding its 'soft spot,' we can actually apply this approach to other bacteria that cause diseases. One of those is Helicobacter pylori, which is a gastric pathogen that causes ulcers and stomach cancers. We're working on that one specifically now, but there are many others."
+
+Four years of work
+
+It took the UdeM team four years to arrive at the findings being published now - enough time for antibiotic resistance to grow into an ever-more worrisome global problem.
+
+UdeM pediatric physician Joanne Liu, the international president of Doctors Without Borders, has called it "a tsunami," and Baron believes she's not exaggerating. "It's a very good image to use, because we all know it's coming. It's not like a splash in your face every single day, but we all see the tide is rising.
+
+"They say that by 2050, 50 million people will die from antibiotic resistant infections," said the Toronto-born, German-raised researcher. "The day when we can't treat infections with antibiotics is coming. Nevertheless, people should have hope. Science will bring new ideas and new solutions to this problem. There's a big mobilization now going on in the world on this issue. I wouldn't say I feel safe, but it's clear we're making progress."
+
+###

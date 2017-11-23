@@ -1,0 +1,37 @@
+Lightning, with a chance of antimatter
+A Kyoto University-based team has unraveled the mystery of gamma-ray emission cascades caused by lightning strikes. Credit: Kyoto University/Teruaki Enoto A storm system approaches: the sky darkens, and the low rumble of thunder echoes from the horizon. Then without warning... Flash! Crash!—lightning has struck.
+
+This scene, while familiar to anyone and repeated constantly across the planet, is not without a feeling of mystery. But now that mystery has deepened, with the discovery that lightning can result in matter-antimatter annihilation.
+
+In a collaborative study appearing in Nature, researchers from Japan describe how gamma rays from lightning react with the air to produce radioisotopes and even positrons—the antimatter equivalent of electrons.
+
+"We already knew that thunderclouds and lightning emit gamma rays, and hypothesized that they would react in some way with the nuclei of environmental elements in the atmosphere," explains Teruaki Enoto from Kyoto University, who leads the project.
+
+"In winter, Japan's western coastal area is ideal for observing powerful lightning and thunderstorms. So, in 2015 we started building a series of small gamma-ray detectors, and placed them in various locations along the coast."
+
+But then the team ran into funding problems. To continue their work, and in part to reach out to a wide audience of potentially interested members of the public as quickly as possible, they turned to the internet.
+
+"We set up a crowdfunding campaign through the 'academist' site," continues Enoto, "in which we explained our scientific method and aims for the project. Thanks to everybody's support, we were able to make far more than our original funding goal."
+
+Spurred by their success, the team built more detectors and installed them across the northwest coast of Honshu. And then in February 2017, four detectors installed in Kashiwazaki city, Niigata recorded a large gamma-ray spike immediately after a lightning strike a few hundred meters away.
+
+It was the moment the team realized they were seeing a new, hidden face of lightning.
+
+When they analyzed the data, the scientists found three distinct gamma-ray bursts. The first was less than one millisecond in duration; the second was a gamma-ray afterglow that decayed over several dozens of milliseconds; and finally there was a prolonged emission lasting about one minute.
+
+Enoto explains, "We could tell that the first burst was from the lightning strike. Through our analysis and calculations, we eventually determined the origins of the second and third emissions as well."
+
+The second afterglow, for example, was caused by lightning reacting with nitrogen in the atmosphere. The gamma rays emitted in lightning have enough energy to knock a neutron out of atmospheric nitrogen, and it was the reabsorption of this neutron by particles in the atmosphere that produced the gamma-ray afterglow.
+
+The final, prolonged emission was from the breakdown of now neutron-poor and unstable nitrogen atoms. These released positrons, which subsequently collided with electrons in annihilation events releasing gamma rays.
+
+"We have this idea that antimatter is something that only exists in science fiction. Who knew that it could be passing right above our heads on a stormy day?" says Enoto.
+
+"And we know all this thanks to our supporters who joined us through 'academist'. We are truly grateful to all."
+
+The team still maintains over ten detectors on the coast of Japan, and are continually collecting data. They look forward to new discoveries that may await them, and Enoto hopes to continue seeing the participation of ordinary citizens in research, expanding the bounds of scientific discovery.
+
+Explore further: Lightning produces afterglow of gamma radiation
+
+More information: Teruaki Enoto et al, Photonuclear reactions triggered by lightning discharge, Nature (2017). DOI: 10.1038/nature24630
+

@@ -1,0 +1,28 @@
+Nanosponges show promise for potentially blinding eye infections
+Washington, DC - November 22, 2017 - In recent years, the number of eye surgeries for conditions including cataracts and glaucoma has dramatically increased and with it, so has the number of potentially blinding intraocular infections. In a new study, researchers demonstrate using a mouse model that engineered nanosponges can be used to protect eyes from infections caused by Enterococcus faecalis. Enterococcus faecalis contain a toxin called cytolysin, which is found in roughly 50% of isolates that cause post-operative intraocular infections seen in the United States.
+
+The research is published in mSphere, an open-access journal of the American Society for Microbiology.
+
+"Toxins are very important in bacterial ocular infections and current therapeutic strategies don't really address them," said principal study investigator Michelle Callegan, PhD, James P Luton Endowed Chair in Ophthalmology, Departments of Ophthalmology, Microbiology, and Immunology, University of Oklahoma Health Sciences Center, and the Dean A. McGee Eye Institute, Oklahoma City.
+
+Intraocular infections occur when microorganisms are accidentally introduced into the eye during, for example, eye surgeries for cataracts or glaucoma, eye injections to treat age-related macular degeneration, or traumatic eye injuries. E. faecalis belongs to a subset of highly pathogenic ocular bacterial infections whose pathogenesis is tied to their production of pore-forming toxins.
+
+Pore-forming toxins, key factors for retinal tissue damage in intraocular infections, comprise approximately 25% to 30% of bacterial cytotoxic proteins and include Staphylococcus aureus alpha toxin, Streptococcus pneumonia pneumolysin, and E. faecalis cytolysin, to name a few. "If an infection is in the cornea, the toxins from these bacteria will disrupt the epithelium, resulting in an ulcer," explained Dr. Callegan. "If the infection is in the inside of the eye, those toxins will cause disruption of the retina, a nonregenerative tissue which is essential to vision."
+
+Current strategies for treating eye infections caused by bacteria that produce toxins are subpar. "We use antibiotics that can kill the organisms, and we use anti-inflammatory agents like corticosteroids, which may or may not help with inflammation, but we don't really have a good strategy for targeting toxins," said Dr. Callegan. New strategies are needed, especially with the increasing problem of multidrug resistance.
+
+After learning that Dr. Liangfang Zhang from the University of California-San Diego had developed nanosponges that could absorb toxins secreted by methicillin-resistant Staphylococcus aureus, Dr. Callegan teamed up with his group to evaluate nanosponges in ocular infection models. Nanosponges consist of a polymeric nanoparticle core surrounded by a natural red blood cell membrane that irreversibly binds pore-forming toxins, thus preventing them from acting on their normal target cell.
+
+In vitro experiments demonstrated that the engineered nanosponges were capable of neutralizing E. faecalis cytolysin, so, the researchers moved their research into animal models. They injected nanosponge pre-treated supernatant that contained the cytolysin into mouse eyes and showed that the engineered nanosponges were able to neutralize cytolysin and prevent damage to the eye. Further experiments showed that injecting the nanosponges into the vitreous (the clear gel that fills the space between the lens and the retina) 6 hours following infection with a wild type cytolysin-producing strain protected the retina from damage.
+
+"When we treated the infected mouse eyes with the nanosponges, the retinal function in these eyes was actually preserved to a significant degree. When we didn't treat, the retinal function was completely lost," said Dr. Callegan. "The nanosponges provided some protection for the retina, and that was very exciting."
+
+The study provides a proof of principal that nanosponges could one day be used to combat the rising tide of intraocular infections seen with increased number of eye procedures done today for cataracts, glaucoma and other conditions. "We have many more experiments to do," said Dr. Callegan. "We are in the process of testing the ability of these nanosponges to treat infections with other Gram-positive ocular pathogens that produce pore-forming toxins." She said they will also test adjunct therapy with nanosponges and antibiotics in eye infection models.
+
+"If this all pans out, you could conceivably see this as a therapeutic for patients as they are treated with antibiotics before and during ocular surgery, or immediately after ocular trauma" said Dr. Callegan.
+
+###
+
+The American Society for Microbiology is the largest single life science society, composed of over 50,000 scientists and health professionals. ASM's mission is to promote and advance the microbial sciences.
+
+ASM advances the microbial sciences through conferences, publications, certifications and educational opportunities. It enhances laboratory capacity around the globe through training and resources. It provides a network for scientists in academia, industry and clinical settings. Additionally, ASM promotes a deeper understanding of the microbial sciences to diverse audiences.

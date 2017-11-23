@@ -1,0 +1,22 @@
+Enhancing the quantum sensing capabilities of diamond
+Researchers have discovered that dense ensembles of quantum spins can be created in diamond with high resolution using an electron microscopes, paving the way for enhanced sensors and resources for quantum technologies.
+
+Diamonds are made of carbon atoms in a crystalline structure, but if a carbon atom is replaced with another type of atom, this will result in a lattice defect. One such defect is the Nitrogen-Vacancy (NV), where one carbon atom is replaced by a nitrogen atom, and its neighbor is missing (an empty space remains in its place).
+
+If this defect is illuminated with a green laser, in response it will emit red light (fluoresce) with an interesting feature: its intensity varies depending on the magnetic properties in the environment. This unique feature makes the NV center particularly useful for measuring magnetic fields, magnetic imaging (MRI), and quantum computing and information.
+
+In order to produce optimal magnetic detectors, the density of these defects should be increased without increasing environmental noise and damaging the diamond properties.
+
+Now, scientists from the research group of Nir Bar-Gill at the Hebrew University of Jerusalem's Racah Institute of Physics and Department of Applied Physics, in cooperation with Prof. Eyal Buks of the Technion - Israel Institute of Technology, have shown that ultra-high densities of NV centers can be obtained by a simple process of using electron beams to kick carbon atoms out of the lattice.
+
+This work, published in the scientific journal Applied Physics Letters, is a continuation of previous work in the field, and demonstrates an improvement in the densities of NV centers in a variety of diamond types. The irradiation is performed using an electron beam microscope (Transmission Electron Microscope or TEM), which has been specifically converted for this purpose. The availability of this device in nanotechnology centers in many universities in Israel and around the world enables this process with high spatial accuracy, quickly and simply.
+
+The enhanced densities of the NV color centers obtained, while maintaining their unique quantum properties, foreshadow future improvements in the sensitivity of diamond magnetic measurements, as well as promising directions in the study of solid state physics and quantum information theory.
+
+Nitrogen Vacancy (NV) color centers exhibit remarkable and unique properties, including long coherence times at room temperature (~ ms), optical initialization and readout, and coherent microwave control.
+
+"This work is an important stepping stone toward utilizing NV centers in diamond as resources for quantum technologies, such as enhanced sensing, quantum simulation and potentially quantum information processing", said Bar-Gill, an Assistant Professor in the Dept. of Applied Physics and Racah Institute of Physics at the Hebrew University, where he founded the Quantum Information, Simulation and Sensing lab.
+
+"What is special about our approach is that it's very simple and straightforward," said Hebrew University researcher Dima Farfurnik. "You get sufficiently high NV concentrations that are appropriate for many applications with a simple procedure that can be done in-house."
+
+###

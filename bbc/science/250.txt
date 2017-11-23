@@ -1,0 +1,74 @@
+Over the river and do some good
+Boston is home to two National Cancer Institute-designated cancer centers: MIT’s Koch Institute for Integrative Cancer Research and the Dana-Farber/Harvard Cancer Center (DF/HCC). Each works to advance the fight against cancer in its own unique way.
+
+The latter draws on the collective resources of Dana-Farber Cancer Institute (DFCI), Beth Israel Deaconess Medical Center, Boston Children’s Hospital, Brigham and Women’s Hospital, Massachusetts General Hospital (MGH), Harvard Medical School (HMS), and Harvard T.H Chan School of Public Health. The Koch Institute (KI) integrates life sciences researchers with cancer-oriented engineers to develop new insights, tools, and technologies to detect, monitor, and treat the disease.
+
+The work of the KI builds on that of its predecessor, the MIT Center for Cancer Research, which made seminal contributions to the understanding of cancer biology in its three-plus decades as MIT’s hub of cancer research. Clinical collaborations have been an important component of this enterprise for years — but never on the scale of the Bridge Project.
+
+The Bridge Project was launched in 2012 to provide seed funding for collaborative research teams comprised of investigators from both MIT and Harvard University. Its goal is to foster interdisciplinary studies that combine innovative tools and methods with the translational expertise of clinical oncologists to solve today’s most challenging problems in cancer research and care. It is a simple idea, uniquely suited to this community.
+
+“In Boston, we are blessed with differently focused, world-class cancer researchers on both sides of the Charles River,” says founding donor Arthur Gelb ScD ’61, who is an emeritus trustee of DFCI and an emeritus MIT Corporation member. “The Bridge Project’s operating presumption is that spanning the gap between them — to enable truly joint research at the intersection of their disciplines — is destined to produce new, highly original, and powerful approaches to defeating cancer. The early history of the Bridge Project suggests that is exactly the case.”
+
+MIT President Emerita Susan Hockfield says Gelb “had advocated collaboration between MIT and DF/HCC for a long time.”
+
+“He presented the idea to me in one of our very first conversations, shortly after I became president,” Hockfield explains. “But we didn’t have a vehicle to make it happen until the KI.”
+
+When the Koch Institute opened its interdisciplinary doors in 2011, the Bridge Project was one of the first initiatives to walk through them.
+
+Fast-moving research
+
+The first funding cycle was modest, yet aspirational. Four grants were awarded to target two of the most deadly, hard-to-treat cancer types — brain and pancreatic. In subsequent cycles, the Bridge Project expanded to include several additional high-need disease areas, including advanced breast cancer, aggressive lung cancer, and notoriously hard-to-detect ovarian cancer, and brought the total number of projects funded to 15 within the first four years of the program.
+
+Among these efforts was a project by KI member Angela Belcher, the James Mason Crafts Professor and professor of biological engineering and materials science and engineering at MIT, who teamed up with oncologists Michael Birrer, then the director of medical gynecologic oncology at MGH, and professor of medicine at HMS, and Marcela del Carmen, an associate professor of gynecologic oncology at MGH and professor of obstetrics, gynecology, and reproductive biology at HMS, to adapt and refine the Belcher laboratory’s highly sensitive optical imaging system harnessing genetically-engineered, nanoscale fluorescent probes for early detection, real-time imaging, and monitoring of ovarian cancers. The team initially piloted the technology as a tool for image-guided surgery, and is now using it in advanced pre-clinical investigations for diagnostics and therapy of early-stage tumors.
+
+Another early-funded project, led by MIT associate professor of bology and KI member Matthew Vander Heiden and fellow physician-scientists William Kaelin Jr., a professor of medicine at DFCI and HMS, and Daniel Cahill, an assistant professor of neurosurgery at HMS and MGH, was focused on the development of a new imaging modality for tumors known as IDH-mutant gliomas. Their approach is being tested as a way to monitor drug response in patients with these tumors. The project also supported the discovery of novel approaches to target these cancers.
+
+Projects like these were just the beginning, says Tyler Jacks, director of the Koch Institute and co-leader of the Bridge Project. “As the Bridge Project gained momentum, so did the possibilities. The standards are very high — we are looking for true collaborations, rooted in real clinical need and fueled by truly innovative approaches. In exchange, we are able to catalyze progress and bring real advances to patients, very quickly.”
+
+What is it about these projects that makes them so promising? “There’s a continuum of discovery,” explains Jacks’ co-leader David Livingston, deputy director of DF/HCC, in an interview with Bloomberg Radio. “[It] begins in basic research laboratories, goes to patients in clinics and hospitals, and then comes back, and turns into new therapeutics or new diagnostics or a new ability to figure out how [a] tumor is going to behave.”
+
+This quick-paced cycle of discovery and innovation, coupled with clinical application, is why investors and others find the Bridge Project so appealing.
+
+In 2015, the Bridge Project received a $20 million challenge grant from the Commonwealth Foundation for Cancer Research to further expand the program; this doubled the number of projects to be funded and introduced new Footbridge grants, for proof-of-concept studies, and Expansion Bridge grants to rapidly launch clinical trials. One of the first expansion projects is moving a new MIT-developed vaccine technology into clinical trials for lung cancer at DFCI. A second, a collaboration between KI member Michael Hemann, an associate professor of Biology at MIT; David Weinstock, an associate professor of medicine at DFCI and HMS; and Ann LaCasce, an assistant professor in medicine at HMS and instructor in medical oncology at DFCI, is already seeing promising results in active Phase 1 trials for lymphoma-targeting combination therapy. Other projects, new and continuing, will spring into action as additional funds are raised toward this challenge.
+
+An additional research focus on pediatric brain cancer, initiated in 2016, spawned three new off-cycle projects, including the first-ever Bridge Project super-team, consisting of eight laboratories across Harvard and MIT, combining expertise in genomics, cell signaling, immunology, microfluidics, and nanotechnology, to develop non-invasive diagnostics and combination therapeutics to target aggressive gliomas in young patients.
+
+Thanks to continuing support from philanthropic donors, and the tireless work of researchers, administrators, and reviewers, the Bridge Project has processed 160 applications and funded 37 projects led by researchers from 78 laboratories at MIT and DF/HCC. Each project includes researchers from both sides of the Charles River: 92 percent of past Bridge Project teams have joint publications, and 11 invention disclosures have been filed. The program, which is entirely supported by philanthropy, has raised more than $30 million, but there is more work to be done, especially in regard to the challenge grant.
+
+Investing in success
+
+Bridge Project research is poised to directly improve patient outcomes. A collaboration between Weinstock and KI member Scott Manalis, the Andrew and Erna Viterbi Professor and professor of biological and mechanical engineering, has seen startling success.
+
+Their initial proposal to use a novel microfluidic device to measure the drug sensitivity of tumor cells has proven successful across a variety of cancer types. With published results in studying both acute lymphoblastic leukemia and glioblastoma multiforme, the MIT team’s cell-weighing technology is now being evaluated in a clinical laboratory at DFCI in which live cells from an individual patient can be exposed to different drugs to measure sensitivity, with the ultimate goal of determining if the technology can identify the best course of treatment for that patient. Their approach has seen particular success in mirroring how patients with multiple myeloma respond to different therapies.
+
+The KI/DFCI collaboration also earned a prestigious U54 grant from the National Cancer Institute, amplifying the effect of the Bridge Project work through federal funding and multi-institutional support. The technology is being further developed by Travera, the team’s newly-launched startup.
+
+Indeed, entrepreneurship offers yet another path to clinical translation. MIT spinoff PanTher Therapeutics, focused on improving therapeutic solutions to inoperable solid tumors, grew directly out of a Bridge Project grant.
+
+“The Bridge Project gave us the money to do the science,” says CEO Laura Indolfi, a former postdoc in the laboratory of KI member Elazer Edelman, the Thomas D. and Virginia W. Cabot Professor of Health Sciences and Technology. “Once we saw the results — a 12 times improvement in response rate for pancreatic cancer — we were able to take that proof-of-concept to business validation as a finalist in the MIT $100K Entrepreneurship Competition, and incubate it.”
+
+With support from MIT’s Deshpande Center for Technological Innovation, Indolfi and her team were able to de-risk the project and scale it up, launching PanTher in 2015. The team then won a “golden ticket” to LabCentral from Bristol-Myers Squibb in 2016, providing the company with lab space to further develop their technology. They are currently transitioning from seed funding to Series A and hope to begin clinical trials in 2019; conversations with the U.S. Food and Drug Administration (FDA) are already underway.
+
+Such clinical impact is usually a long way off for university researchers. The typical “bench to bedside” trajectory is on the order of a decade or more; to have so many projects in pre-clinical studies, pursuing FDA approval for clinical trials in such a short period of time is a testament to the Bridge Project’s goal of meeting the most urgent, unmet needs of cancer care.
+
+Beyond the bridge
+
+The Bridge Project has yielded unexpected benefits for researchers. Following the review of their collaborative Bridge Project application, KI member Darrell Irvine, a professor of biological engineering and materials science and engineering at MIT, and two DFCI immunologists, Michael Goldberg, an assistant professor of cancer immunology and virology at DFCI and assistant professor of microbiology and immunobiology at HMS, and Kai Wucherpfennig, director of DFCI’s Center for Cancer Immunotherapy Research and a professor of microbiology and immunobiology at HMS, decided to apply together for outside funding to support their proposed work. In 2014, they received a prominent Team Science Award from the Melanoma Research Association to improve the use of immunotherapy in cancer treatment through targeted nanoparticle delivery of small molecule drugs.
+
+There are also instances of Bridge Project research changing the course of investigators’ career paths. Indolfi, for example, took on the drug delivery work of her advisor’s Bridge Project award as a side project, never imagining that it would be spun out and lead her into entrepreneurship.
+
+Former MIT Department of Biology graduate student Mark Stevens, on the other hand, was positive that he was industry-bound when he joined the Manalis Lab. However, as he was starting to wrap up his initial thesis work using the lab’s microfluidic device to measure the masses of cells to learn about their metabolic properties, he became attracted to his advisor’s nascent collaboration with DFCI, which was just taking off. He was drawn to the project’s potential for patient-centric development, and using cell lines, mouse models, and patient samples from the collaborating labs at DFCI, ultimately added a component focused on testing for tumor drug susceptibility to his thesis.
+
+Two years past his PhD thesis defense, Stevens now holds a joint appointment between MIT and DFCI, driven by the Bridge Project’s support, where aforementioned clinical studies with the cell-weighing technology are ongoing. He describes this new position as an opportunity to provide much-needed translation, in every sense of the word, between academic and clinical settings.
+
+“There is a lot of lip service paid to interdisciplinary research, which can have less familiar, or well-defined metrics for success,” Stevens says. “This uncertainty leads to an environment where what is actually supported is relatively subject-specific, niche expertise. Programs like the Bridge Project provide a context where interdisciplinary boundaries can really be pushed.”
+
+As a result, Stevens finds himself in what he calls a “nexus” position: working to make connections between fundamental biology research and clinical need, and pushing research forward on a much faster timescale than he had originally anticipated.
+
+Such accelerated trajectories were exactly what Gelb had in mind when he first approached the institutional leaders about the potential partnership. The collaborative nature of the work, Gelb says, provides “viewpoints, tools, and methods that would not necessarily occur to researchers focused only on the underlying biology, important as that may be.” This multidisciplinary perspective is, with every new project, reshaping the way cancer researchers talk to and learn from each other.
+
+Of course, one can argue that many of these conversations would or could have happened without an official agreement, but like so many scientific endeavors, making connections is key — among researchers and investors alike.
+
+“The Bridge Project got off the ground through philanthropic funding,” says Hockfield. “It would have been impossible for us to make those clinically relevant projects work if we had had to wait for the standard grant mechanisms.”
+
+These initial investments in the Bridge Project are paying off, in the clinic, in the marketplace, and in an increasingly resource-challenged research environment. In September, the Bridge Project was honored by Boston’s life sciences and biotech community, having been chosen by a panel of judges as the winning “Big Idea” at the Xconomy inaugural awards ceremony. Additionally, the collaboration has been credited by some for contributing to the high scores that both partnering institutions received on their respective Cancer Center Support Grant reviews by the National Cancer Institute in 2014.

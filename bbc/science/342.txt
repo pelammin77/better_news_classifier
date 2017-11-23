@@ -1,0 +1,34 @@
+Will the world shake with more large earthquakes in 2018? Time will tell.
+Amidst panic over planets that don’t exist and conspiracy theories about the moon landing on Google News this morning, one headline announced a more down-to-Earth sort of doom. “Deadly earthquakes could hit a BILLION people next year because of Earth's slowing rotation,” warned The Daily Mail.
+
+While Nibiru still doesn’t exist (and the Moon landing definitely happened) the last example was based on actual research published in August in Geophysical Research Letters,where researchers put forward that by looking through the earthquake record, they could predict periods of time where large earthquakes (greater than a magnitude 7.0) might be more likely to occur.
+
+Before we get too far into the research, let’s get a few things straight. No one can predict an individual earthquake with any degree of accuracy. And it’s important to remember that an earthquake’s deadliness isn’t just determined by its magnitude, but also depends on how many people live nearby, whether they have any warning systems, and how stringent their earthquake building codes are. And finally, because we can’t predict exactly where earthquakes will strike, there’s no way to tell exactly how many people will be impacted by large earthquakes next year.
+
+In the August paper, geophysicists Rebecca Bendick and Roger Bilham started looking at the 117-year long record of earthquakes around the world. Like many who came before, they found a random distribution of earthquakes over time. Then they decided to look at different metrics related to those earthquakes.
+
+“What we started with was the idea that maybe earthquakes are more like neurons or batteries, in the sense that they have a certain amount of time required that charges them up and gives them a potential to fail, and after that charging interval, they can fail at any time.” Bendick says.
+
+Then, in a presentation at the annual meeting of the Geological Society of America, the authors built on the paper, presenting results that they say show the number of common large-scale earthquakes rising on a roughly 32-year cycle. They started looking for geophysical events that might line up with that pattern, and found a match. The events lined up with a tiny slowing in the Earth’s rotation, which happened about every 32 years (sometimes more, sometimes less). Roughly five years after the slowdown, they saw an uptick in the record of large earthquakes.
+
+“This is kind of a precious and exciting possibility in earthquake science,” Bendick says. “There are no other signals that I know of that lead an earthquake cycle in a way that would be useful for doing forecasting, or understanding in advance how the risk changes over time.”
+
+Bendick notes that they’re not precisely tying individual large earthquakes to changes in the Earth’s rotation, but simply saying that they might be more statistically likely to happen 5-6 years after these millisecond-long slowdowns. A slowdown of that nature happened a few years ago, which means that if their prediction is right, another bunch of large earthquakes should register in the next few years.
+
+Ken Hudnut is a research geophysicist with the USGS who works on earthquake risk programs, and was not involved in the study. “The main thing I came away thinking was real old fashioned scientific ‘lets check this’ kind of thoughts,” Hudnut says, noting that correlation is not the same as causation. In other words, the fact that a slowdown happened to coincide with the uptick in large quakes does not mean the two things are related, much less that one caused the other.
+
+The hope is that if they do turn out to be linked, these activity forecasts might offer some warning for an inherently unpredictable global phenomenon. In the abstract of the presentation, Bilham and Bendick write: “Whatever the mechanism, the 5-6 year advanced warning of increased seismic hazards afforded by the first derivative of the LoD is fortuitous, and has utility in disaster planning.”
+
+Hudnut is skeptical of how much actual utility the advanced notice offers to the disaster planning community. “I work with disaster planners. That’s a lot of what I do,” Hudnut says. “If I’m an emergency planner on a regional or local level in the state of California, what I’m thinking about is how can we can roll trucks. Are we going to open firehouse doors and roll trucks out, yes or no?”
+
+In the event of an earthquake, emergency responders want as much mobility as possible, and that means not having to dig their trucks out of the rubble of crushed buildings, and making sure their staff has a plan in place so that they can start helping their communities as fast as possible. That kind of precise, actionable information is not available in this broad forecast, which doesn’t pinpoint precise times and locations for earthquake activity in the coming year.
+
+“A five year heads-up on global earthquake activity might seem like it's has utility in disaster planning, and maybe on some level it does. But at the level where I work, it does not,” he adds.
+
+“They’ve put some rather bold claims out about earthquake activity increasing next year, which to me seems like a testable prediction, but in the all the tests of all the earthquake predictions before this, they haven’t tested out. I don’t believe that this will test out either.” Hudnut says.
+
+Bendick says that instead of that kind of granular information, she hopes that their forecast might simply provide an added incentive for communities that already live in earthquake-prone areas to gather their emergency kits, and make plans in case an earthquake does hit.
+
+Both Hudnut and Bendick say that time will tell just how accurate—and useful—the findings might be.
+
+“To me, this is a really fun and exciting and beautiful example of how science works,” Bendick says. “We put out this hypothesis, and two things are going to happen. One is that all of our colleagues are going to try to figure out why we’re wrong. That’s how it's supposed to work. The other is that it’s a pretty bold forecast. By the end of next year, and certainly by 2020, we’ll have a solid test of the findings.”

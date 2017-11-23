@@ -1,0 +1,36 @@
+Improving the imperfect: photosynthesis for the future
+News Release
+
+Improving the imperfect: photosynthesis for the future
+
+22 November 2017 youris.com
+
+Engineering novel pathways to potentially boost plant yield nets finalist place in the EU Innovation Radar Prize
+
+Despite its splendour and beauty, nature is full of imperfections. Indeed, the process of natural selection relies upon minor errors in genetic duplication to produce new variants, better suited to a given environment. In the face of climate change and food insecurity, researchers are now targeting one of the plant world’s inefficiencies: photosynthesis.
+
+How plants use sunlight to transform the earth’s resources into the plants that support global ecosystems is apparently miraculous. But the apparent elegance of photosynthesis does not mean that it’s operating at maximum efficiency. Nature itself has evolved more than one variant, and research groups across the world are looking at boosting different aspects of the photosynthetic system.
+
+One ambitious team is led by Dr Arren Bar-Even of the Max Planck Institute of Plant Physiology in Potsdam, Germany, who leads the FutureAgriculture project. “Most projects to improve photosynthesis are trying to take the low hanging fruit. We are trying to engineer pathways that could have a much higher effect on productivity -- a more high-risk, high-gain kind of approach.”
+
+Bar-Even ambitious plans have led his team to be nominated finalists of the Innovation Radar Prize 2017 (Excellent Science category), a European Commission initiative to champion innovations with strong potential for transformative impacts developed during EU-funded research projects, in this case the H2020 Future and Emerging Technologies programme.
+
+“It’s great you get recognition for your hard work and more importantly for your hard thinking,” says Bar-Even of the finalist place and 10 November 2017 ceremony.
+
+It’s not hard to see why the team’s approach has caught the eye of the judges and share of 62,500 votes that sent them to the final. Across the photosynthesis field, researchers are tackling single enzymes that aren’t expressed highly enough in plants to get the best yields – rubisco being a common target because it’s responsible for photorespiration but does not operate at maximum efficiency. Other groups are looking at tinkering with existing photosynthetic pathways. Bar-Even and collaborators are going a step further and creating novel enzymes and new pathways to fix carbon, pushing the boundaries of synthetic biology.
+
+They are trying to get around one the conundrums of photorespiration, the process by which as CO2 is taken from the air and fixed into carbon for the plant to use to grow. This natural process creates a toxic compound called phosphoglycolate that the plant needs to get rid of. Natural selection’s response has been to recycle it back into the chemical machinery of the photosynthetic machine. But this releases CO2, exactly what the plant needs to grow, and uses cellular resources that could otherwise be devoted to growth and, from a human perspective, making plant parts that we could eat.
+
+What if the fundamentals of photosynthesis could be redesigned without this seemingly wasteful process? “Here we come in and try to think outside of the box, about pathways that do not exist in nature,” says Bar-Even. “Without the recycling and CO2 release we could significantly boost carbon fixation and yield.”
+
+The researchers use computer simulations to select candidate enzymes and chemical pathways that could bypass the less efficient parts of the process. Next, they have selected promiscuous enzymes, those that can catalyse more than one reaction, engineered them into E. coli bacteria and cultured them over multiple generations to select for and accelerate the desired chemical reactions. Engineering the bacteria to be dependent upon the new pathway enables the researchers to test the new pathway in a living organism, harnessing natural selection “to do the dirty stuff for us”, says Bar-Even.
+
+“I think their approach has a high probability of successfully engineering novel photorespiratory bypasses,” says Dr Luke Mackinder, Lecturer in Plant Biology at the University of York, UK. “Although transfer in higher plants could be technically challenging with potential unforeseen hurdles.”
+
+All this work requires intimate knowledge of the bacteria, and Bar-Even is keen to cite the support of his collaborators, the lab of Professor Dan Tawfik at the Weizmann Institute of Science, Israel, and Dr Tobias Erb from the Max Planck Institute for Terrestrial Microbiology, Marburg, Germany.
+
+The idea is one of several currently being considered to enhance productivity to feed a burgeoning world population, says Professor Howard Smith, Head of Group, Department of Plant Sciences at the University of Cambridge. “The goal in all these approaches is to suppress the rates of photorespiration, which increase markedly under warming global temperatures. All are challenging from a bioengineering perspective, but hopefully one of these routes will eventually be successful in generating more productive crop plants.”
+
+The next steps are to transfer the novel pathways into photosynthetic organisms, plants and cyanobacteria, to see if they can thrive and translate into increased yields. Bar-Even says that, in theory, they could increase the carbon fixing rate by 60%, but it’s unlikely all of this would be translated into yield. “I would be really happy with 10%,” he says. Future Agriculture’s partners at Imperial College London and plant genomics company Evogene are ready for this next phase of the €4.9M project that runs until the end of 2020.
+
+http://www.fetfx.eu/story/improving-imperfect-photosynthesis-future/

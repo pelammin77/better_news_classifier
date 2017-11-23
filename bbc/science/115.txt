@@ -1,0 +1,54 @@
+A Saudi Heroine, a Big Score and the First City on the Moon
+The Martian author Andy Weir’s new book, Artemis, drops today. Rather than focusing on one man’s survival on an inhospitable planet hundreds of millions of kilometers away, the novel keeps readers a bit closer to home—a city called Artemis on the moon, where a few thousand people live and work in a network of domes built not far from the Apollo 11 landing site. Roughly 60 years from now the moon has become an off-world destination populated mostly by moneyed tourists and a colony of welders, metalworkers and life-support specialists who keep Artemis habitable.
+
+Then there’s Jasmine “Jazz” Bashari, a twentysomething woman of Saudi Arabian descent who grew up on the moon and now spends her time delivering packages—many with smuggled contraband—shipped from Earth. Jazz is the first to acknowledge her life has been a series of poor choices, and it’s the worst of those choices—taking on a shady sabotage job promising a big payday—that sets the plot in motion. The book is heavy with science—as anyone who read The Martian might expect—but Weir seamlessly weaves into the narrative explanations of, for example, how the air in Artemis is “made” and why it is impossible to get a make a good cup of coffee in an environment with really low air pressure.
+
+Scientific American spoke with Weir about how and why he created his late 21st-century lunar frontier town as well as Jazz’s evolution from minor character to leading lady, along with the author’s “bittersweet” decision to give up computer programming and become a full-time writer.
+
+[An edited transcript of the interview follows.]
+
+After spending so much time on Mars, you were probably sick of the Red Planet.
+
+No, Mars is really interesting to me, too. It’s just I wanted this story to be about mankind’s first city that is not on Earth. And I just think that will definitely be on the moon. I don't think we’d leapfrog over the moon and have our first settlement on Mars. Colonizing Mars before colonizing the moon would be like if the ancient Britons colonized North America before colonizing Wales.
+
+The U.S. government goes back and forth regarding its space exploration priorities. Does that have any impact on where you think the first city in space would be?
+
+Where our first city will be has very little to do with NASA or any other government space agency, in my opinion. Governments don’t make cities; economics make cities. There has to be an economic reason for a city to exist, for people to move there and make their lives there. So I decided that tourism would be why Artemis exists. And I made the conceit that the price to low Earth orbit has been driven down low enough that middle-class people can afford to go to space. I mean it’s expensive, but it’s within reach. With that suspension of disbelief, the economics of Artemis works out.
+
+How did you come up with the idea for the layout of the city in Artemis?
+
+That was fun. I actually designed the whole city of Artemis before I had any characters or story or anything to take place in it. The story has to fit in the setting. First off, you obviously need a pressure vessel to keep air in the city. A sphere is the most efficient pressure vessel. It has the least likelihood of bursting. You need the least amount of material to make it happen, etcetera.
+
+Then I thought, well, you’re going to want a double-hulled system, because you don’t want a hull breach to just kill everybody—so two hulls. You’re also going to need some radiation-proofing, because there’s a lot of radiation out in space. I worked out that a meter of crushed lunar rock placed between the two hulls would take care of that. These bubbles can be as big as you like—the first one they built was 100 meters across, and then the other four were 200 meters across, and they’re connected by tunnels that have pressurized doors. That way, if one of the hulls in one of the bubbles springs a leak, they can calmly move everybody to the other bubbles, seal off the problem one, fix the hull and probably never lose pressure at all.
+
+I also thought about how they got the materials to build it, and that’s where smelting comes in. The moon is just sitting there waiting for us to colonize it—85 percent of the rocks in the lunar highlands are a mineral called anorthite, which is made of aluminum, silicon, calcium and oxygen. So if you smelt it, you get those four elements separated out. The silicon and calcium are not as useful, but the aluminum lets you build your moon city and the oxygen fills it. Every molecule of anorthite has, I think, two aluminum atoms, one silicon atom, one calcium atom and eight oxygen atoms. It’s like the moon is made of moon bases, just some assembly required.
+
+How much of that did you know before working on the book?
+
+Very little—I started off saying, okay, they’re not going to haul 50,000 tons of metal to the moon to build a city. So what metals can you make on the moon? The moon’s lowlands have ilmenite and olivine, and stuff like that, from which you can get iron. But aluminum is better. And hugely plentiful. So by smelting anorthite into aluminum, you actually create an enormous amount of oxygen, much more than the city needs to breathe.
+
+How would you describe the mind-set of the characters in the book, who have chosen to live in a very unforgiving environment?
+
+Yeah, it’s a frontier town. I mean, aside from fire safety, it’s pretty much the same as any other town. With fire safety, though, you have to have really strong processes or everyone dies. A fire in a pressure vessel is like a fire in a submarine—it’s a horrible thing. But other than that, the sorts of people who move to a frontier town are the sorts of people who don’t like to have the government telling them what to do too much. There’s a certain libertarian streak. At the same time, in the absence of leadership real leadership will develop. That's why Artemis has a lot of fairly strong unions, and kind of even organized crime, and stuff like that. I’m not trying to present some idealized world to say, “Oh, this is what we should aspire to.” I’m just saying, “I think this is how things would shake out.”
+
+Why does the country Kenya play such a big role in Artemis’s existence?
+
+The main thing that holds us back now from private entities doing lots of cool space stuff isn’t technology—it’s policy. The United States takes treaties extremely seriously. The Outer Space Treaty is over 50 years old now and really out of date. But we’re still very meticulously obeying every part of that, and interpreting everything in the most strict way for ourselves. My idea is that a country—Kenya, in this case—could end up being the center of the space industry just by making space-friendly policy. In the story Kenya has said they have two things to offer Artemis: it’s on the Earth’s equator, which makes it cheaper to launch. And we’ll commandeer the land you need for your spaceport, and charge you lower taxes.
+
+How did you come up with Jazz Bashara, the main character?
+
+Once I created the city I started brainstorming ideas for the story. The first idea was completely different than the book as it is now. In that story Jazz was this very tertiary character. I just needed a shady yet likeable rogue who is a smuggler character. And I created her just on the spot. I'm like, what’s a country I haven't used yet?—Saudi Arabia. Okay, let’s make it a woman, too. That was the extent of my thought process then.
+
+But that original concept didn’t work—I couldn’t come up with a reasonable resolution or plot. I came up with a new story, a completely different idea that reused some characters, created new ones and ditched others. Jazz was more prominent in that one, but still not the main character. After a while that storyline didn’t work either—but I did like Jazz. So I thought, why don’t I have a story that revolves around her, a shady-but-likeable criminal type? She became cemented in my mind—my imagination would have rebelled if I tried to change her into something that I’m more familiar with. So I ended up finding myself writing a female Saudi lead character, and I'm neither of those things.
+
+Your father was an accelerator physicist and your mother an electrical engineer—how did that influence your interest in science and technology?
+
+Yeah, my dad worked with linear accelerators, which is basically making electrons go really fast. My mom is retired now, but electrical engineering wasn’t her passion. She actually really liked reading and literature. The reading and writing stuff I got from her. The science and sci-fi stuff I got from dad.
+
+The main thing he worked on was figuring out how to fire a focused beam of electrons or other charged particles. And there’s a lot you can do once you work that out. What he was doing towards the end of his career—proton therapy—is actually the stuff I thought most interesting. If you can focus a beam of protons, you can basically destroy otherwise inoperable tumors, because you’re not damaging anything in between. The problem is that making a beam like that is hugely expensive and a piece of warehouse-sized equipment. My dad and his team were working on trying to miniaturize that. That was something dad was working on that I thought was really, really cool. When I talk to him on the phone, I’m like, “How’s your brain-melting death ray working, dad?”
+
+You were working as a computer programmer when The Martian hit it big, and you turned your focus to writing full-time. What kinds of programs did you write?
+
+I was a programmer for 25 years, so I was an engineer most of my life. My first job was at Sandia [National Laboratories] while I was in high school. That’s where I learned how to program computers, through a community program where they hired teenagers who liked math and science to be test-tube cleaners or lab assistants or whatever. When I got hired, they were like, “We don’t really need someone to clean things up but we’d love to have some software to analyze this data—just to do math on large sets of data.” This was in the dark days before Excel.
+
+And so they said, “There's a computer, here’s a book on how to program computers. Figure that out, and then we’ll start telling you what we want done with the data.” I learned how to program and loved it. So when The Martian hit it big and I decided to quit programming to write full-time, it was bittersweet.

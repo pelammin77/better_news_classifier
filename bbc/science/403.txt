@@ -1,0 +1,22 @@
+Camponotini ant species have their own distinct microbiomes
+Camponotini ant species have their own distinct microbiomes and the bacteria may also vary by developmental stage, according to a study published November 22, 2017 in the open-access journal PLOS ONE by Manuela Oliveira Ramalho from the Universidade Estadual Paulista "Júlio de Mesquita Filho", Brazil, and colleagues.
+
+Many plant and animal species may have symbiotic relationships with bacteria that benefit them in various ways such as influencing reproduction, nutrition, defense, and adaptation to their environment. Many species of ants are known to possess diverse and stable microbial communities, and the microbiome in some genera of the Camponotini species has been well studied. However, there are still questions about how bacterial communities vary across different genera and stages of development.
+
+To investigate which factors influence bacterial communities in ants, the authors of the present study studied three Camponotus colonies, representing two species (Ca. floridanus and Ca. planatus), and one Colobopsis riehlii colony containing ants at each developmental stage. They analyzed the ants' DNA and their bacterial DNA, and compared how the bacteria differed between each species and each stage of development.
+
+The researchers found that each ant species had distinct microbiota, which suggests that species may be one factor that shapes the bacterial community in these Camponotini ants. They did not find any significant differences between colonies of the same species and between stages of development from different colonies, but they did find that some developmental stages had distinct bacterial populations associated with them.
+
+Further research may provide more insight into the function and importance of bacteria in colony recognition, individual and colony health, and nutrition.
+
+Manuela Oliveira Ramalho says, "This study is the first to characterize the bacterial community associated with a colony of the recently recognized genus Colobopsis and three colonies of Camponotus (two distinct species) and show how different the composition of the bacterial community is when compared across the different genera, colony and stages of development."
+
+###
+
+In your coverage please use this URL to provide access to the freely available article in PLOS ONE: http://journals. plos. org/ plosone/ article?id= 10. 1371/ journal. pone. 0187461
+
+Citation: Ramalho MO, Bueno OC, Moreau CS (2017) Species-specific signatures of the microbiome from Camponotus and Colobopsis ants across developmental stages. PLoS ONE 12(11): e0187461. https:/ / doi. org/ 10. 1371/ journal. pone. 0187461
+
+Funding: M.O.R. thanks CAPES Foundation (process no. 007343/2014-00) the Ministry of Education of Brazil, (Brasília DF 70.040-020) for their financial support. C.S.M. acknowledges the National Science Foundation (DEB-1442316) and Field Dreams program of The Women's Board of The Field Museum for support. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.

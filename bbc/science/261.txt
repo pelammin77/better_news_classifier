@@ -1,0 +1,72 @@
+How the Earth stops high-energy neutrinos in their tracks
+Neutrinos are abundant subatomic particles that are famous for passing through anything and everything, only very rarely interacting with matter. About 100 trillion neutrinos pass through your body every second.
+
+Now, scientists have demonstrated that the Earth stops energetic neutrinos--they do not go through everything. These high-energy neutrino interactions were seen by the IceCube detector, an array of 5,160 basketball-sized optical sensors deeply encased within a cubic kilometer of very clear Antarctic ice near the South Pole.
+
+IceCube's sensors do not directly observe neutrinos, but instead measure flashes of blue light, known as Cherenkov radiation, emitted by muons and other fast-moving charged particles, which are created when neutrinos interact with the ice, and by the charged particles produced when the muons interact as they move through the ice. By measuring the light patterns from these interactions in or near the detector array, IceCube can estimate the neutrinos' directions and energies.
+
+The study, published in the Nov. 22 issue of the journal Nature, was led by researchers at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) and UC Berkeley.
+
+Spencer Klein, who leads Berkeley Lab's IceCube research team, commented "This analysis is important because it shows that IceCube can make real contributions to particle and nuclear physics, at energies above the reach of current accelerators."
+
+Sandra Miarecki, who performed much of the data analysis while working toward her PhD as an IceCube researcher at Berkeley Lab and UC Berkeley, said, "It's a multidisciplinary idea." The analysis required input from geologists who have created models of the Earth's interior from seismic studies. Physicists have used these models to help predict how neutrinos are absorbed in the Earth.
+
+"You create 'pretend' muons that simulate the response of the sensors," Miarecki said. "You have to simulate their behavior, there has to be an ice model to simulate the ice's behavior, you also have to have cosmic ray simulations, and you have to simulate the Earth using equations. Then you have to predict, probability-wise, how often a particular muon would come through the Earth."
+
+The study's results are based on one year of data from about 10,800 neutrino-related interactions, stemming from a natural supply of very energetic neutrinos from space that go through a thick and dense absorber: the Earth. The energy of the neutrinos was critical to the study, as higher energy neutrinos are more likely to interact with matter and be absorbed by the Earth.
+
+Scientists found that there were fewer energetic neutrinos making it all the way through the Earth to the IceCube detector than from less obstructed paths, such as those coming in at near-horizontal trajectories. The probability of neutrinos being absorbed by the Earth was consistent with expectations from the Standard Model of particle physics, which scientists use to explain the fundamental forces and particles in the universe. This probability -- that neutrinos of a given energy will interact with matter -- is what physicists refer to as a "cross section."
+
+"Understanding how neutrinos interact is key to the operation of IceCube," explained Francis Halzen, principal investigator for the IceCube Neutrino Observatory and a University of Wisconsin-Madison professor of physics. Precision measurements at the HERA accelerator in Hamburg, Germany, allow us to compute the neutrino cross section with great accuracy within the Standard Model -- which would apply to IceCube neutrinos of much higher energies if the Standard Model is valid at these energies. "We were of course hoping for some new physics to appear, but we unfortunately find that the Standard Model, as usual, withstands the test," adds Halzen.
+
+James Whitmore, program director in the National Science Foundation's physics division, said, "IceCube was built to both explore the frontiers of physics and, in doing so, possibly challenge existing perceptions of the nature of universe. This new finding and others yet to come are in that spirit of scientific discovery."
+
+This study provides the first cross-section measurements for a neutrino energy range that is up to 1,000 times higher than previous measurements at particle accelerators. Most of the neutrinos selected for this study were more than a million times more energetic than the neutrinos produced by more familiar sources, like the sun or nuclear power plants. Researchers took care to ensure that the measurements were not distorted by detector problems or other uncertainties.
+
+"Neutrinos have quite a well-earned reputation of surprising us with their behavior," said Darren Grant, spokesperson for the IceCube Collaboration and a professor of physics at the University of Alberta in Canada. "It is incredibly exciting to see this first measurement and the potential it holds for future precision tests."
+
+In addition to providing the first measurement of the Earth's absorption of neutrinos, the analysis shows that IceCube's scientific reach is extending beyond its core focus on particle physics discoveries and the emerging field of neutrino astronomy into the fields of planetary science and nuclear physics. This analysis will also interest geophysicists who would like to use neutrinos to image the Earth's interior, although this will require more data than was used in the current study.
+
+For this study, the IceCube Collaboration, which includes more than 300 members from 48 institutions in 12 countries, expanded its research partnership to include geologists in an even larger multidisciplinary team.
+
+A deeper understanding of how often a neutrino will come through the Earth to eventually interact within the IceCube detector also requires detailed knowledge of the Antarctic ice properties, the interaction of cosmic rays with the Earth's atmosphere, and how neutrinos interact with matter.
+
+The neutrinos used in this analysis were mostly produced when hydrogen or heavier nuclei from high-energy cosmic rays, created outside the solar system, interacted with nitrogen or oxygen nuclei in the Earth's atmosphere. This creates a cascade of particles, including several types of subatomic particles that decay, producing neutrinos. These particles rain down on the Earth's surface from all directions.
+
+The analysis also included a small number of astrophysical neutrinos, which are produced outside of the Earth's atmosphere, from cosmic accelerators unidentified to date, perhaps associated with supermassive black holes.
+
+The neutrino-interaction events that were selected for the study have energies of at least one trillion electron volts, or a teraelectronvolt (TeV), roughly the kinetic energy of a flying mosquito. At this energy, the Earth's absorption of neutrinos is relatively small, and the lowest energy neutrinos in the study largely served as an absorption-free baseline. The analysis was sensitive to absorption in the energy range from 6.3 TeV to 980 TeV, limited at the high-energy end by a shortage of sufficiently energetic neutrinos.
+
+At these energies, each individual proton or neutron in a nucleus acts independently, so the absorption depends on the number of protons or neutrons that each neutrino encounters. The Earth's core is particularly dense, so absorption is largest there. By comparison, the most energetic neutrinos that have been studied at human-built particle accelerators were at energies below 0.4 TeV. Researchers have used these accelerators to aim beams containing an enormous number of these lower energy neutrinos at massive detectors, but only a very tiny fraction yield interactions.
+
+IceCube researchers used data collected from May 2010 to May 2011, from a partial array of 79 "strings," each containing 60 sensors embedded more than a mile deep in the ice.
+
+Gary Binder, a UC Berkeley graduate student affiliated with Berkeley Lab's Nuclear Science Division, developed the software that was used to fit IceCube's data to a model describing how neutrinos propagate through the Earth.
+
+From this, the software determined the cross-section that best fit the data. University of Wisconsin - Madison student Chris Weaver developed the code for selecting the detection events that Miarecki used.
+
+Simulations to support the analysis have been conducted using supercomputers at the University of Wisconsin-Madison and at Berkeley Lab's National Energy Research Scientific Computing Center (NERSC).
+
+Physicists now hope to repeat the study using an expanded, multiyear analysis of data from the full 86-string IceCube array, which was completed in December 2010, and to look at higher ranges of neutrino energies for any hints of new physics beyond the Standard Model. IceCube has already detected multiple ultra-high-energy neutrinos, in the range of petaelectronvolts (PeV), which have a 1,000-times-higher energy than those detected in the TeV range.
+
+Klein said, "Once we can reduce the uncertainties and can look at slightly higher energies, we can look at things like nuclear effects in the Earth, and collective electromagnetic effects."
+
+Binder added, "We can also study how much energy a neutrino transfers to a nucleus when it interacts, giving us another probe of nuclear structure and physics beyond the Standard Model."
+
+More data will both reduce the uncertainties and provide neutrinos at even higher energies, opening new opportunities to probe neutrino physics beyond the Standard Model. It will also enable scientists to explore the boundary between the Earth's inner solid core and its liquid outer core.
+
+A longer term goal is to build a larger detector, which would enable scientists to study neutrinos of even higher energies. The proposed IceCube-Gen2 would be 10 times larger than IceCube. Its larger size would enable the detector to collect more data from neutrinos at very high energies.
+
+Some scientists are looking to build an even larger detector, 100 cubic kilometers or more, using a new approach that searches for pulses of radio waves produced when very high energy neutrinos interact in the ice. Measurements of neutrino absorption by a radio-based detector could be used to search for new phenomena that go well beyond the physics accounted for in the Standard Model and could scrutinize the structure of atomic nuclei in greater detail than those of other experiments.
+
+Miarecki said, "This is pretty exciting - I couldn't have thought of a more interesting project."
+
+###
+
+Berkeley Lab's National Energy Research Scientific Computing Center is a DOE Office of Science User Facility.
+
+Via a related Berkeley Lab article about Sandra Miarecki, who performed much of the data analysis for this study: https:/ / newscenter. lbl. gov/ 2017/ 11/ 22/ flight-path-physics-success/ .
+
+The work was supported by the U.S. National Science Foundation-Office of Polar Programs, U.S. National Science Foundation-Physics Division, University of Wisconsin Alumni Research Foundation, Grid Laboratory of Wisconsin (GLOW) grid infrastructure at the University of Wisconsin-Madison, Open Science Grid (OSG) grid infrastructure, National Energy Research Scientific Computing Center, Louisiana Optical Network Initiative (LONI) grid computing resources, U.S. Department of Energy Office of Nuclear Physics, and United States Air Force Academy; Natural Sciences and Engineering Research Council of Canada, WestGrid and Compute/Calcul Canada; Swedish Research Council, Swedish Polar Research Secretariat, Swedish National Infrastructure for Computing (SNIC), and Knut and Alice Wallenberg Foundation, Sweden; German Ministry for Education and Research (BMBF), Deutsche Forschungsgemeinschaft (DFG), Helmholtz Alliance for Astroparticle Physics (HAP), Initiative and Networking Fund of the Helmholtz Association, Germany; Fund for Scientific Research (FNRS-FWO), FWO Odysseus programme, Flanders Institute to encourage scientific and technological research in industry (IWT), Belgian Federal Science Policy Office (Belspo); Marsden Fund, New Zealand; Australian Research Council; Japan Society for Promotion of Science (JSPS); the Swiss National Science Foundation (SNSF), Switzerland; National Research Foundation of Korea (NRF); Villum Fonden, Danish National Research Foundation (DNRF), Denmark.
+
+The IceCube Neutrino Observatory was built under a National Science Foundation (NSF) Major Research Equipment and Facilities Construction grant, with assistance from partner funding agencies around the world. The NSF Office of Polar Programs and NSF Physics Division support the project with a Maintenance and Operations (M&O) grant. The University of Wisconsin-Madison is the lead institution for the IceCube Collaboration, coordinating data-taking and M&O activities.

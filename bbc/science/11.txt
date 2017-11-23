@@ -1,0 +1,18 @@
+A huge hydrogen generator at the Earth's core-mantle boundary
+Splitting water into hydrogen and oxygen is a major theme in the development of clean, abundant energy source. A new study lead by an international research group revealed that when water meets the iron core of the Earth, the extremely high pressures and temperatures existing at the core-mantle boundary can naturally cause water to split into hydrogen and a super oxidized iron dioxide. Both the released hydrogen and the retained oxygen in the dioxide have many far-reaching implications and consequences, including the behaviors of the core-mantle boundary as a huge hydrogen generator, the separation of the deep Earth's water and hydrogen cycles, and the accumulation of oxygen-rich patches.
+
+The article, published in the National Science Review, is the result of an international collaboration among the Center for High Pressure Science and Technology Advanced Research (HPSTAR) in China and Carnegie Institution for Science in Washington, DC, and Department of Geosciences, Stanford University. They conducted high pressure-temperature experimental studies and theoretical calculations on the reaction between water and iron and probed the reaction products with synchrotron x-ray sources at the Advanced Photon Source, Argonne National Laboratory. They observed a series of intermediate composition iron oxides and iron hydride, with the final product of hydrogen and the new super oxidized iron dioxide.
+
+The authors argue that based on our knowledge of water in the slabs subducting into the deep interior as a result of plate tectonics movement, 300 million tons of water per year could be carried down and meet iron in the core. This could generate a great amount of free hydrogen at the core-mantle boundary, 2900 kilometers beneath the surface. Although such rich hydrogen source is far beyond our reach, its upward movements returning to the surface via various paths as free hydrogen, as carbon hydrides through reactions with carbon, as hydrides through reaction with nitrogen, sulfur, and halogens, or as water again after recombined with oxygen on the way up, will be key issues for understanding geochemistry of deep volatiles.
+
+Furthermore, the authors point out that continuous accumulation of super oxidized iron dioxide at the core-mantle boundary throughout the Earth history may create sizable domains detectable by seismic probes. Such domains may stay at the core-mantle boundary indefinitely without disturbance. However, they are out-of-the-place in terms of their very oxidized chemistry in the very reduced environment near the iron core. In the events that they were overheated by the core, a massive amount of oxygen could be released and erupted to reach the surface, causing colossal episode such as the Great Oxidation Event 24 billion years ago that put oxygen into the atmosphere and enabled aerobic life form like us.
+
+"This newly discovered water-splitting reaction at the middle Earth affects geochemistry from the atmosphere to the deep interior," said the lead-author Ho-kwang Mao. "Many previous theories need to be re-examined now."
+
+###
+
+See the article: When water meets iron at Earth's core-mantle boundary
+
+Ho-Kwang Mao, Qingyang Hu, Liuxiang Yang, Jin Liu, Duck Young Kim, Yue Meng, Li Zhang, Vitali B. Prakapenka, Wenge Yang, Wendy L. Mao
+
+https:/ / doi. org/ 10. 1093/ nsr/ nwx109

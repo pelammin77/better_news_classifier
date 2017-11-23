@@ -1,0 +1,14 @@
+Droplet explosion by shock waves, relevant to nuclear medicine
+Ion beam cancer therapy could be improved if ion-induced shock waves are discovered. A new study explores how these predicted waves can be observed
+
+An arrow shooting through an apple, makes for a spectacular explosive sight in slow motion. Similarly, energetic ions passing through liquid droplets induce shock waves, which can fragment the droplets. In a study published in EPJ D, Eugene Surdutovich from Oakland University, Rochester, Michigan, USA with his colleagues from the MBN Research Centre, Frankfurt, Germany have proposed a solution to observe the predicted ion-induced shock waves. They believe these can be identified by observing the way incoming ions fragment liquid droplets into multiple smaller droplets. The discovery of such shock waves would change our understanding of the nature of radiation damage with ions to cancerous tumour. This matters for the optimisation of ion-beam cancer therapy, which requires a thorough understanding of the relation between the physical characteristics of the incoming ion beam and its effects on biological tissues.
+
+In nuclear medicine, ion beams - using protons and carbon ions--have been used clinically in the radiotherapy treatment of cancer tumours since the 1990s. Unlike X-rays, their ability to penetrate the body and release a peak of energy commensurate with the energy of the incoming ions at a desired location makes them ideal for targeting deeply-seated tumours.
+
+The predicted shock waves significantly contribute to the thermomechanical damage deliberately inflicted on tumour tissue. Specifically, the collective flow intrinsic to the shock waves helps to propagate biologically harmful reactive species, such as free radicals, stemming from the ions. This mechanism increases the volume of tumour cells exposed to reactive species.
+
+In the presence of shock waves, the authors show that, within 100 picoseconds, a droplet hit by an ion gets fragmented into much smaller droplets if its radius is somewhere between 30 and 1000 nanometres. This work suggests a way to directly observe these shock waves experimentally.
+
+###
+
+Reference: E. Surdutovich, A Verkhovtsev , and A. V. Solov'yov (2017), Ion-impact-induced multifragmentation of liquid droplets, European Physical Journal D 71: 285, DOI: 10.1140/epjd/e2017-80121-y

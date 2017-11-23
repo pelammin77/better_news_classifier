@@ -1,0 +1,34 @@
+Surprising roles for muscle in tissue regeneration, study finds
+Cambridge, MA. (November 22, 2017) - A team of researchers at Whitehead has illuminated an important role for different subtypes of muscle cells in orchestrating the process of tissue regeneration. In a paper published in the November 22 issue of Nature, they reveal that a subtype of muscle fibers in flatworms is required for triggering the activity of genes that initiate the regeneration program. Notably, in the absence of these muscles, regeneration fails to proceed. Another type of muscle, they report, is required for giving regenerated tissue the proper pattern -- for example, forming one head instead of two.
+
+"One of the central mysteries in organ and tissue regeneration is, how do animals initiate all of the cellular and molecular steps that lead to regeneration?" says senior author Peter Reddien, a member of Whitehead Institute, professor of biology at MIT, and investigator with the Howard Hughes Medical Institute. "We've helped answer this question by revealing a surprising molecular program that operates within a subgroup of muscle cells that helps establish the molecular information required for proper tissue regeneration after injury."
+
+For more than a decade, Reddien and his laboratory have studied the biological mechanisms that underlie regeneration in a tiny flatworm called planarians. These worms possess some impressive regenerative capabilities: When sliced in two, each piece of the worm can regrow the body parts needed to form two complete organisms. In previous studies, Reddien's team identified a set of always-on genes, known as position control genes (or PCGs), that provide cells with region-specific instructions -- like a set of GPS coordinates -- that tell cells where they are in the body, and thus, what body part to regenerate. Interestingly, PGCs are active in planarian muscle cells, suggesting muscle may play a major role in the regeneration process.
+
+"This discovery raised a lot of questions about how muscle participates in this process," Reddien says.
+
+In planarians, there are a handful of muscle cell types. For example, if you imagine the worms as simple cylindrical tubes, there are longitudinal muscle fibers, which run head-to-tail along the tubes' long axis. There are also circular fibers, which are perpendicular to the longitudinal fibers and hug the tubes' outer circumference.
+
+To assess the roles of these different muscle cell types in regeneration, first author Lucila Scimone and her colleagues needed a method to selectively remove them. myoD is a gene found specifically in the longitudinal fibers; when inhibited, those fibers fail to form. Similarly, nkx1-1 marks the circular fibers, and when its function is reduced, they do not develop. Using these genes as molecular scalpels, Scimone and her co-authors could test the effects of ablating these distinct muscle groups on regeneration.
+
+Surprisingly, when the longitudinal fibers were removed, the results were dramatic: the worms can live quite normally, but when injured -- the head removed, for example -- they cannot regenerate the missing parts.
+
+"This is an amazing result -- it tells us that these longitudinal fibers are essential for orchestrating the regeneration program from the very beginning," says Scimone, who is a scientist in Reddien's lab.
+
+As the researchers dug deeper into the finding, they learned that the functions of two critical genes are disrupted when longitudinal fibers are missing. These genes, called notum and follistatin, are known for their fundamental roles in regeneration, controlling head-versus-tail decisions and sustained cell proliferation, respectively, following tissue injury.
+
+In addition to this essential role for longitudinal fibers, the research team also uncovered a key role for circular fibers. When these muscles are missing, planarians are able to regenerate missing body parts, but what regrows is abnormally patterned -- for example, two heads are regenerated within a single outgrowth, instead of one.
+
+These results underscore an important and previously unappreciated role for muscle -- widely known for its contractile properties -- in instructing the tissue regeneration program. The Whitehead researchers will continue to probe the role of different muscle cell types in planarian regeneration and also explore whether other animals with regenerative capabilities possess a similar muscle-localized program for conferring positional information.
+
+"It's hard to understand what limits humans' abilities to regenerate and repair wounds without first knowing what mechanisms are enabling some animals, like planarians, to do it so amazingly well," Reddien says.
+
+###
+
+This work was supported by NIH grant R01GM080639, HHMI, and the Eleanor Schwartz Charitable Foundation.
+
+Paper cited:
+
+Scimone ML, Cote LE, and Reddien PW. Orthogonal muscle fibers have different instructive roles in planarian regeneration. Nature. DOI 10.1038/nature24660
+
+Peter Reddien's primary affiliation is with Whitehead Institute for Biomedical Research, where his laboratory is located and all his research is conducted. He is also a Howard Hughes Medical Institute Investigator and a professor of biology at Massachusetts Institute of Technology.

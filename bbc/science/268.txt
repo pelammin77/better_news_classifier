@@ -1,0 +1,28 @@
+Uber in legal crosshairs over hack cover-up
+Uber is now the target of two state probes into its cover-up of a massive hack last year Two US states on Wednesday confirmed they are investigating Uber's cover-up of a hack at the ride-sharing giant that compromised the personal information of 57 million users and drivers.
+
+Uber purportedly paid data thieves $100,000 to destroy the swiped information—and remained quiet about the breach for a year.
+
+That decision evidently came despite a promise by the firm to "adopt leading data security protection practices" in a settlement with New York attorney general Eric Schneiderman.
+
+Schneiderman and his counterpart in Connecticut, George Jepsen, on Wednesday told AFP that Uber is the target of probes in their states over the hidden hack.
+
+"None of this should have happened, and I will not make excuses for it," Uber chief executive Dara Khosrowshahi, who took over at the company in August, said Tuesday.
+
+Two members of the Uber information security team who "led the response" that included not alerting users about the data breach were let go from the San Francisco-based company effective Tuesday, according to Khosrowshahi.
+
+The Uber chief said he only recently learned that outsiders had broken into a cloud-based server used by the company for data and downloaded a "significant" amount of information.
+
+Stolen files included names, email addresses, and mobile phone numbers for riders, and the names and driver license information of some 600,000 drivers, according to Uber.
+
+Uber paid the hackers $100,000 to destroy the data, not telling riders or drivers whose information was at risk, according to a source familiar with the situation.
+
+Co-founder and ousted chief Travis Kalanick was advised of the breach shortly after it was discovered, but it was not made public until Khosrowshahi learned of the incident, the source confirmed.
+
+In early 2016, Schneiderman announced a settlement with Uber stemming from an investigation into the company's handling and protection of riders' personal information.
+
+The probe was prompted by word of a hack, and by reports that Uber executives were able to track the locations of riders in real-time using a tool known internally as "God View."
+
+The settlement required Uber to better protect rider data, and pay $20,000 for failing to tell drivers about the 2014 data breach in a timely manner.
+
+Explore further: Should Uber users be worried about data hack?

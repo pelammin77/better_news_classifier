@@ -1,0 +1,30 @@
+Research points to diagnostic test for top cause of liver transplant in kids
+CINCINNATI - Biliary atresia is the most common cause of liver transplants for children in the United States. Now researchers report in Science Translational Medicine finding a strong biomarker candidate that could be used for earlier diagnosis and lifesaving treatments, possibly avoiding more invasive procedures like liver transplant.
+
+A research team led by Cincinnati Children's Hospital Medical Center identified molecular markers of the disease in blood samples that accurately diagnosed the condition with greater than 90% sensitivity and specificity in infants, according to Jorge Bezerra, MD, lead investigator and director of Gastroenterology, Hepatology and Nutrition.
+
+"From a broad screen of over 1,000 proteins, we found a unique protein associated with biliary atresia. Testing this protein as a diagnostic biomarker in two additional groups of babies to validate accuracy, it passed with flying colors," he said. "These findings have real implications for the diagnosis and care of these babies."
+
+Biliary atresia is a rare disease of the liver and bile ducts that occurs in infants. Liver cells produce a liquid called bile, which helps digest fat and carries waste products from the liver to the intestines. When a baby has biliary atresia, this flow is blocked. Bile becomes trapped inside the liver, quickly causing liver damage and eventually liver failure.
+
+Early diagnosis and prompt surgical intervention are the best predictors of treatment success, according to study authors. But current diagnostic methods are time-consuming and imprecise. Part of the challenge is biliary atresia has several potential causes, such as viruses, environmental toxins and a dysregulated immune system.
+
+This makes identification of faster, more effective and less invasive diagnostic methods challenging. But it also makes finding better diagnostics a high priority to allow earlier medical intervention, according to Bezerra and his colleagues, including first author Chatmanee Lertudomphonwanit, MD, of Cincinnati Children's and Ramathibodi Hospital (Mahidol University) in Bangkok, Thailand.
+
+Blood Proteomics
+
+To look for molecules involved in the biliary atresia disease process, researchers analyzed the blood of 70 biliary atresia patients to identify proteins that are significantly elevated when the disease is progressing. To do this, they performed a large-scale proteomics analysis-essentially a search among over 1,000 proteins and their levels found in patients' blood. The lead biomarker they identified is matrix metalloproteinase-7 (MMP-7), an enzyme that breaks down tissues and is implicated in several disease processes.
+
+When researchers tested the diagnostic effectiveness of MMP-7 on its own, it had 97% sensitivity and 91% specificity for biliary atresia. Combining the use of MMP-7 with another blood test that is currently available, gamma-glutamil transpeptidase (GGT) further increased the diagnostic accuracy and decreased the risk of misdiagnose prior to the surgical intervention.
+
+The authors also performed what the researchers call proof-of-principal tests to investigate the role of MMP-7 in the onset of biliary injury in mouse models of the disease. The experiments showed that MMP-7 is released during bile duct injury to promote obstruction and subsequent problems.
+
+To further demonstrate whether MMP-7 damages bile duct tissues, the researchers used a pharmacologic inhibitor of the protein called Batimastat, which is approved only for laboratory research. This inhibition suppressed the onset of biliary atresia and decreased tissue injury in mouse models.
+
+Next Steps
+
+Future areas of studies will include validation in additional population and the development of an assay that allows MMP-7 to be quantified and used in the clinic as a readily available test for early diagnosis. Bezerra will also design strategies to measure MMP-7 as a monitor of liver disease worsening toward cirrhosis. He said it will be "intriguing" to determine whether Batimastat's success in suppressing the disease in mice points to future treatments to target pathways linked to the enzyme.
+
+###
+
+The study was made possible in part because of the support from the Childhood Liver Disease Research Network, a consortium funded by the National Institutes of Health (NIH), which provided invaluable blood samples and biochemical data enrolled into approved studies. Funding support for the study came from the Junior Cooperative Society of Cincinnati Children's Hospital Medical Center, the NIH (DK-64008, DK-83781) and the Integrative Morphology and the Gene Analysis Cores of the Digestive Health Center at Cincinnati Children's (DK-78392).

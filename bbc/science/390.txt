@@ -1,0 +1,40 @@
+A Bolt from the Brown: Why Pollution May Increase Lightning Strikes
+In Greek mythology, Zeus had dominion over the creation of lightning. Thousands of years later humans have begun to assume that role. Scientists have already linked aerosol emissions to increases in lightning over areas of the Amazon prone to forest fires (pdf) as well as regions of China with thick air pollution. The clearest example yet of humanity’s influence on atmospheric electrostatic discharges, however, surfaced recently when researchers discovered dense trails of lightning in the soot-filled skies over two of the world’s busiest shipping routes in the Indian Ocean and South China Sea.
+
+Poring over 12 years of detailed data, atmospheric scientists Joel Thornton at the University of Washington, postdoc Katrina Virts of NASA Marshall Space Flight Center and their colleagues found lightning flashes occur nearly twice as often directly above heavily trafficked shipping lanes as they do elsewhere over the ocean. The increased frequency of lightning follows the exhaust from ships and cannot be explained by meteorological factors such as winds or the atmosphere’s temperature structure, according to a study, published in Geophysical Research Letters in September.
+
+The effect was easier to see over water than land because, in general, the atmosphere above the oceans is relatively low in aerosols—tiny liquid or solid particles that float in the air. The team noticed a greater density of lightning in locations where ships blast emissions, including sulfur and nitrogen oxides, into the air. Then the researchers tracked instances of lightning using the World Wide Lightning Location Network (WWLLN)—a system of acoustic sensors that detect electrical disturbances all around the globe.
+
+Other experts praised the finding. “I really do think [the new study is] about the best single piece of evidence that aerosol is an important player in electrification,” says Earle Williams, a physical meteorologist at Massachusetts Institute of Technology who was not involved in the research.
+
+Known Unknowns
+
+Even as the evidence of humanity’s role in generating lightning mounts, the proposed correlations create more questions than they answer. Why would aerosols have this effect? And are there ways of analyzing clouds that can help predict future lightning strikes?
+
+Lightning is a natural feature of storms that occurs when certain conditions are met. Particles in a cloud rub together, gathering opposite charges that eventually separate into positive and negative regions. These two poles create a space across which a transfer of charge—or lightning bolt—may then occur. Sometimes the bolts transmit the charge to the ground and lightning strikes.
+
+But we are now learning the amount of lightning generated may be influenced by factors that go beyond natural meteorology, including aerosols. Other recent studies have given credence to the idea aerosols are linked to more lightning. Since Thornton’s and his colleagues’ study was published, Ilan Koren and Orit Altaratz at the Weizmann Institute of Science in Israel and colleagues have found, using the WWLLN, that more intense lightning is connected with aerosol sources over land. “We were surprised to see how consistent the results are globally,” Altaratz says. The effect, she adds, appears over large continental regions “on a global scale.”
+
+Lightning can damage buildings and vehicles and is responsible for thousands of deaths every year (pdf), many of them in developing countries. It may be premature to suggest a direct link between pollution and electrical destruction, but keeping an eye on increased lightning activity could be helpful to those working on preventive measures
+
+Cloud Microphysics
+
+Scientists have some idea of how aerosols change a cloud’s inner workings but the microphysics of charge separation and lightning generation are still not fully understood.
+
+Cloud droplets form when water vapor condenses onto aerosols. If there are lots of aerosols, that means there are more condensation sites—called cloud condensation nuclei—so the water is distributed among them to make smaller droplets. These little droplets are especially light and so it is easier for them to rise to higher levels of the cloud on thermal updrafts. They eventually freeze partially, forming what’s known as graupel, and begin colliding with ice crystals also floating in the cloud.
+
+Those collisions are what make lightning possible. It’s a classic example of creating an electric charge via friction—just like when you rub a balloon to create a static charge. But this is also where the story gets murky. As Williams points out, for example, it is not known why the graupel tend to become negatively charged and the ice crystals positively charged.
+
+A key question facing researchers is whether increased electrification is the result of more aerosols or an abundance of warm air. The hot air may, on its own, help the droplets rise to that crucial upper layer before they fall out of the cloud as rain. This is known as the thermodynamic effect.
+
+A 2013 computer simulation of this process found increased aerosols alone did result in more lightning due to ice crystal collisions, although at very large aerosol volumes the effect was muted. “At extreme aerosol contents, [the droplets were] too small,” says Ted Mansell at the National Oceanic and Atmospheric Administration, one of the study’s co-authors. They traveled through the air at slower speeds, meaning they may have been less likely to collide with ice crystals, rubbing against them and causing that all-important charge separation.
+
+The Aerosol Effect
+
+A comprehensive understanding of cloud microphysics—such as those complex interactions between graupel and ice crystals—may be some way off. But MIT’s Williams and Daniel Rosenfeld, an atmospheric scientist at The Hebrew University of Jerusalem, suggest that more accurately quantifying how many aerosols are present at the base of clouds could lead to a better understanding of aerosols’ impact on electrification. “Danny and I have had a long-standing argument going back 10 years,” Williams says. “I’ve been defending thermodynamics and he’s been defending aerosol—and I would say he’s gaining ground.”
+
+Rosenfeld and his students have developed an aerosol quantification method that uses satellite-based measurements of the infrared light reflected by clouds. Cloud droplets absorb certain wavelengths of light depending on their size, so noting which wavelengths are missing in readings reveals the size of the droplets present. It is a bit like knowing whether a gemstone appears to be a ruby or an emerald by analyzing the color of light reflected. Rosenfeld then divides the total volume of water in the cloud by the droplet size to reveal an estimate of the total number of cloud droplets. Additional measurements help estimate the effect of hot air updrafts. Rosenfeld co-authored a 2016 paper describing that approach.
+
+If aerosol quantities are known, they can of course be compared with how much lightning is later produced by the cloud in question. Rosenfeld and his colleagues are now working on a project to do exactly that by studying aerosol concentrations over Houston, where the team also has access to a dedicated lightning-mapping array. “It gives us a whole new level of insight,” he says.
+
+Clouds remain complex and mysterious systems. Scientists are gradually discovering how they work—and what factors influence the creation of lightning, one of nature’s more dramatic calling cards. That human beings may take some credit for the generation of those bolts may come as something of a surprise, but future measurements will reveal the true significance of the role we play. One thing is certain: Zeus is may be off the hook.

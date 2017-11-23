@@ -1,0 +1,30 @@
+NIH scientists and collaborators find prion protein in skin of CJD patients
+National Institutes of Health (NIH) scientists and collaborators at Case Western Reserve University School of Medicine have detected abnormal prion protein in the skin of nearly two dozen people who died from Creutzfeldt-Jakob disease (CJD). The scientists also exposed a dozen healthy mice to skin extracts from two of the CJD patients, and all developed prion disease. The study results, published in Science Translational Medicine, raise questions about the possible transmissibility of prion diseases via medical procedures involving skin, and whether skin samples might be used to detect prion disease. Researchers from NIH's National Institute of Allergy and Infectious Diseases (NIAID) were co-leaders of the study, which included multiple collaborating groups. They stress that the prion-seeding potential found in skin tissue is significantly less than what they have found in studies using brain tissue.
+
+CJD is an incurable--and ultimately fatal--transmissible, neurodegenerative disorder in the family of prion diseases. Prion diseases originate when normally harmless prion protein molecules become abnormal and gather in clusters and filaments in the human body and brain. The reasons for this process are not fully understood. The accumulation of these clusters has been associated with tissue damage that leaves sponge-like holes in the brain. Human prion diseases include fatal insomnia; kuru; Gerstmann-Straussler-Scheinker syndrome; and variant, familial and sporadic CJD. Sporadic CJD is the most common human prion disease, affecting about one in one million people annually worldwide. Other prion diseases include scrapie in sheep; chronic wasting disease in deer, elk and moose; and bovine spongiform encephalopathy, or mad cow disease, in cattle.
+
+Most people associate prion diseases with the brain, although scientists have found abnormal infectious prion protein in other organs, including the spleen, kidney, lungs and liver. Sporadic CJD is known to be transmissible by invasive medical procedures involving the central nervous system and cornea, but transmission via skin had not been a common concern.
+
+Using a test for prion diseases known as Real-Time Quaking-Induced Conversion (RT-QuIC), scientists analyzed skin tissue from 38 patients--23 who had died from CJD, and 15 who died of other causes. They also collected brain tissue from the 23 CJD patients and from seven individuals who died of other causes. RT-QuIC correctly detected abnormal prion protein in each CJD patient sample tested and in none of the non-CJD group. The scientists noted that in the CJD group, the "seeding potential" for normal prion protein to convert to abnormal was 1,000 to 100,000 times lower in skin than brain tissue.
+
+The scientists then exposed humanized laboratory mice to either brain or skin extracts from two of the CJD patients. All 12 mice inoculated with brain tissue developed prion disease, as did all 12 inoculated with skin extracts, though disease in the skin group took about twice as long--roughly 400 days--to develop. The group also reported that brain degeneration in both groups of infected mice was similar.
+
+The study authors say the results should generate discussion about potential surgical instrument contamination and risk associated with procedures involving CJD patients.
+
+"Perspective is important when interpreting these outcomes," said Byron Caughey, Ph.D., a senior investigator at NIAID's Rocky Mountain Laboratories (RML) who helped oversee the study. "This study used humanized mice with tissue extracts directly inoculated into the brain, so the system was highly primed for infection. There is no evidence that transmission can occur in real-world situations via casual skin contact. However, the results raise transmission questions that warrant further study."
+
+The study also raises the possibility of using RT-QuIC with skin tissue samples as a diagnostic test for human and animal prion diseases. The test is widely used with samples of brain and spinal-fluid for the diagnosis of CJD, but such samples are not always available.
+
+"Our objective has always been to facilitate RT-QuIC testing using the most broadly available and least-invasive sample possible, whether that is blood, skin, nasal brushings, or other samples," Dr. Caughey said. His research group has developed RT-QuIC over the past decade at RML, where he also has trained many international colleagues to use and advance the test.
+
+Dr. Caughey's group is continuing its development of RT-QuIC applications, including further studies of when and where the pathological prion protein appears in skin, and how to effectively inactivate its infectious forms.
+
+###
+
+NIAID conducts and supports research--at NIH, throughout the United States, and worldwide--to study the causes of infectious and immune-mediated diseases, and to develop better means of preventing, diagnosing and treating these illnesses. News releases, fact sheets and other NIAID-related materials are available on the NIAID website.
+
+About the National Institutes of Health (NIH): NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit http://www. nih. gov .
+
+NIH...Turning Discovery Into Health®
+
+Reference: C Orru et al. Prion seeding activity and infectivity in the skin of sporadic Creutzfeldt-Jakob disease patients. Science Translational Medicine DOI: 10.1126/scitranslmed.aam7785 (2017).

@@ -1,0 +1,42 @@
+SSTL to build Canadian satellite constellation
+Image copyright DEIMOS IMAGING/AN URTHECAST COMPANY Image caption Brazilian fields: There is a growing market in imagery to assist farmers
+
+The Canadian UrtheCast company has formally placed a contract with UK firm SSTL to build its UrtheDaily Earth observation (EO) constellation.
+
+This network of spacecraft, due to launch in 2020, will image the entire global landmass (not including Antarctica) every 24 hours.
+
+One of its key uses will be in “smart agriculture” - taking pictures to help farmers better manage their crops.
+
+SSTL is a world leader in manufacturing satellite constellations.
+
+It has produced series of spacecraft for other EO interests, such as the RapidEye network now owned by Planet and the DMC-3 operation leased to the Chinese concern 21AT.
+
+SSTL is also in the consortium that makes multiple spacecraft for the European Commission’s satellite-navigation system, Galileo.
+
+The Guildford-based manufacturer has been working on the UrtheDaily concept with UrtheCast for a while.
+
+It would see, most probably, eight spacecraft launched into a polar orbit about 600km above the planet.
+
+Arranged like a pearl necklace, these satellites would follow each other, crossing the equator at 10:30 local time.
+
+They would gather something on the order of 140 million square km of land imagery a day (clouds permitting) at a resolution of about 5m.
+
+UrtheCast is a relatively new operator. It started out taking pictures of the Earth from the space station using British-built cameras, and has since acquired the Spanish Deimos satellites to complement its business.
+
+It plans also to launch in the 2020s a novel, high-resolution capability that would see eight pairs of optical and radar satellites circling the globe.
+
+This concept is called OptiSAR. Flying radar with optical enables pictures to be gathered in all weathers, even when there is cloud.
+
+The leading radar satellite would also map the cloud cover so that the trailing optical spacecraft could more efficiently target those regions of the Earth’s surface that were clearly observable.
+
+“We’ve been working with UrtheCast on OptiSAR for about three or four years now, and on UrtheDaily for about the the last year, year and a half," explained Luis Gomes from SSTL.
+
+"There is an identified need in the market for very high-quality imagery at medium resolution, around 5m, for precision agriculture and environmental monitoring.
+
+"We’d already been developing a design for this kind of system and then UrtheCast said it was the kind of thing they wanted.
+
+"The aim is to have all the satellites built by 2020. That’s a challenge, but it’s achievable,” he told BBC News.
+
+SSTL is about to launch a still and video-imaging satellite for the British EO analytics company Earth-i. The spacecraft, dubbed EiX2, will be the first in what is expected to be a large constellation of platforms.
+
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

@@ -1,0 +1,26 @@
+Lung cancer triggers pulmonary hypertension
+Shortness of breath and respiratory distress often increase the suffering of advanced-stage lung cancer patients. These symptoms can be triggered by pulmonary hypertension, as scientists at the Max Planck Institute for Heart and Lung Research in Bad Nauheim and the German Center for Lung Research found after examining more than 500 patients. The pulmonary hypertension observed is possibly due to immune and inflammatory processes triggered by cancer cells. Treatment could focus on this mechanism.
+
+Lung cancer has long since taken on the character of an epidemic: the disease is already responsible for more than a quarter of all cancer deaths, and the trend is rising. One reason for this is that the prognosis is poor: only one-fifth of patients are still alive five years after diagnosis. This is partly due to the fact that lung cancer is often not recognized until it is in an advanced stage. Another problem is that a variety of different lung cancers exist, each of which requires its own therapeutic concept. This, in turn, requires a better understanding of the disease.
+
+Doctors have noted that many patients with progressive lung cancer develop shortness of breath and respiratory distress. The same symptoms also occur in diseases such as pulmonary arterial hypertension. Scientists from the Max Planck Institute for Heart and Lung Research together with colleagues from the German Center for Lung Research therefore measured the diameter of the pulmonary artery of about 500 lung cancer patients using computer tomography. "We found thickening of the walls of the pulmonary artery in more than half the patients. This is a clear indication that these patients also suffer from pulmonary hypertension," says Rajkumar Savai, who headed the study.
+
+To identify the causes, the lung researchers analyzed three different forms of lung cancer in mice. "These were tumour types that grow at different rates and can be experimentally induced in the lungs of mice. All three mouse models showed signs of pulmonary hypertension as tumour growth progressed," says Soni Pullamsetti, the study's lead author.
+
+Inflammation in blood vessels could act as trigger
+
+But why does lung cancer often lead to pulmonary hypertension? "Neither in the patients nor in the mouse models were we able to detect any clots or cancer cells - both conceivable triggers - migrating into the vessel wall," explains Savai. However, the researchers did find that blood vessels located near tumours were infiltrated by a large number of immune cells.
+
+Further experiments showed that the immune cells release various chemical messengers, as is generally observed in inflammatory reactions. Conversely, pulmonary hypertension did not occur when the mice in the experiment lacked functioning immune cells. For the Bad Nauheim-based scientists, this is an indication that inflammatory processes triggered by lung cancer may be responsible for pulmonary hypertension.
+
+Werner Seeger, Director at the Max Planck Institute and Director of the Medical Unit at Giessen-Marburg University Hospital, hopes the team's findings will lead to approaches for developing a treatment. "Previously unknown abnormalities in blood vessels, triggered by inflammatory processes in lung tumours, could be the underlying cause of the symptoms observed in patients." New therapeutic approaches could start here."
+
+###
+
+Original Publication
+
+S. Pullamsetti, B. Kojonazarov, S. Storn, H. Gall, Y. Salazar, J. Wolf, A. Weigert, N. El-Nikhely, A. Ghofrani, G. Krombach, L. Fink, S. Gattenlöhner, U. Rapp, R. Schermuly, F. Grimminger, W. Seeger, R. Savai
+
+Lung cancer-associated pulmonary hypertension: role of microenvironmental inflammation based on tumor cell-immune cell crosstalk.
+
+Sci. Transl. Med. 9, eaai9048 (2017); 15 November, 2017

@@ -1,0 +1,28 @@
+Alcohol consumption and metabolic factors act together to increase the risk of severe liver disease
+A new study provides insights into the interaction between alcohol consumption and metabolic factors in predicting severe liver disease in the general population. The findings, which are published in Hepatology, indicate that multiple components of the metabolic syndrome affect the risk of severe liver disease in conjunction with alcohol consumption at levels that are typically thought to not cause liver damage.
+
+Worldwide there is an increasing burden of liver disease and liver cancer. The metabolic syndrome and heavy alcohol consumption are both associated with increased risks of liver disease, although only a minority of patients with early-stage liver disease (e.g. fatty liver) develop liver failure or liver cancer. Few general population studies have analyzed metabolic predictors of such severe liver complications.
+
+To investigate, Fredrik Åberg, MD, PhD, of the Helsinki University Hospital in Finland, and his colleagues studied which metabolic factors best predict severe liver complications. Their analysis included 6732 individuals without liver disease who participated in the Finnish population-based Health 2000 Study (2000-2001). The researchers analyzed follow-up data on liver-related hospital admissions, mortality, and liver cancer from national registers until 2013.
+
+Eighty-four individuals experienced a severe liver event during follow-up. Factors predictive of liver events were older age, female gender, alcohol use, diabetes, LDL cholesterol, and insulin resistance. Among individuals who consumed higher amounts of alcohol (average alcohol use ?210 g/week for men, ?140 g/week for women), diabetes was the only significant predictor. Among those who consumed less or no alcohol, older age, alcohol use, smoking, abdominal obesity, LDL cholesterol, and insulin resistance were significant predictors.
+
+Dr. Åberg noted that alcoholic liver disease (ALD) and non-alcoholic liver disease (NAFLD) are currently considered separate entities, distinguished from each other by an arbitrary threshold of average alcohol intake. This diagnostic approach assumes that alcohol intake does not affect the course of NAFLD and that the metabolic syndrome--the hallmark of NAFLD--is not a factor in ALD. This study reveals that alcohol is a relevant risk factor even when alcohol consumption is within the limits currently used to separate NAFLD from ALD.
+
+"We suggest that liver disease should perhaps not be considered in terms of mutually exclusive entities of ALD and NAFLD, because in a large number of patients with liver disease, the effect of alcohol is difficult, and sometimes impossible, to separate from the effect of metabolic factors," said Dr. Åberg. "Our study brings support to this suggestion and calls for a more holistic approach, where alcohol use and metabolic factors are taken into account at the same time in order to identify individuals with a high risk for severe liver complications." For a comprehensive liver-risk assessment, lipid abnormalities, abdominal obesity, insulin resistance, diabetes, and alcohol use should all be considered at the same time.
+
+Dr. Åberg also stressed that liver disease is often discovered at late stages. "Our findings can help improve risk assessment in the general population to detect at early stages individuals who are at high risk of progressive liver disease. Better risk assessment can help target a more intense liver diagnostic work-up, treatment, and a closer follow-up of such high-risk individuals."
+
+###
+
+Additional Information
+
+Article: "Interaction between alcohol consumption and metabolic syndrome in predicting severe liver disease in the general population." Fredrik Åberg, Jaana Helenius-Hietala, Pauli Puukka, Martti Färkkilä, and Antti Jula. Hepatology; Published Online: November 22, 2017 (DOI: 10.1002/hep.29631).
+
+URL Upon Publication: http://doi. wiley. com/ 10. 1002/ hep. 29631
+
+About the Journal
+
+Hepatology is the premier publication in the field of liver disease, publishing original, peer-reviewed articles concerning all aspects of liver structure, function and disease. Each month, the distinguished Editorial Board monitors and selects only the best articles on subjects such as immunology, chronic hepatitis, viral hepatitis, cirrhosis, genetic and metabolic liver diseases and their complications, liver cancer, and drug metabolism. Hepatology is published on is published by Wiley on behalf of the American Association for the Study of Liver Diseases (AASLD). For more information, please visit http://wileyonlinelibrary. com/ journal/ hep .
+
+About Wiley

@@ -1,0 +1,28 @@
+Gearing up for the internet of things
+Telecommunications is gearing up for explosive growth of the internet of things (IoT), the massive collection of devices — smart watches, smart thermostats, traffic and energy monitors, etc. — that will be given network connectivity so that they can communicate and exchange data.
+
+The big question raised by the IoT is capacity: How can a telecommunications network with limited spectrum serve thousands or millions of devices at once? Existing networks cannot support the addition of exponentially more devices, nor the near-instantaneous connection speed necessary for machine-to-machine communication. The next-generation network, 5G, must be designed to meet these requirements.
+
+How to prepare global wireless networks for the IoT was the topic of discussion at the National Science Foundation Workshop on Low-Latency Wireless Random-Access, hosted by MIT’s Laboratory for Information and Decision Systems (LIDS) and sponsored by the National Science Foundation (NSF) and the Center for the Science of Information (CSoI). The two-day event took place on the MIT campus in early November, and more than 20 speakers from MIT, other universities, and companies including Qualcomm, SigFox, and Huawei presented their work on how to solve the network challenges created by the IoT.
+
+“Developing solutions for massive multi-access wireless communications is a fascinating, domain-spanning challenge for researchers with considerable practical applications,” said MIT associate professor and LIDS faculty member Yury Polyanskiy, who organized the workshop.
+
+The IoT will transform industries such as agriculture, transportation, utilities, athletics, and more by introducing smart devices and many networked monitors. The monitors will provide live environmental feedback, which the devices can use to optimize their functions. Determining 5G standards and protocols that will allow these transformative technological developments is a complex undertaking.
+
+There are numerous hurdles to redesigning wireless infrastructure for the IoT. First, current networks are optimized for a relatively small set of users, mostly human, sending large amounts of data — a phone call, a video — in a continuous stream, with different connections centrally organized. To accommodate the IoT, networks will have to manage decentralized, intermittent transmission of many small data packets from many, many more users, mostly machines.
+
+This vast increase in machines on the network will lead to more interference, which causes latency or loss of connectivity. Just like people have trouble getting a call through at a large event where there are too many other people on their phones, machines will have trouble sending their data if the network gets overloaded with devices needing connectivity. Devices that spend too much time searching for a working connection will also wear out their batteries, an issue for IoT monitors that are meant to be very low energy and low cost.
+
+Another big challenge for the IoT is that it requires extremely low latency, or lag. As anyone who has used the internet knows, data don't always transmit at the speed you want them to. And although a half-loaded video or delayed text may be a pain for humans, for machines even a few milliseconds of lag can have serious consequences. A smart car interpreting traffic data, for instance, cannot afford any lag. This is why the goal for 5G is an ambitious one millisecond latency between devices.
+
+These issues were discussed at length during the workshop. Two sessions were dedicated to information theory, with academic speakers sharing their models for better massive machine-type communications. Sessions also covered topics including reliability and security.
+
+“We don’t have one thing to solve, we have many things to solve,” said the first speaker of the event, Christophe Fourtet, co-founder and chief science officer of telecommunications company SigFox.
+
+The workshop provided a somewhat rare opportunity for academia and industry to exchange ideas, as these communities are often siloed from each other.
+
+“Academics played a major role in establishing early telecommunication standards, but this has become more rare recently. With 5G calling for radically new simple network-access methods, though, it’s a great opportunity for academics to play a big role again,” said Polyanskiy.
+
+Presenter Swarun Kumar, assistant professor at Carnegie Mellon University and an MIT alumnus, echoed Polyanskiy’s sentiments. “The time from academic research to industry in this field is too slow,” Kumar said. He made an appeal to the members of industry present at the workshop to reach out to him and other academics, noting that they could solve problems more efficiently together. Kumar presented a local network that he and colleagues at Carnegie Mellon had implemented around the campus as a proof-of-concept for their innovations to network infrastructure.
+
+After each set of presentations, speakers returned to the front of the room for a panel Q&A, and in between sessions, speakers and attendees had a chance to mingle and talk over refreshments. The event organizers affirmed that these moments were some of the most valuable of the workshop: a chance for everyone present to open up dialogue and, perhaps, plant the seeds of collaborations that will build a better network.

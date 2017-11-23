@@ -1,0 +1,62 @@
+Skin Cancers Rise, Along With Questionable Treatments
+Dermatology — a specialty built not on flashy, leading edge medicine but on thousands of small, often banal procedures — has become increasingly lucrative in recent years. The annual dermatology services market in the United States, excluding cosmetic procedures, is nearly $11 billion and growing, according to IBISWorld, a market research firm. The business potential has attracted private equity firms, which are buying up dermatology practices around the country, and installing crews of lesser-trained practitioners — like the physician assistants who saw Mr. Dalman — to perform exams and procedures in even greater volume.
+
+The vast majority of dermatologists care for patients with integrity and professionalism, and their work has played an essential role in the diagnosis of complex skin-related diseases, including melanoma, the most dangerous form of skin cancer, which is increasingly caught early.
+
+But while melanoma is on the rise, it remains relatively uncommon. The incidence of basal and squamous cell carcinomas of the skin, which are rarely life-threatening, is 18 to 20 times higher than that of melanoma. Each year in the United States more than 5.4 million such cases are treated in more than 3.3 million people, a 250 percent rise since 1994.
+
+The New York Times analyzed Medicare billing data for dermatology from 2012 through 2015, as well as a national database of medical services maintained by the American Medical Association that goes back more than a decade. Nearly all dermatologic procedures are performed on an outpatient, fee-for-service basis.
+
+The Times analysis found a marked increase in the number of skin biopsies per Medicare beneficiary in the past decade; a sharp rise in the number of physician assistants, mostly unsupervised, performing dermatologic procedures; and large numbers of invasive dermatologic procedures performed on elderly patients near the end of life.
+
+In 2015, the most recent year for which data was available, the number of skin biopsies performed on patients in the traditional Medicare Part B program had risen 55 percent from a decade earlier — despite a slight decrease in the program’s enrollment over all.
+
+Skin cancers are more common in older people, which means Medicare pays for much of the treatment. In 2015, 5.9 million skin biopsies on Medicare recipients were performed.
+
+Advertisement Continue reading the main story
+
+More than 15 percent of the biopsies billed to Medicare that year were performed by physician assistants or nurse practitioners working independently. In 2005, almost none were, said Dr. Brett Coldiron, a former president of the American Academy of Dermatology, who has studied the use of clinicians who are not physicians in medical practices.
+
+Dr. Coldiron, a dermatologist in Cincinnati, said he was skeptical of the growing use of such clinicians in the specialty. “Ads will say ‘See our dermatology providers,’” he said. “But what’s really going on is these practices, with all this private equity money behind them, hire a bunch of P.A.’s and nurses and stick them out in clinics on their own. And they’re acting like doctors.”
+
+Dermatology on Wheels
+
+Bedside Dermatology, a mobile practice in Michigan, sends clinicians to 72 nursing homes throughout the state for skin checks and treatment.
+
+Dr. Steven K. Grekin, a dermatologist, said that when he founded Bedside, many of the nursing home patients had not been examined by a dermatologist for several years.
+
+“We were seeing a real unmet need,” he said.
+
+In 2015, Bedside Dermatology’s traveling crews performed thousands of cryosurgeries — spraying liquid nitrogen on precancerous lesions with an instrument that resembles a blowtorch. Other spots on the nursing home patients’ skin were injected with steroids, or removed with minor surgery.
+
+Examining the 2015 Medicare billing codes of three physician assistants and one nurse practitioner employed by Bedside Dermatology, The Times found that 75 percent of the patients they treated for various skin problems had been diagnosed with Alzheimer’s disease. Most of the lesions on these patients were very unlikely to be dangerous, experts said, and the patients might not even have been aware of them.
+
+“Patients with a high level of disease burden still deserve and require treatment,” Dr. Grekin said. “If they are in pain, it should be treated. If they itch, they deserve relief.”
+
+Dr. Eleni Linos, a dermatologist and epidemiologist at the University of California, San Francisco, who has argued against aggressive treatment of skin cancers other than melanomas in the frail elderly, said that if a lesion was bothering a patient, “of course we would recommend treatment.” However, she added, many such lesions are asymptomatic.
+
+Advertisement Continue reading the main story
+
+Dr. Linos added that physicians underestimate the side effects of skin cancer procedures. Complications such as poor wound healing, bleeding and infection are common in the months following treatment, especially among older patients with multiple other problems. About 27 percent report problems, her research has found.
+
+“A procedure that is simple for a young healthy person may be a lot harder for someone who is very frail,” she said.
+
+The work of Bedside Dermatology reflects a wider tendency to diagnose and treat patients for skin issues near the end of life. Arcadia Healthcare Solutions, a health analytics firm, analyzed dermatologic procedures done on 17,820 patients over age 65 in the last year of life, and found that skin biopsies and the freezing of precancerous lesions were performed frequently, often weeks before death.
+
+Arcadia found that the same was true for Mohs surgery, a sophisticated procedure for basal and squamous cell skin cancers that involves slicing off a skin cancer in layers, with microscopic pathology performed each time a layer is excised until the growth has been entirely removed. Each layer taken is reimbursed separately.
+
+In 2015, one out of every five Mohs procedures reimbursed by Medicare was performed on a patient 85 or older, The Times found.
+
+Photo
+
+Rise of Physician Assistants
+
+Bedside Dermatology is owned by Advanced Dermatology and Cosmetic Surgery, the largest dermatology practice in the country, with a database of four million active or recently established patients. Last year, Harvest Partners, a private equity firm, invested a reported $600 million in the practice, known as ADCS.
+
+ADCS has its headquarters in Maitland, Fla., in a sleek suite of offices and cubicles the size of a football field. One morning early this year, the buzz of corporate expansion was everywhere. A delivery crew wheeled in a stack of cubicle partitions. Employees at a large phone bank scheduled appointments around the country. A transition team was preparing to visit a newly acquired practice in Pennsylvania, and Dr. Matt Leavitt, ADCS’s founder and chief executive, was congratulating his director of business development on snagging a sought-after recruit.
+
+In an email last week, Dr. Leavitt said the company currently has 192 physicians, but declined to confirm other numbers because ADCS is privately held. The company’s website advertises “180+ locations.” The website also lists 124 physician assistants. That is a 400 percent increase from 2008, according to web pages preserved by the Internet Archive’s Wayback Machine. ADCS offers a six-month fellowship program for physician assistants to provide additional training in dermatology.
+
+Advertisement Continue reading the main story
+
+“My number one goal would be to have people take skin cancer much more seriously than they have, especially baby boomers,” said Dr. Leavitt, a dermatologist. “And we’ve got to continue to work at getting better access for patients.”

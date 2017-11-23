@@ -1,0 +1,44 @@
+Growing teeth and a backbone: Studies trace early origins of skeletal tissues
+WOODS HOLE, Mass.-- Two new studies on the evolutionary origin of teeth and of vertebra further illuminate the human connection to marine organisms that goes back millions of years. Both studies in the little skate (Leucoraja erinacea) are published this week by J. Andrew Gillis and Katharine Criswell of the University of Cambridge, U.K., who conduct research as Whitman Center Scientists at the Marine Biological Laboratory (MBL), Woods Hole.
+
+In the first paper in Proceedings of the National Academy of Sciences, Gillis and Criswell confirm the long-held assumption that teeth and the scales of sharks and skates have a common evolutionary origin. Moreover, their findings suggest that ancient fishes had multiple layers of external armor that evolved into the differing scale types we see today.
+
+The second paper, in Proceedings of the Royal Society B, narrows in on backbone formation in a common ancestor between all jawed vertebrates.
+
+Where did you get those teeth?
+
+Fish scales and teeth are similar in structure, material and genetic expression. The similarities are so strong that researchers have long assumed the two must be related. But research by others has shown that zebrafish scales are more related to the musculoskeletal system, rather than the tissues that form teeth. Gillis, however, thought the question needed more consideration.
+
+"The scales of sharks and skates are very different from the scales of zebrafish [and other] types of bony fish," he said. "We wondered if they may be a different type of scale, and have a different embryonic origin more closely related to teeth."
+
+Teeth are formed from a special group of cells located at the top (or "crest") of the neural tube, the embryonic tissue that eventually becomes the brain and spinal cord. Gillis hypothesized that these neural crest cells also formed the scales of sharks and skates.
+
+At the MBL, the team injected the neural tube of embryonic skates with a fluorescent dye that adhered to neural crest cells. That dye stayed in the cells as they divided and moved from the neural tube to form different parts of the skate's body. The cells that became scales were indeed marked by fluorescent dye, indicating they came from the neural crest cells.
+
+The Gillis lab's research, paired with the earlier finding that scales in some bony fishes are more related to the musculoskeletal system than to teeth, paints an interesting picture of the evolution of scales.
+
+"Ancestrally, jawed vertebrates...had big bony armor on the outside of their bodies composed of the same kind of material that teeth are made of, called dentine," Gillis said. Underneath that dentine armor was another, bonier layer. He suggests that different layers of this armor were lost in different fishes, with the dentine layer becoming the scales of sharks and skates and the bony layer becoming the scales of animals such as zebrafish.
+
+He hopes to further explore this idea in bichirs, a group of fish that retained both layers. "It just goes to show that not all scales are created equal," he said.
+
+Growing a spine
+
+In the second paper, Criswell and Gillis focused on the evolution of vertebral tissue.
+
+"The backbone provides protection to the spinal cord and support for the limbs and head. But despite this important role, the shape and construction of the backbone varies considerably between different animals," said Criswell. "This variation made us wonder how the earliest vertebrates built their backbones."
+
+In all land vertebrates (including humans), spines form from only one group of cells called somites. Ray-finned fishes, however, form their spine from both somites and a separate cell population called chordoblasts. Criswell and Gillis decided to study spinal development in skates, which are cartilaginous fishes--a distant relative of both land vertebrates and ray-finned fishes.
+
+Working at the Marine Biological Laboratory, Criswell used fluorescent cell tracking to determine that skates form their spines from somites alone. Since two of the three related groups use only somites in vertebral development, Criswell concluded that the common ancestor for all jawed vertebrates had a backbone derived from somites. Ray-finned fishes later evolved a slightly different method of spinal formation.
+
+"It is interesting to think that backbone development in sharks and skates is more similar to humans than it is to bony fishes like zebrafish and salmon. It refutes the old notion of sharks and skates as 'primitive' fishes," said Criswell. "As we found here, those developmental processes are still used to build the skeletons of many vertebrate groups, including humans."
+
+###
+
+Citations:
+
+J. Andrew Gillis, Els C. Alsema, and Katharine E. Criswell (2017) Trunk neural crest origin of dermal denticles in a cartilaginous fish. Proc. Nat. Acad. Sci. USA. DOI: 10.1073/pnas.1713827114
+
+Katharine E. Criswell, Michael I. Coates, and J. Andrew Gillis (2017) Embryonic origin of the gnathostome vertebral skeleton. Proc. R. Soc. B. DOI:10.1098/rspb.2017.2121
+
+The Marine Biological Laboratory (MBL) is dedicated to scientific discovery - exploring fundamental biology, understanding marine biodiversity and the environment, and informing the human condition through research and education. Founded in Woods Hole, Massachusetts in 1888, the MBL is a private, nonprofit institution and an affiliate of the University of Chicago.

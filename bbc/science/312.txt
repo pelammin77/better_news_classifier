@@ -1,0 +1,36 @@
+Schizophrenia drug development may be 'de-risked' with new research tool
+New York, November 22, 2017--Researchers at Columbia University Medical Center (CUMC) and the New York State Psychiatric Institute (NYSPI) have identified biomarkers that can aid in the development of better treatments for schizophrenia.
+
+The findings were published online today in JAMA Psychiatry.
+
+In the past two decades, the pharmaceutical industry has spent over $2.5 billion to develop new schizophrenia drugs. But while many appear to be effective in animal models, most fail when tested in late-stage human clinical trials.
+
+"While a great deal of money has been invested in developing schizophrenia drugs, a similar investment hasn't been made to develop biomarkers that could improve the reliability and consistency of test results," said Daniel Javitt, MD, PhD, professor of psychiatry and Director of the Division of Experimental Therapeutics at CUMC, Director of schizophrenia research at the Nathan Kline Institute for Psychiatric Research, and Co-Principal Investigator of the study.
+
+The National Institute of Mental Health's FAST Initiative, which was established to validate the use of biomarkers to facilitate drug development, aligns with the 21st Century Cures Act passed last year by Congress. The legislation authorized the U.S. Food and Drug Administration to approve treatments based on biomarker data alone, and created a formal Biomarker Qualification Program.
+
+In this context, FAST-Psychosis researchers identified biomarkers using MRI applications to support the development of drugs that target the glutamate system. Previous studies have shown that drugs such as phencyclidine (PCP or "angel dust") and ketamine, which block glutamate receptors, cause schizophrenia-like symptoms in healthy volunteers.
+
+The researchers evaluated three potential biomarkers for detecting the effects of ketamine on human brain function. The largest effects were observed with a biomarker measuring increases in blood flow in the frontal regions of the brain. This response was detected consistently among individuals who were briefly exposed to ketamine, and reliably distinguished them from those who had been given a placebo. Another measure of the concentration of glutamate/glutamine was also sensitive to ketamine brain effects.
+
+Overall, the biomarkers were successful in identifying over 90 percent of individuals who had received ketamine, and differentiating them from all of those in the placebo group.
+
+"These results enable us to determine whether potential treatments will be effective against patients' symptoms by testing them first in healthy volunteers and defining the best doses based on objective physiological data before conducting costly clinical trials," said Jeffrey Lieberman, MD, the Lawrence C. Kolb Professor and Chairman of the Department of Psychiatry at CUMC, and Principal Investigator of this study.
+
+If the biomarkers are approved by the FDA, the developments of this study will be the first objective biomarkers registered to permit approval of new glutamate-modulating treatments for schizophrenia.
+
+###
+
+The paper is titled, "Multicenter Validation Study of Biomarkers for Glutamate-Targeted Drug Development in Psychotic Disorders: A randomized clinical trial."
+
+The other contributors are Cameron S. Carter (University of California at Davis, Davis, CA), John H. Krystal (Yale University, New Haven, CT), Joshua T. Kantrowitz (CUMC), Ragy R. Girgis (NYSPI), Lawrence S. Kegeles (NYSPI), John D. Ragland (UC Davis), Richard Maddock (UC Davis), Tyler A. Lesh (UC Davis), Costin Tanase (UC Davis), Philip R. Corlett (Yale), Douglas L. Rothman (Yale), Graeme Mason (Yale), Maolin Qiu (Yale), James Robinson (Nathan Kine Institute for Psychiatric Research, Orangeburg, NY), William Z. Potter (National Institute of Mental Health, Rockville, MD), Marlene Carlson (CUMC), Melanie M. Wall (CUMC), Tse-Hwei Choo (CUMC), and Jack Grinband (CUMC).
+
+The study was supported by a government contract (HHSN271201200007I) to NYSPI/Research Foundation for Mental Hygiene, Inc.
+
+Conflicts of interest for the authors can be found in the paper.
+
+Columbia University Department of Psychiatry
+
+Columbia Psychiatry is among the top ranked psychiatry departments in the nation and has contributed greatly to the understanding and treatment of brain disorders. Co-located at the New York State Psychiatric Institute on the NewYork-Presbyterian Hospital/Columbia University Medical Center campus in Washington Heights, the department enjoys a rich and productive collaborative relationship with physicians in various disciplines at Columbia University's College of Physicians and Surgeons. Columbia Psychiatry is home to distinguished clinicians and researchers noted for their clinical and research advances in the diagnosis and treatment of depression, suicide, schizophrenia, bipolar and anxiety disorders, eating disorders, substance use disorders, and childhood psychiatric disorders.
+
+Columbia University Medical Center provides international leadership in basic, preclinical, and clinical research; medical and health sciences education; and patient care. The medical center trains future leaders and includes the dedicated work of many physicians, scientists, public health professionals, dentists, and nurses at the College of Physicians and Surgeons, the Mailman School of Public Health, the College of Dental Medicine, the School of Nursing, the biomedical departments of the Graduate School of Arts and Sciences, and allied research centers and institutions. Columbia University Medical Center is home to the largest medical research enterprise in New York City and State and one of the largest faculty medical practices in the Northeast. The campus that Columbia University Medical Center shares with its hospital partner, NewYork-Presbyterian, is now called the Columbia University Irving Medical Center. For more information, visit cumc.columbia.edu or columbiadoctors.org.

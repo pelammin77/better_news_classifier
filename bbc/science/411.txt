@@ -1,0 +1,42 @@
+A Study on Fats That Doesn’t Fit the Story Line
+The Minnesota Coronary Experiment was a well-designed study that was conducted in one nursing home and six state mental hospitals from 1968 to 1973. More than 9,400 men and women, ages 20 to 97, participated. Data on serum cholesterol were available on more than 2,300 participants who were on the study diets for more than a year.
+
+At baseline, participants were getting about 18.5 percent of their calories from saturated fat, and about 3.8 percent from unsaturated fats. The intervention diet was considered a more “heart healthy” one. It encouraged a reduction in the amount of calories from saturated fats (like animal fats and butter) and more from unsaturated fats, particularly linoleic acids (like corn oil). The intervention diet lowered the percent of calories from saturated fats to 9.2 percent, and raised the percent from unsaturated fats to 13.2 percent.
+
+The average follow-up for these participants was just under three years. In that time, the total serum cholesterol dropped significantly more in those on the intervention diet (-31.2 mg/dL) than in those on the control diet (-5 mg/dL).
+
+There was, however, no decreased risk of death. If anything, there seemed to be an increased mortality rate in those on the “heart healthy” diet, particularly among those 65 years and older. More concerning, those who had the greater reduction in serum cholesterol had a higher rate of death. A 30mg/dL decrease in serum cholesterol was associated with a 22 percent increase in the risk of death from any cause, even after adjusting for baseline cholesterol, age, sex, adherence to the diet, body mass and blood pressure.
+
+Of course, this is only one study. It involved only institutionalized patients. Only about a quarter of the participants followed the diet for more than a year. The diets don’t necessarily look like what people really ate, then or now. But this is still a large, randomized controlled trial, and it’s hard to imagine we wouldn’t at least discuss it widely.
+
+Moreover, the researchers conducted a meta-analysis of all studies that looked at this question. Analyzed together, they still found that more people died on the linoleic-acid-rich diets, although the results were not statistically significant. Even in a sensitivity analysis, which included more studies, no mortality benefit could be found with a diet lower in saturated fats.
+
+It’s important to note that other meta-analyses both support and dispute this. A 2010 study argued that substituting unsaturated fats for saturated fats would reduce the rates of coronary heart disease. So did a 2015 Cochrane review. A 2014 study in Annals of Internal Medicine, though, showed the opposite.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+People’s reactions to this news have been much as you’d expect. Supporters of a diet low in saturated fat have called the new study an “interesting historical footnote that has no relevance to current dietary recommendations.” Others have said that if this research had been published when the study was over, “it might have changed the trajectory of diet-heart research and recommendations.”
+
+Advertisement Continue reading the main story
+
+This isn’t the first time that data from long ago have run against current recommendations. In 2013, an analysis was published of recovered data from the Sydney Diet Heart Study, a randomized controlled trial of a similar nature performed in men with a recent heart attack or angina. Although the study was done from 1966 to 1973, results weren’t available publicly until three years ago. It, too, found that a diet higher in unsaturated fats led to a higher rate of death from heart disease.
+
+Why wasn’t this research published decades ago? It’s possible that modern computer technology allows us to do analyses that couldn’t be performed then. It’s possible that researchers tried, but were unable to get the results published.
+
+But it’s also possible that these results were marginalized because they didn’t fit with what was considered to be “truth” at the time. The two principal investigators on the Minnesota study were Ivan Frantz and Ancel Keys, the latter of whom may be the most influential scientist in promoting saturated fat as the enemy of heart health. (Mr. Keys died in 2004.)
+
+I’m not suggesting anything sinister. I’m sure that both these scientists absolutely believed that their prior epidemiologic work established that diets lower in saturated fat led to lower cholesterol levels and better health. Research consistently confirmed the former. When that lower cholesterol didn’t translate into actual outcomes like lower mortality, though, they must have been baffled.
+
+Like others today, they may have been able to rationalize the result away and decide that it “has no relevance.” Unfortunately, other, similar controlled trials seem to support the notion that the case against saturated fat isn’t as robust as many think.
+
+We all must be concerned about publication bias, which occurs when results of published studies are systematically different from results of unpublished studies. Research has shown that studies with statistically significant results are more likely to be published than those without. Studies with a low-priority topic or finding may be less likely to be published.
+
+One of the reasons that epidemiologic evidence often leads us to conclusions that can’t be supported is likely publication bias. Studies that find significant associations between foods (like meat) and scary findings (like cancer) are more likely to be published than those that don’t find those associations. When controlled trials are finally done, though, the scary results often can’t be replicated.
+
+But the most common reason research isn’t published is because researchers don’t write it up and submit it. That could be because they think it won’t be accepted. It could also be because they don’t believe the results. In the charged environment of nutrition research, when people’s careers are built on certain hypotheses, it’s hard not to imagine our biases creeping into play.
+
+Unfortunately, the health of Americans and others is at stake. Should we be eating more polyunsaturated fats? Should we be avoiding saturated fats? The honest answer is: I don’t know. Given my review of the evidence, I stand by my previous recommendations, which essentially focus more on foods and less on nutrients. I think the state of nutrition research in general is shockingly flawed.
+
+Advertisement Continue reading the main story
+
+It’s hard enough to debate the data we can see. Knowing there’s probably data out there that people haven’t shared makes everything much, much harder.
