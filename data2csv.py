@@ -29,6 +29,7 @@ for i in folders:
 data = {'article': article_text, 'category': article_category}
 df = pd.DataFrame(data)
 #print(df.head())
-
+if not os.path.exists('../csv'):
+    os.makedirs('../csv')
 print('create csv file')
 df.to_csv("../csv/data.csv",index=False)

@@ -16,6 +16,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, cohen_kappa_score, confusion_matrix
 import pickle
+import os
 from clean_data import clean_data
 
 
@@ -50,9 +51,12 @@ print("Confusion Matrix:\n", c_mat)
 print( "\nKappa: ",kappa)
 print("\nAccuracy: ",acc)
 
-with open('pkl/news_classifier.pkl','wb') as f:
+pkl_directory = "pkl"
+if not os.path.exists(pkl_directory):
+    os.makedirs(pkl_directory)
+with open(pkl_directory+'/news_classifier.pkl','wb') as f:
     pickle.dump(model,f)
 print("Model has saved file: pkl/news_classifier.pkl" )
-with open("pkl/vect.pkl", 'wb') as f:
+with open(pkl_directory+"/vect.pkl", 'wb') as f:
     pickle.dump(vect,f)
 print("Word vectors has saved file: pkl/vect.pkl")
