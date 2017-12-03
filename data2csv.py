@@ -27,6 +27,7 @@ for i in folders:
         article_category.append(i)
 
 data = {'article': article_text, 'category': article_category}
+print(data)
 df = pd.DataFrame(data)
 #print(df.head())
 if not os.path.exists('../csv'):
