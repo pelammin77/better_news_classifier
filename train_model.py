@@ -38,9 +38,10 @@ X_train, X_test, Y_train, Y_test = train_test_split(X,Y, test_size=0.20, random_
 
 print("training size", X_train.shape)
 print("Testing size:", X_test.shape)
+from sklearn.linear_model import PassiveAggressiveClassifier
 
-
-model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1)
+#model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
+model = PassiveAggressiveClassifier() # even better acc over 97%
 model.fit(X_train, Y_train)
 
 y_pred = model.predict(X_test)

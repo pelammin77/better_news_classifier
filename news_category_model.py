@@ -85,6 +85,46 @@ So you missed it. Maybe you're stuck in the office, traveling, at an ill-timed a
 If you weren't able to see one of the most anticipated and unifying events this country has witnessed in nearly a hundred years, don't worry. You won't have to wait an entire century until the next one -- just seven years. Another total solar eclipse will be visible in the United States on April 8, 2024.
 """
 
+
+article7 = """
+Charlie Austin scored his third goal in three games as Southampton salvaged a point from their south-coast derby at Bournemouth.
+
+Austin, who scored twice against Everton last month, swept home the equaliser just after the hour mark.
+
+The Cherries had taken the lead just before the break, when Scotland winger Ryan Fraser slotted a first-time effort past Fraser Forster.
+
+They had already had a penalty appeal turned down, with Adam Smith judged to have dived as Sofiane Boufal attempted to tackle him. Smith later told the media that referee Jon Moss apologised after the game and said it should have been a penalty.
+
+Saints improved markedly in the second half after manager Mauricio Pellegrino replaced James Ward-Prowse with Nathan Redmond.
+
+The England Under-21 winger - whose post-match conversation with Manchester City boss Pep Guardiola in midweek prompted much discussion - provided the pass for Austin to score.
+
+The point takes Southampton up to 11th in the Premier League, while Bournemouth move above Newcastle into 14th.
+Saints discover bite after Redmond introduction
+
+Pellegrino must have had a good reason to leave one of his most influential forwards out of the starting XI.
+
+Bar a couple of half-chances for Austin in the first half, the home defence coped comfortably with what threat the Saints offered.
+
+That changed after the break when Redmond replaced Ward-Prowse. Given a roving role behind Austin, he provided the thrust the visitors had been lacking.
+
+The key moment came in the 61st minute when he played a simple pass to Austin, who swept in past Asmir Begovic.
+
+Redmond also went close with a drive from 20 yards during a second half Southampton largely dominated.
+Does Forster deserve to go to Russia?
+
+Had it not been for Forster's brilliant first-half save it could have been a different outcome for Southampton.
+
+The 29-year-old has been criticised for some of his displays this season and did not feature in the last England squad.
+
+His excellent one-handed save to deny Jermain Defoe was as good as any of David de Gea's wonderful stops for Manchester United at Arsenal on Saturday. He then produced another good block to keep out Joshua King's stinging effort after the break.
+
+The former Celtic man has made more saves in the Premier League than any other English keeper this season - 15 - and aside from Burnley's Nick Pope he has the best save percentage of any of his rivals in the England squad.
+
+But will he be on the plane to Russia?
+"""
+
+
 """
 file: news_category_model.py 
 author Petri Lamminaho 
@@ -115,3 +155,4 @@ print( check_news_type(article3)) # should return politics # OK
 print(check_news_type(article4)) # # should return entertaiment # OK
 print(check_news_type(article5)) # should return tech # OK
 print(check_news_type(article6)) # should return science # OK
+print(check_news_type(article7)) # sport
