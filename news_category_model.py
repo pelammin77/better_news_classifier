@@ -140,6 +140,7 @@ from clean_data import clean_data
 def check_news_type(news_article):
     news_article = [' '.join([Word(word).lemmatize() for word in clean_data(news_article).split()])]
     features = vect.transform(news_article)
+
     return str(model.predict(features)[0])
 
 with open('pkl/news_classifier.pkl', 'rb') as f:
@@ -149,10 +150,10 @@ with open("pkl/vect.pkl", 'rb') as f:
     vect = pickle.load(f)
 
 ##test
-print(check_news_type(article1))# should return business # OK
-print(check_news_type(article2)) # should return sport # OK
-print( check_news_type(article3)) # should return politics # OK
-print(check_news_type(article4)) # # should return entertaiment # OK
-print(check_news_type(article5)) # should return tech # OK
-print(check_news_type(article6)) # should return science # OK
-print(check_news_type(article7)) # sport
+print(check_news_type(article1))
+print(check_news_type(article2))
+print( check_news_type(article3))
+print(check_news_type(article4))
+print(check_news_type(article5))
+print(check_news_type(article6))
+print(check_news_type(article7))

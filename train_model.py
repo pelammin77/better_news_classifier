@@ -14,6 +14,7 @@ from textblob import Word
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
+from sklearn import tree
 from sklearn.metrics import accuracy_score, cohen_kappa_score, confusion_matrix
 import pickle
 import os
@@ -40,17 +41,18 @@ print("training size", X_train.shape)
 print("Testing size:", X_test.shape)
 from sklearn.linear_model import PassiveAggressiveClassifier
 
-#model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
+model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
 #model = PassiveAggressiveClassifier() # even better acc over 97%
-model = RandomForestClassifier(100)
+#model = tree.DecisionTreeClassifier()
+
 model.fit(X_train, Y_train)
 
-y_pred = model.predict(X_test)
-c_mat = confusion_matrix(Y_test,y_pred)
-kappa = cohen_kappa_score(Y_test,y_pred)
-acc = accuracy_score(Y_test,y_pred)
-print("Confusion Matrix:\n", c_mat)
-print( "\nKappa: ",kappa)
+predict = model.predict(X_test)
+
+acc = accuracy_score(Y_test,predict)
+
+
+
 print("\nAccuracy: ",acc)
 
 pkl_directory = "pkl"

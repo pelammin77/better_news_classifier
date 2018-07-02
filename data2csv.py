@@ -4,7 +4,7 @@ author: Petri Lamminaho
 Module converts data txt file to pandas dataframe and create the csv file
 """
 
-import csv
+
 import pandas as pd
 import os
 import codecs
