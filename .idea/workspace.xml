@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c6b09f3e-b3a4-4774-858c-c05c96090458" name="Default" comment="" />
+=======
+    <list default="true" id="9ac84aea-1e5e-46ce-92f7-ffb40c5a8887" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data2csv.py" afterPath="$PROJECT_DIR$/data2csv.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news_category_model.py" afterPath="$PROJECT_DIR$/news_category_model.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_model.py" afterPath="$PROJECT_DIR$/train_model.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +22,13 @@
       <file leaf-file-name="train_model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train_model.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="384">
               <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+=======
+            <state relative-caret-position="208">
+              <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
               <folding>
                 <element signature="e#209#228#0" expanded="true" />
               </folding>
@@ -25,7 +39,11 @@
       <file leaf-file-name="data2csv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data2csv.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="858">
+=======
+            <state relative-caret-position="751">
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
               <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
               <folding />
             </state>
@@ -35,8 +53,13 @@
       <file leaf-file-name="news_category_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news_category_model.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="3666">
               <caret line="143" column="42" lean-forward="false" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="42" />
+=======
+            <state relative-caret-position="191">
+              <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
               <folding>
                 <element signature="e#13940#13953#0" expanded="true" />
               </folding>
@@ -66,8 +89,28 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>business</find>
+      <find>science</find>
+      <find>tech</find>
+      <find>tec</find>
+      <find>sport</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -76,11 +119,24 @@
         <option value="$PROJECT_DIR$/clean_data.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/data2csv.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/news_category_model.py" />
         <option value="$PROJECT_DIR$/train_model.py" />
       </list>
     </option>
   </component>
+=======
+        <option value="$PROJECT_DIR$/train_model.py" />
+        <option value="$PROJECT_DIR$/news_category_model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="843" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -96,6 +152,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,10 +182,25 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
+=======
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../big_data_checker" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projektit\Python_projects\Better_news_classifier\bbc" />
+    </key>
+  </component>
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -138,7 +213,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.train_model">
+=======
+  <component name="RunManager" selected="Python.news_category_model">
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,15 +359,25 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="train_model" type="PythonConfigurationType" factoryName="Python">
+=======
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="C:\Users\Petri\AppData\Local\conda\conda\envs\3.5\pythonw.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Better_news_cateryazier" />
@@ -298,16 +387,29 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="4">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.train_model" />
       <item index="1" class="java.lang.String" itemvalue="Python.data2csv" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.data2csv" />
+      <item index="1" class="java.lang.String" itemvalue="Python.train_model" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       <item index="2" class="java.lang.String" itemvalue="Python.news_category_model" />
       <item index="3" class="java.lang.String" itemvalue="Python.clean_data" />
     </list>
     <recent_temporary>
+<<<<<<< HEAD
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Python.news_category_model" />
         <item index="1" class="java.lang.String" itemvalue="Python.data2csv" />
         <item index="2" class="java.lang.String" itemvalue="Python.clean_data" />
+=======
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.news_category_model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.train_model" />
+        <item index="2" class="java.lang.String" itemvalue="Python.data2csv" />
+        <item index="3" class="java.lang.String" itemvalue="Python.clean_data" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +417,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="Fix project">
       <created>1533321967000</created>
       <option name="number" value="00001" />
@@ -323,16 +426,69 @@
       <updated>1533321967000</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac84aea-1e5e-46ce-92f7-ffb40c5a8887" name="Default" comment="" />
+      <created>1511289938278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511289938278</updated>
+    </task>
+    <task id="LOCAL-00001" summary="project in git">
+      <created>1511475247532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511475247532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added code that create csv and pkl folder">
+      <created>1511476222072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511476222072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added code that create csv and pkl folder">
+      <created>1512317056182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512317056182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change classifier to PassiveAgressivelinear Acc rises to over 97%">
+      <created>1513622837651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513622837651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BAck to the random forest">
+      <created>1528323759472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528323759472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30729166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23860021" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23860021" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23541887" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23860021" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -374,8 +530,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="Fix project" />
     <option name="LAST_COMMIT_MESSAGE" value="Fix project" />
+=======
+    <MESSAGE value="project in git" />
+    <MESSAGE value="added code that create csv and pkl folder" />
+    <MESSAGE value="change classifier to PassiveAgressivelinear Acc rises to over 97%" />
+    <MESSAGE value="BAck to the random forest" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAck to the random forest" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -763,6 +927,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/data2csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -775,16 +940,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3666">
           <caret line="143" column="42" lean-forward="false" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="42" />
+=======
+    <entry file="file://$PROJECT_DIR$/news_category_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
           <folding>
             <element signature="e#13940#13953#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/train_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+=======
+    <entry file="file://$PROJECT_DIR$/data2csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+>>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
           <folding>
             <element signature="e#209#228#0" expanded="true" />
           </folding>
