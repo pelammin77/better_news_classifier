@@ -44,7 +44,7 @@ print("Testing size:", X_test.shape)
 from sklearn.linear_model import PassiveAggressiveClassifier
 
 #model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
-model = MultinomialNB()# acc over 98%
+model = MultinomialNB()# acc over 98.1%
 #model = PassiveAggressiveClassifier() # even better acc over 97%
 #model = tree.DecisionTreeClassifier()
 
