@@ -14,10 +14,9 @@ from textblob import Word
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-<<<<<<< HEAD
 from sklearn.naive_bayes import MultinomialNB
-=======
->>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
+
+
 from sklearn import tree
 from sklearn.metrics import accuracy_score, cohen_kappa_score, confusion_matrix
 import pickle
@@ -46,12 +45,10 @@ print("training size", X_train.shape)
 print("Testing size:", X_test.shape)
 from sklearn.linear_model import PassiveAggressiveClassifier
 
-<<<<<<< HEAD
+
 #model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
 model = MultinomialNB()# acc over 98.1%
-=======
-model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
->>>>>>> b7a0445ac0a6ab203aaea0c666cb3f0067e4b6b0
+#model = RandomForestClassifier(n_estimators=300, max_depth=150,n_jobs=1) # accuracy over 96%
 #model = PassiveAggressiveClassifier() # even better acc over 97%
 #model = tree.DecisionTreeClassifier()
 
